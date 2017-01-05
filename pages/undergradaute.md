@@ -13,3 +13,11 @@ We host events with guest speakers from a variety of backgrounds. Lectures by fi
 
 Both graduate schools and prospective employers recognize that by studying religion, students engage with a wide variety of ideas, forms of communication and systems of social organization that are extremely useful in developing important professional skills.
 
+## Academic Offerings
+
+- [BA in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
+- [Religion Minor](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/minor-religion/)
+- [MA in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
+- [PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/)
+
+
