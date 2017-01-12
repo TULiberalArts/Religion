@@ -17,7 +17,7 @@ Students will encounter two broad categories of graduate courses at Temple. Firs
 
 After completing this program, students should be able think critically, write well and engage with diverse communities around the globe. Students leave the program with an appreciation of the diversity of religious expression and an understanding of some of the world’s most important traditions. Because virtually all of our students take our most popular course, Death and Dying, they are able to deal with the persistence of loss in their everyday lives and the lives of their family, friends, and community. Many of our graduates go on to become leaders in their communities. They are teachers, administrators, doctors, and lawyers.
 
-## DEGREES AND PROGRAMS OF STUDY
+## Degrees And Programs Of Study
 
 - [Master of Arts in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
 - [Doctor of Philosophy in Religion](http://www.cla.temple.edu/religion/graduate/doctor-of-philosophy/)
