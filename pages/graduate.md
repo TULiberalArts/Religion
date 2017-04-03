@@ -20,7 +20,7 @@ After completing this program, students should be able think critically, write w
 ## Degrees And Programs Of Study
 
 - [Master of Arts in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
-- [Doctor of Philosophy in Religion](http://www.cla.temple.edu/religion/graduate/doctor-of-philosophy/)
+- [Doctor of Philosophy in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
 
 The Department of Religion at Temple University offers a 30-credit master’s degree program designed for the following students:
 
