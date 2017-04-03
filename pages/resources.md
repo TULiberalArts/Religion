@@ -26,10 +26,10 @@ Dr. Jeremy Schipper<br/>
 
 **Administrator:**
 
-Belinda Wilson<br/>
-821 Ritter Annex<br/>
-[(215) 204-0472](tel:2152040472)<br/>
-[bwilson@temple.edu](mailto:bwilson@temple.edu)<br/>
+Maggie Cogswell
+1008A Gladfelter Hall
+[(215) 204-9209](tel:2152049209)
+[maggie.cogswell@temple.edu](maggie.cogswell@temple.edu)
 
 **Coordinator:**
 
