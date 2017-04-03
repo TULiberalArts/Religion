@@ -42,7 +42,7 @@ Linda Jenkins<br/>
 
 ## Undergraduate Resources
 
-- Changing your major Info for [CLA Advising Center](http://www.cla.temple.edu/advising/)
+- Info for changing your major: [CLA Advising Center](http://www.cla.temple.edu/advising/)
 - [Policies](http://bulletin.temple.edu/undergraduate/academic-policies/)
 
 ## Graduate Resources
