@@ -4,8 +4,6 @@ permalink: /research/
 layout: page
 published: true
 ---
-
-
 ## Associations And Affiliations
 
 ## Department Of Religion Graduate Student Association
