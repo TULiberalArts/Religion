@@ -5,38 +5,38 @@ layout: page
 published: true
 ---
 
-Chair:
+**Chair:**
 
-Dr. Khalid A. Y. Blankinship
-619 Anderson Hall
-[(215) 204-5543](tel:2152045543)
-[kblankin@temple.edu](mailto:kblankin@temple.edu)
+Dr. Khalid A. Y. Blankinship<br/>
+619 Anderson Hall<br/>
+[(215) 204-5543](tel:2152045543)<br/>
+[kblankin@temple.edu](mailto:kblankin@temple.edu)<br/>
 
-Undergraduate Chair:
+**Undergraduate Chair:**
 
-Dr. Mark Leuchter
-650 Anderson Hall
-[mark.leuchter@temple.edu](mailto:mark.leuchter@temple.edu)
+Dr. Mark Leuchter<br/>
+650 Anderson Hall<br/>
+[mark.leuchter@temple.edu](mailto:mark.leuchter@temple.edu)<br/>
 
-Graduate Chair:
+**Graduate Chair:**
 
-Dr. Jeremy Schipper
-613 Anderson Hall
-[jeremy.schipper@temple.edu](mailto:jeremy.schipper@temple.edu)
+Dr. Jeremy Schipper<br/>
+613 Anderson Hall<br/>
+[jeremy.schipper@temple.edu](mailto:jeremy.schipper@temple.edu)<br/>
 
-Administrator:
+**Administrator:**
 
-Belinda Wilson
-821 Ritter Annex
-[(215) 204-0472](tel:2152040472)
-[bwilson@temple.edu](mailto:bwilson@temple.edu)
+Belinda Wilson<br/>
+821 Ritter Annex<br/>
+[(215) 204-0472](tel:2152040472)<br/>
+[bwilson@temple.edu](mailto:bwilson@temple.edu)<br/>
 
-Coordinator:
+**Coordinator:**
 
-Linda Jenkins
-615 Anderson Hall
-[(215) 204-7973](tel:2152047973)
-[JenkinsL@temple.edu](mailto:JenkinsL@temple.edu)
+Linda Jenkins<br/>
+615 Anderson Hall<br/>
+[(215) 204-7973](tel:2152047973)<br/>
+[JenkinsL@temple.edu](mailto:JenkinsL@temple.edu)<br/>
 
 ## Resources are here to help!
 
