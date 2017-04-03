@@ -48,6 +48,6 @@ Elective opportunities and special topics courses include: Martyrs and Suicide; 
 
 ## Contacts/Advising
 
-Undergraduate Chair<br/>
+**Undergraduate Chair<br/>**
 Dr. Mark Leuchter<br/>
 [mleuchte@temple.edu](mailto:mleuchte@temple.edu)<br/>
