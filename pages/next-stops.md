@@ -15,7 +15,7 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 Our students have the flexibility to explore all of their interests – from the hu- manities and
 social sciences to business and the media arts.
 
-For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu).,
+For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu).
 
 ## Visit Us!
 
@@ -39,4 +39,3 @@ When you are ready to apply, submit your application online at [admissions.templ
 - **March 1**: FAFSA Financial Aid Application Deadline 
 - **November 1**: Transfer Deadline for Spring Semester
 - **June 1**: Transfer Deadline for Fall Semester
-
