@@ -38,6 +38,12 @@ Linda Jenkins<br/>
 [(215) 204-7973](tel:2152047973)<br/>
 [JenkinsL@temple.edu](mailto:JenkinsL@temple.edu)<br/>
 
+Jemina Quarles<br/>
+Academic Department Coordinator<br/>
+614 Anderson Hall<br/>
+[(215) 204-3663](tel:2152043663)<br/>
+[jemi@temple.edu](mailto:jemi@temple.edu)<br/>
+
 ## Resources are here to help!
 
 ## Undergraduate Resources
