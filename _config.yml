@@ -1,3 +1,5 @@
+
+
 ---
 # Program/Department Title
 title: Religion
@@ -25,9 +27,9 @@ address:
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
-  # Facebook - https://facebook.com/TempleUDoR
+  # Facebook - https://facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
-  facebook: TempleLiberalArts
+  facebook: TempleUDoR
   # Twitter - https://twitter.com/USERNAME
   twitter: TULiberalArts
   # Instagram - https://www.instagram.com/USERNAME
@@ -51,12 +53,12 @@ social:
 university:
   name: Temple University
   url: https://temple.edu/
-college: 
+college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 
 # Google Tag Manager OR Google Analytics
-google_analytics: 
+google_analytics:
 
 
 google_tag_manager: GTM-58ZL5B
