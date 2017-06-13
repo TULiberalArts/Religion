@@ -4,8 +4,46 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /undergraduate/
 layout: page
 published: true
----
+sidebar: true
+sidebar-content: 
+    <div class="course-box">
+        <b>Contact:</b>
+        <ul>
+        <b>Chair:</b><br/>
+          Dr. Khalid A. Y. Blankinship<br/>
+    619 Anderson Hall<br/>
+    <a href="tel:2152045543">(215) 204-5543</a><br/>
+    <a href="mailto:kblankin@temple.edu">kblankin@temple.edu</a><br/>
+    &nbsp;<br/> 
 
+    <b>Undergraduate Chair:</b><br/>
+    Dr. Mark Leuchter<br/>
+    650 Anderson Hall<br/>
+    <a href="mailto:mark.leuchter@temple.edu">mark.leuchter@temple.edu</a><br/>
+      &nbsp;<br/>
+
+    <b>Administrator:</b><br/>
+    Maggie Cogswell<br/>
+    1008A Gladfelter Hall<br/>
+    <a href="tel:2152049209">(215) 204-9209</a><br/>
+    <a href="mailto:maggie.cogswell@temple.edu">maggie.cogswell@temple.edu</a><br/>
+      &nbsp;<br/>
+
+    <b>Coordinators:</b><br/>
+    Linda Jenkins<br/>
+    615 Anderson Hall<br/>
+    <a href="tel:2152047973">(215) 204-7973</a><br/>
+    <a href="mailto:JenkinsL@temple.edu">JenkinsL@temple.edu</a><br/>
+      &nbsp;<br/>
+
+    Jemina Quarles<br/>
+    614 Anderson Hall<br/>
+    <a href="tel:2152043663">(215) 204-3663</a><br/>
+    <a href="mailto:jemi@temple.edu">jemi@temple.edu</a><br/>
+      &nbsp;<br/>
+      </ul>
+      </div>
+---
 ## Learn Outside The Classroom
 
 We host events with guest speakers from a variety of backgrounds. Lectures by filmmakers, journalists, musicians, writers, archaeologists and graphic artists regularly give students a direct window into major issues relating to religious communities and ideas.
