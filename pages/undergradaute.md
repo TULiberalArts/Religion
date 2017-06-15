@@ -5,45 +5,49 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: 
-    <div class="course-box">
-        <b>Contact:</b>
-        <ul>
-        <b>Chair:</b><br/>
-          Dr. Khalid A. Y. Blankinship<br/>
-    619 Anderson Hall<br/>
-    <a href="tel:2152045543">(215) 204-5543</a><br/>
-    <a href="mailto:kblankin@temple.edu">kblankin@temple.edu</a><br/>
-    &nbsp;<br/> 
+sidebar-content: > #
+  ### Contact Us
 
-    <b>Undergraduate Chair:</b><br/>
-    Dr. Mark Leuchter<br/>
-    650 Anderson Hall<br/>
-    <a href="mailto:mark.leuchter@temple.edu">mark.leuchter@temple.edu</a><br/>
-      &nbsp;<br/>
+  <hr>
 
-    <b>Administrator:</b><br/>
-    Maggie Cogswell<br/>
-    1008A Gladfelter Hall<br/>
-    <a href="tel:2152049209">(215) 204-9209</a><br/>
-    <a href="mailto:maggie.cogswell@temple.edu">maggie.cogswell@temple.edu</a><br/>
-      &nbsp;<br/>
+  **Chair:** <br/>
+  Dr. Khalid A. Y. Blankinship<br/>
+  650 Anderson Hall<br/>
+  [(215) 204-5543](tel:2152045543)<br/>
+  [kblankin@temple.edu](mailto:kblankin@temple.edu)<br/>
 
-    <b>Coordinators:</b><br/>
-    Linda Jenkins<br/>
-    615 Anderson Hall<br/>
-    <a href="tel:2152047973">(215) 204-7973</a><br/>
-    <a href="mailto:JenkinsL@temple.edu">JenkinsL@temple.edu</a><br/>
-      &nbsp;<br/>
+  <hr>
 
-    Jemina Quarles<br/>
-    614 Anderson Hall<br/>
-    <a href="tel:2152043663">(215) 204-3663</a><br/>
-    <a href="mailto:jemi@temple.edu">jemi@temple.edu</a><br/>
-      &nbsp;<br/>
-      </ul>
-      </div>
+  **Undergraduate Chair::** <br/>
+  Dr. Mark Leuchter<br/>
+  613 Anderson Hall<br/>
+  [mark.leuchter@temple.edu](mailto:mark.leuchter@temple.edu)<br/>
+  
+  <hr>
+
+  **Administrator:** <br/>
+  Maggie Cogswell<br/>
+  1008A Gladfelter Hall<br/>
+  [(215) 204-9209](tel:2152049209)<br/>
+  [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)<br/>
+  
+    <hr>
+
+  **Coordinators:** <br/>
+  Linda Jenkins<br/>
+  615 Anderson Hall<br/>
+  [(215) 204-7973](tel:2152047973)<br/>
+  [JenkinsL@temple.edu](mailto:JenkinsL@temple.edu)<br/>
+  
+    <hr>
+
+  **Administrator:** <br/>
+  Jemina Quarles<br/>
+  614 Anderson Hall<br/>
+  [(215) 204-3663](tel:2152043663)<br/>
+  [jemi@temple.edu](mailto:jemi@temple.edu)<br/>
 ---
+
 ## Learn Outside The Classroom
 
 We host events with guest speakers from a variety of backgrounds. Lectures by filmmakers, journalists, musicians, writers, archaeologists and graphic artists regularly give students a direct window into major issues relating to religious communities and ideas.
