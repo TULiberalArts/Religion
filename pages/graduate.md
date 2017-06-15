@@ -5,45 +5,49 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: 
-    <div class="course-box">
-        <b>Contact:</b>
-        <ul>
-        <b>Chair:</b><br/>
-          Dr. Khalid A. Y. Blankinship<br/>
-    619 Anderson Hall<br/>
-    <a href="tel:2152045543">(215) 204-5543</a><br/>
-    <a href="mailto:kblankin@temple.edu">kblankin@temple.edu</a><br/>
-    &nbsp;<br/> 
+sidebar-content: > #
+  ### Contact Us
 
-    <b>Graduate Chair:</b><br/>
-    Dr. Jeremy Schipper<br/>
-    613 Anderson Hall<br/>
-    <a href="mailto:jeremy.schipper@temple.edu">jeremy.schipper@temple.edu</a><br/>
-      &nbsp;<br/>
+  <hr>
 
-    <b>Administrator:</b><br/>
-    Maggie Cogswell<br/>
-    1008A Gladfelter Hall<br/>
-    <a href="tel:2152049209">(215) 204-9209</a><br/>
-    <a href="mailto:maggie.cogswell@temple.edu">maggie.cogswell@temple.edu</a><br/>
-      &nbsp;<br/>
+  **Chair:** <br/>
+  Dr. Khalid A. Y. Blankinship<br/>
+  619 Anderson Hall<br/>
+  [(215) 204-5543](tel:2152045543)<br/>
+  [kblankin@temple.edu](mailto:kblankin@temple.edu)<br/>
 
-    <b>Coordinators:</b><br/>
-    Linda Jenkins<br/>
-    615 Anderson Hall<br/>
-    <a href="tel:2152047973">(215) 204-7973</a><br/>
-    <a href="mailto:JenkinsL@temple.edu">JenkinsL@temple.edu</a><br/>
-      &nbsp;<br/>
+  <hr>
 
-    Jemina Quarles<br/>
-    614 Anderson Hall<br/>
-    <a href="tel:2152043663">(215) 204-3663</a><br/>
-    <a href="mailto:jemi@temple.edu">jemi@temple.edu</a><br/>
-      &nbsp;<br/>
-      </ul>
-      </div>
+  **Graduate Chair:** <br/>
+  Dr. Jeremy Schipper<br/>
+  613 Anderson Hall<br/>
+  [jeremy.schipper@temple.edu](mailto:jeremy.schipper@temple.edu)<br/>
+  
+  <hr>
+
+  **Administrator:** <br/>
+  Maggie Cogswell<br/>
+  1008A Gladfelter Hall<br/>
+  [(215) 204-9209](tel:2152049209)<br/>
+  [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)<br/>
+  
+    <hr>
+
+  **Coordinators:** <br/>
+  Linda Jenkins<br/>
+  615 Anderson Hall<br/>
+  [(215) 204-7973](tel:2152047973)<br/>
+  [JenkinsL@temple.edu](mailto:JenkinsL@temple.edu)<br/>
+  
+    <hr>
+
+  **Administrator:** <br/>
+  Jemina Quarles<br/>
+  614 Anderson Hall<br/>
+  [(215) 204-3663](tel:2152043663)<br/>
+  [jemi@temple.edu](mailto:jemi@temple.edu)<br/>
 ---
+
 ## Program Overview
 
 The Department of Religion offers full-time graduate programs leading to master’s (M.A.) and doctoral (Ph.D.) degrees. All applicants to the Graduate Program in Religion at Temple must apply either for admission to the M.A. or to the Ph.D. program, and a student’s admission will be to one or the other of these. Students admitted to the Ph.D. program directly may pick up the M.A. degree on the way to their Ph.D. when they have fulfilled the M.A. requirements. Students admitted only to the M.A. program may apply for the Ph.D. program separately upon completing their M.A.; such applications are considered on the same basis as all other new Ph.D. applications.
