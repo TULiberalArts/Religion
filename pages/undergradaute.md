@@ -6,46 +6,39 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Dr. Khalid A. Y. Blankinship  
+   619 Anderson Hall  
+   [(215) 204-5543](tel:2152045543)  
+   [kblankin@temple.edu](mailto:kblankin@temple.edu)  
+   
+   ___
+   
+   **Undergraduate Chair:**  
+   Dr. Mark Leuchter  
+   613 Anderson Hall    
+   [mark.leuchter@temple.edu](mailto:mark.leuchter@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Maggie Cogswell  
+   1008A Gladfelter Hall   
+   [(215) 204-9209](tel:2152049209)  
+   [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)  
+   
+   ___
 
-  <hr>
+   **Coordinators:**  
+   Linda Jenkins  
+   615 Anderson Hall    
+   [(215) 204-7973](tel:2152047973)   
+   [JenkinsL@temple.edu](mailto:JenkinsL@temple.edu)  
 
-  **Chair:** <br/>
-  Dr. Khalid A. Y. Blankinship<br/>
-  650 Anderson Hall<br/>
-  [(215) 204-5543](tel:2152045543)<br/>
-  [kblankin@temple.edu](mailto:kblankin@temple.edu)<br/>
-
-  <hr>
-
-  **Undergraduate Chair::** <br/>
-  Dr. Mark Leuchter<br/>
-  613 Anderson Hall<br/>
-  [mark.leuchter@temple.edu](mailto:mark.leuchter@temple.edu)<br/>
-  
-  <hr>
-
-  **Administrator:** <br/>
-  Maggie Cogswell<br/>
-  1008A Gladfelter Hall<br/>
-  [(215) 204-9209](tel:2152049209)<br/>
-  [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)<br/>
-  
-    <hr>
-
-  **Coordinators:** <br/>
-  Linda Jenkins<br/>
-  615 Anderson Hall<br/>
-  [(215) 204-7973](tel:2152047973)<br/>
-  [JenkinsL@temple.edu](mailto:JenkinsL@temple.edu)<br/>
-  
-    <hr>
-
-  **Administrator:** <br/>
-  Jemina Quarles<br/>
-  614 Anderson Hall<br/>
-  [(215) 204-3663](tel:2152043663)<br/>
-  [jemi@temple.edu](mailto:jemi@temple.edu)<br/>
+   Jemina Quarles  
+   614 Anderson Hall    
+   [(215) 204-3663](tel:2152043663)  
+   [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
 
 ## Learn Outside The Classroom
