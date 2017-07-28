@@ -24,7 +24,6 @@ The Office of Admissions offers tours daily. To register for a tour, please go t
 
 If you would like to experience the College of Liberal Arts firsthand you can take advantage of the
 various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
-For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit).
 
 ## Thinking Of Transferring?
 
