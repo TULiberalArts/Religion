@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Dr. Khalid A. Y. Blankinship  
    619 Anderson Hall  
@@ -48,6 +48,8 @@ We host events with guest speakers from a variety of backgrounds. Lectures by fi
 ## A Well-Rounded Education
 
 Both graduate schools and prospective employers recognize that by studying religion, students engage with a wide variety of ideas, forms of communication and systems of social organization that are extremely useful in developing important professional skills.
+
+When you are ready to apply, submit your application online at [http://admissions.temple.edu/apply](http://admissions.temple.edu/apply)
 
 ## Academic Offerings
 
