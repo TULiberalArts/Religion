@@ -5,15 +5,32 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
 feature: false
-feature-title: 
-feature-body: 
-feature-image: 
+feature-title: null
+feature-body: null
+feature-image: null
 published: true
 ---
 
-A major in Religion gives students a deeper understanding of how religion plays a critical role in everyday life. By teaching our students to examine how religion influences forming group identities, shaping memory and understanding history, they gain the knowledge necessary to analyze the impact of religion on critical events around the world.
+Religion is a pervasive, powerful, multifaceted, and enduring dimension of human experience. Religions have shaped complex cultures and countless individual lives. Students who study at Temple’s Department of Religion examine the beliefs, values, rituals, text and artifacts of traditions that include Buddhism, Hinduism, Christianity, and Judaism. Founded in 1961, the Temple University Department of Religion is fueled by the wisdom that if you only know one religion, you actually don’t know any. 
 
-Our courses are taught by internationally respected experts in their fields, and our faculty is deeply committed to helping students develop critical thinking skills with real-world applications. Religion students learn from a variety of classic literary works, develop important cultural literacy and work to find solutions about how different religious groups can engage in productive dialogue.
+## Interdisciplinary Studies in Comparative Religion
+
+The Religion Department provides a wide array of courses in the major religions of the world, with an emphasis upon the comparison of traditions and how they affect each other. Instruction is offered in African and African American religions, Buddhism, Christianity, Confucianism, Hinduism, Judaism, and Daoism. The department is the home of Jewish Studies and Islamic Studies, and houses The Journal of Ecumenical Studies, which supports our efforts toward inter-religious conversation. 
+
+## Why Study Religion?
+
+Understanding religion is essential to being a well-informed student of the Humanities and Social Sciences. Taking college courses in religion prepares you for living life in a pluralistic and diverse global culture, and enhances studies in a broad range of other disciplines. Students who major in Religion develop a useful skill set that is in demand in public service, journalism, social work, government and more. Many of our PhD and MA graduates now work in major universities in North America, Europe and Asia. 
+
+## The Strength of Our Connections
+
+We have a vital exchange with the University of Tübingen, and presently enjoy another with Gadjah Mada University in Yogyakarta, Indonesia. We also benefit from our consortial agreements with the Department of Religious Studies at the University of Pennsylvania, Palmer Theological Seminary, Lutheran Theological Seminary, The Reconstructionist Rabbinical College and Westminster Theological Seminary. 
+
+## Academic Offerings
+
+
+
+
+
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
