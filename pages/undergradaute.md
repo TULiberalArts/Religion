@@ -40,52 +40,53 @@ sidebar-content: |
    [(215) 204-3663](tel:2152043663)  
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
+## Bachelor of Arts in Religion
 
-## Learn Outside The Classroom
+The Bachelor of Arts in Religion is a solid liberal arts degree, providing students with the essential knowledge base and the intellectual, communication and interpersonal skills essential to success in any career. Drawing from history, literary studies, philosophy and the social sciences, the academic study of religion is multidisciplinary. If you join our program, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars in the field.  
 
-We host events with guest speakers from a variety of backgrounds. Lectures by filmmakers, journalists, musicians, writers, archaeologists and graphic artists regularly give students a direct window into major issues relating to religious communities and ideas.
+Studying religion does not require any particular religious background or commitment, and The Religion Department is one of the most diverse at Temple University. Both our students and faculty members come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. 
 
-## A Well-Rounded Education
+## Learning Outside the Classroom
 
-Both graduate schools and prospective employers recognize that by studying religion, students engage with a wide variety of ideas, forms of communication and systems of social organization that are extremely useful in developing important professional skills.
+In addition to traditional instruction, we host events with guest speakers from a variety of backgrounds. Lectures by filmmakers, journalists, musicians, writers, archaeologists and graphic artists regularly give students a direct window into major issues relating to religious communities and ideas.
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply). 
+## Choose Your Own Adventure
 
-## Academic Offerings
+Our program is flexible, and you can tailor your studies to focus on your individual interests in the field of religious studies. Whether it be Buddhist thought, Islamic law, Christian origins, Jewish philosophy, African American spirituality, Hindu metaphysics, Confucian and Daoist classics, or religion and contemporary American society, you’ll work with faculty to design your own personal program of study and research. 
+[Learn More about Majoring in Religion]
 
-- [BA in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
-- [Religion Minor](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/minor-religion/)
-- [MA in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
-- [PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/)
+## Minor in Religion
 
-## Program Overview
+The minor in Religion is an excellent addition to the degree programs in the College of Liberal Arts or other colleges throughout Temple University. Students who have an interest in world history and providing sensitive patient care will find this program of study especially helpful 
+[Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 
-The Bachelor of Arts in Religion is a solid liberal arts degree, providing graduates with the knowledge base and the intellectual, communication, and interpersonal skills essential to success in any career. More specifically, knowledge of religion – and the ability to think clearly and communicate effectively about it – is valuable in fields that involve public affairs, international and cross-cultural relations, religious issues or groups, or interaction with diverse individuals and populations. While it provides insights into the role of religion in personal, group, and societal identity and conflict, studying religion does not require any particular religious background or commitment.
+## What Can I do with a Degree in Religion?
 
-The department places major emphases on three dimensions in the study of religion:
+If you major or minor in Religion, you’ll develop an in-demand and applicable skillset to many professions. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for careers that include public service, diplomacy, journalism, counseling, research, social work, health and human services, conflict resolution and government. Some students continue their education in doctoral programs, law school, medical school or prepare for the ministry.  
 
-- The faculty and course offerings provide an introduction to the major religions of the world, with an emphasis on the comparison of traditions and their encounters with one another. Instruction is offered in African and African American religions, Buddhism, Christianity, Confucianism, Hinduism, Islam, Judaism and Daoism.
+To read more about what our graduates are accomplishing read more here. (LINK) 
 
-- The program stresses the engagement of religious traditions with the major trends and issues – social, political, and ethical – in contemporary culture and society. 
+## Undergraduate Advising
 
-- Students are introduced to the major methods of study in religion, with stress on critical analysis of religions by the methods of the humanities and social sciences, including textual and historical analysis, philosophical and hermeneutical studies, and social and cultural analysis.
+The Center for Academic Advising and Professional Development counsels students on both classroom and career issues. Advisers help undergraduate students navigate their curriculums, choose a major or minor, explore career opportunities and determine post-graduation plans.
 
-The program thus ensures that the faculty and students will find themselves involved in a continuing conversation about methods for the study of religion and the multiple relations of religious traditions to one another and to the contemporary world. Course seminars, departmental forums, and faculty-student interest groups serve to engage students in the diversity and dialogue in the study of religion.
-Whether it be Buddhist thought, Islamic law, Christian origins, Jewish philosophy, African American spirituality, Hindu metaphysics, Confucian and Daoist classics, religion and contemporary American society, or interreligious dialogue, students can choose from a variety of faculty and courses designing their own individualized programs of study and research. Religion is a pervasive, powerful, multifaceted, and enduring dimension of human experience. Religions have shaped complex cultures and countless individual lives. They are influential in the world today and will continue to be so in the future. The academic study of religion is multidisciplinary, drawing upon approaches from history, literary studies, philosophy, and the social sciences. It is multicultural, exploring the beliefs, practices, and development of particular religious communities in many different cultures. The Temple Religion Department is one of the most diverse in the university, with faculty members and students of many different religious traditions, cultures, and academic and personal perspectives. The richness of religious and cultural life in Philadelphia and the region provides a valuable context for the study of religion and of religious traditions and communities.
+[Learn More](https://liberalarts.temple.edu/advising)
 
-## Careers
+## Temple University Tuition
 
-Individuals with a degree in religion enter careers and graduate programs in many areas, including but not limited to: journalism and communications, social work, ministry/chaplaincy, pre-law, pre-med/health services, government/FBI, NGOs, hospice/end-of-life care, international enterprise, education, academic research, human resources, and tourism and hospitality.
+Temple University’s tuition rates vary by school or college, student level, residency, and more. Use the student tuition calculator to estimate your tuition rate. 
+- [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
+
+## Financial Aid and Scholarships
+
+If you need help paying for college, you aren’t alone. Most college students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans.  Filling out the FAFSA, often results in a substantial boost in financial assistance. 
+
+- [Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
+
+## Undergraduate Admissions to Temple University
+
+Are you ready to apply? Submit your online application at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+
+## Curriculum and Academic Requirements
 
 
-## Curriculum
-
-A student majoring in religion can expect to take Religion 1001, Religion and Society, one writing intensive course such as What is Christianity or Introduction to the Bible, two or more courses from an array of non-Western traditions, five elective courses – three of which must be upper level – and the capstone seminar in religion.
-
-Elective opportunities and special topics courses include: Martyrs and Suicide; Monks, Masters, and Magicians; Women in Islam; Yoga and Tantric Mysticism; Religion and Human Sexuality; Earth Ethics; Sacred Spaces; From Torah to Talmud; Religion and Science; Death and Dying; Kabbalah and Mysticism; Islam in American.
-
-## Contacts/Advising
-
-**Undergraduate Chair<br/>**
-Dr. Mark Leuchter<br/>
-[mleuchte@temple.edu](mailto:mleuchte@temple.edu)<br/>
