@@ -50,7 +50,7 @@ You do not need a religious background to study religion, and our program is one
 
 ## Flexible Coursework
 
-Majoring in religion is flexible by design; it easily accommodates study abroad plans, internships, or a second major or minor in a related discipline.  Whether you are interested in Buddhist thought, Islamic law, Christian origins, Jewish philosophy, African American spirituality, Hindu metaphysics, or Confucian and Daoist classics, you can tailor your program to your interests.
+Majoring in religion is flexible by design; it easily accommodates study abroad plans, internships, or a second major or minor in a related discipline. Whether it be Buddhist thought, Islamic law, Christian origins, Jewish philosophy, African American spirituality, Hindu metaphysics, or Confucian and Daoist classics, you’ll work with faculty to design your own personal program of study and research.
 
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
