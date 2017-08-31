@@ -40,9 +40,9 @@ sidebar-content: |
    [(215) 204-3663](tel:2152043663)  
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
-## Bachelor of Arts in Religion
+## BA in Religion
 
-Studying religion is an essential part of being a well-informed liberal arts student. Taking college courses in religion prepares you for living in a pluralistic and diverse culture, and enhances studies in a broad range of other disciplines. The academic study of religion is multidisciplinary - it draws from history, literary studies, philosophy and the social sciences. If you join our program, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars in the field.
+Religious studies, alternately known as the study of religion, is the multi-disciplinary academic field devoted to research into religious beliefs, behaviors, and institutions. Understanding religion is an essential part of being a well-informed liberal arts student, and it enhances studies a broad range of other displines. If you major in religion, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars in the field. The Temple department of religion, located in the historical and cultural mecca of Philadelphia, prepares students for life in a pluralistic culture.
 
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
@@ -90,4 +90,3 @@ Ready to apply? Submit your online application at [admissions.temple.edu/apply](
 
 - [Bachelor of Arts in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 - [Minor in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/minor-religion/)
-
