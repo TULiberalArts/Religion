@@ -44,20 +44,22 @@ sidebar-content: |
 
 The Bachelor of Arts in Religion is a solid liberal arts degree, providing students with the essential knowledge base and the intellectual, communication and interpersonal skills essential to success in any career. Drawing from history, literary studies, philosophy and the social sciences, the academic study of religion is multidisciplinary. If you join our program, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars in the field.  
 
-Studying religion does not require any particular religious background or commitment, and The Religion Department is one of the most diverse at Temple University. Both our students and faculty members come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. 
+You do not need a particular religious background or commitment to study religion, and our program is one of the most diverse at Temple University. Both our students and faculty members come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. We believe that being exposed to different perspectives enhances creativity and prepares students to live in a pluralistic global society. 
+
+## Choose Your Own Adventure
+
+Individualized study allows for extensive ownership over your education. Our program is flexible, and you can tailor your studies to focus on your interests. Whether it be Buddhist thought, Islamic law, Christian origins, Jewish philosophy, African American spirituality, Hindu metaphysics, or Confucian and Daoist classics, you’ll work with faculty to design your own personal program of study and research. 
 
 ## Learning Outside the Classroom
 
 In addition to traditional instruction, we host events with guest speakers from a variety of backgrounds. Lectures by filmmakers, journalists, musicians, writers, archaeologists and graphic artists regularly give students a direct window into major issues relating to religious communities and ideas.
 
-## Choose Your Own Adventure
-
-Our program is flexible, and you can tailor your studies to focus on your individual interests in the field of religious studies. Whether it be Buddhist thought, Islamic law, Christian origins, Jewish philosophy, African American spirituality, Hindu metaphysics, Confucian and Daoist classics, or religion and contemporary American society, you’ll work with faculty to design your own personal program of study and research. 
 [Learn More about Majoring in Religion]
 
 ## Minor in Religion
 
-The minor in Religion is an excellent addition to the degree programs in the College of Liberal Arts or other colleges throughout Temple University. Students who have an interest in world history and providing sensitive patient care will find this program of study especially helpful 
+The minor in Religion is an excellent addition to degree programs in the College of Liberal Arts or in other colleges throughout Temple University. Students who have an interest in world history and providing sensitive patient care will find this program of study especially helpful. 
+
 [Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 
 ## What Can I do with a Degree in Religion?
@@ -75,6 +77,7 @@ The Center for Academic Advising and Professional Development counsels students 
 ## Temple University Tuition
 
 Temple University’s tuition rates vary by school or college, student level, residency, and more. Use the student tuition calculator to estimate your tuition rate. 
+
 - [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Financial Aid and Scholarships
@@ -89,4 +92,5 @@ Are you ready to apply? Submit your online application at [admissions.temple.edu
 
 ## Curriculum and Academic Requirements
 
-
+[Bachelor of Arts in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
+[Minor in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/minor-religion/)
