@@ -10,8 +10,6 @@ feature-body: null
 feature-image: null
 published: true
 ---
-test
-
 Religion is a pervasive, powerful, multifaceted and enduring dimension of human experience. Religions have shaped complex cultures and countless individual lives. Students who study religion at Temple University examine the beliefs, values, rituals, text and artifacts of traditions that include Buddhism, Hinduism, Christianity and Judaism. Founded in 1961, the Department of Religion is fueled by the wisdom that if you only know one religion, you actually don’t know any. 
 
 ## Interdisciplinary Studies in Comparative Religion
