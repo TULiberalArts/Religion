@@ -1,9 +1,10 @@
 ---
 title: Undergraduate
+meta-description: >-
+  The multi-disciplinary academic field devoted to research into religious beliefs.
 meta-keywords: 'BA in Religion, major in religion, Temple Department of Religion'
 permalink: /undergraduate/
 layout: page
-published: true
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -39,6 +40,7 @@ sidebar-content: |
    614 Anderson Hall    
    [(215) 204-3663](tel:2152043663)  
    [jemi@temple.edu](mailto:jemi@temple.edu)
+published: true
 ---
 ## BA in Religion
 
@@ -72,13 +74,13 @@ The Center for Academic Advising and Professional Development counsels students 
 
 ## Temple University Tuition
 
-Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate and start planning for your college education. 
+Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate and start planning for your college education.
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Financial Aid and Scholarships
 
-If you need help paying for college, you aren’t alone. Most college students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. 
+If you need help paying for college, you aren’t alone. Most college students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance.
 
 [Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
 
