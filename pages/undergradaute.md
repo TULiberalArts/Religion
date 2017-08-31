@@ -1,6 +1,6 @@
 ---
 title: Undergraduate
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: 'BA in Religion, major in religion, Temple Department of Religion'
 permalink: /undergraduate/
 layout: page
 published: true
