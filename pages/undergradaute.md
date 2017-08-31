@@ -44,14 +44,6 @@ sidebar-content: |
 
 Studying religion is an essential part of being a well-informed liberal arts student. Taking college courses in religion prepares you for living in a pluralistic and diverse culture, and enhances studies in a broad range of other disciplines. The academic study of religion is multidisciplinary - it draws from history, literary studies, philosophy and the social sciences. If you join our program, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars in the field.
 
-## Do I Need to be Religious to study Religion?
-
-You do not need a religious background to study religion, and our program is one of the most diverse at Temple University. Both our students and faculty members come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. We believe that being exposed to different perspectives enhances creativity and prepares students to live in a culturally diverse society.
-
-## Flexible Coursework
-
-Majoring in religion is flexible by design; it easily accommodates study abroad plans, internships, or a second major or minor in a related discipline. Whether it be Buddhist thought, Islamic law, Christian origins, Jewish philosophy, African American spirituality, Hindu metaphysics, or Confucian and Daoist classics, you’ll work with faculty to design your own personal program of study and research.
-
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
 ## Minor in Religion
@@ -59,6 +51,14 @@ Majoring in religion is flexible by design; it easily accommodates study abroad 
 Do you plan on becoming a doctor? Are you considering going into law? Do you see yourself teaching? No matter what your career is, understanding religion is an asset. Whether you want to connect with colleagues from different backgrounds, or you strive to provide compassionate care to patients, your degree in religion will help you succeed.
 
 [Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
+
+## Do I Need to be Religious to study Religion?
+
+You do not need a religious background to study religion, and our program is one of the most diverse at Temple University. Both our students and faculty members come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. We believe that being exposed to different perspectives enhances creativity and prepares students to live in a culturally diverse society.
+
+## Flexible Coursework
+
+Majoring in religion is flexible by design; it easily accommodates study abroad plans, internships, or a second major or minor in a related discipline. Whether it be Buddhist thought, Islamic law, Christian origins, Jewish philosophy, African American spirituality, Hindu metaphysics, or Confucian and Daoist classics, you’ll work with faculty to design your own personal program of study and research.
 
 ## What Can I do with a Degree in Religion?
 
