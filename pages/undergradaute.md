@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
 meta-description: >-
-  The multi-disciplinary academic field devoted to research into religious beliefs.
+  The multi-disciplinary academic field devoted to research into religious
+  beliefs.
 meta-keywords: 'BA in Religion, major in religion, Temple Department of Religion'
 permalink: /undergraduate/
 layout: page
@@ -60,7 +61,7 @@ You do not need a religious background to study religion, and our program is one
 
 ## Flexible Coursework
 
-Majoring in religion is flexible by design; it easily accommodates study abroad plans, internships, or a second major or minor in a related discipline. Whether it be Buddhist thought, Islamic law, Christian origins, Jewish philosophy, African American spirituality, Hindu metaphysics, or Confucian and Daoist classics, you’ll work with faculty to design your own personal program of study and research.
+Majoring in religion is flexible by design; it easily accommodates study abroad plans, internships or a second major or minor. Whether it be Buddhist thought, Islamic law, Christian origins, Jewish philosophy, frican American spirituality, Hindu metaphysics or Confucian and Daoist classics, you’ll work with faculty to design your own personal academic program.
 
 ## What Can I do with a Degree in Religion?
 
