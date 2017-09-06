@@ -69,7 +69,7 @@ Knowledge of religion - and the ability to think clearly and communicate effecti
 
 ## Undergraduate Advising
 
-The Center for Academic Advising and Professional Development counsels students on both classroom and career issues. Our advisers help undergraduate students navigate their courses, choose a major or minor, explore career opportunities and determine post-graduation plans.
+Our award-winning advising staff helps students take full advantage of the College of Liberal Art’s flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure tey have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opporunities.
 
 [Learn More](https://liberalarts.temple.edu/advising)
 
