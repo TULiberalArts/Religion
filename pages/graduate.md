@@ -68,7 +68,7 @@ Learn More about our Affiliations and Associations (Next Stops)
 
 ## Graduate Student Funding
 
-At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private, and university sources. We encourage you to explore all of the opportunities available and apply early to make higher education an affordable experience.
+At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private, and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience.
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
