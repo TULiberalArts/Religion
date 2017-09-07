@@ -50,14 +50,28 @@ MA or PhD Students studying religion at Temple take two kinds of graduate course
 
 Students in our 30-credit MA in Religion program include those who plan on teaching religious studies community colleges or high schools, college grads in other fields who have an interest in religion and students who plan on continuing on to PhD programs in religion. While some graduates from our master’s program may choose to apply for PhD in Religion program at Temple, it is a separate process.  If you work in another profession, understanding religious context is essential to cross-cultural understanding. Notable examples include health services, social work, international business and government. 
 
-Learn More about Our Master’s in Religion Program
+[Learn More about Our Master’s in Religion Program](http://www.cla.temple.edu/religion/graduate/master-of-arts-program/)
 
 ## PhD in Religion
 
 The Department of Religion offers a 60-credit PhD program that provides students a well-rounded and interdisciplinary liberal arts education. One of our biggest strengths as a program is our breadth and diversity; we offer coursework in global religious traditions and the roles of religion and society. Our graduates are employed in major colleges and universities in North America, Europe, Africa and Asia. Most of our graduates are employed as faculty in religious studies, although some are administrators in academic or governmental administrations. 
 
-Learn More about Our PhD in Religion
+[Learn More about Our PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
 
-## Get Involved in the Academic Community
+## Department of Religion Graduate Students Association (GSA)
 
+If you join our program, you’ll automatically become a member of the GSA. Active participation is voluntary, and officers and representatives are elected. The primary task of elected graduate students is communication among students. Representatives attend departmental faculty members, and participate in the Graduate Studies Committee and the Scholarship Awards Committee. The GSA holds an orientation program in the fall, offers special meetings for general communication and social events, and publishes an occasional newsletter.
+
+Explore More Ways to get Involved in Our Academic Community (Next Stops)
+
+
+## Awards and Scholarships
+
+Most students receive some form of financial aid to help them pay for graduate school. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department offers a limited number of assistantships and scholarships on a highly competitive basis. The awards usually involve teaching or assisting one or more faculty with instructional duties.
+
+[Student Financial Services](https://sfs.temple.edu/financial-aid-types/scholarships/study-abroad)
+
+## Admissions Process
+
+If you're ready to apply to our MA or PhD program [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
 
