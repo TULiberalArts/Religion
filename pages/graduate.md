@@ -58,12 +58,15 @@ The Department of Religion offers a 60-credit PhD program that provides students
 
 [Learn More about Our PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
 
-## Department of Religion Graduate Students Association (GSA)
+## Affiliations and Associations
 
 If you join our program, you’ll automatically become a member of the GSA. Active participation is voluntary, and officers and representatives are elected. The primary task of elected graduate students is communication among students. Representatives attend departmental faculty members, and participate in the Graduate Studies Committee and the Scholarship Awards Committee. The GSA holds an orientation program in the fall, offers special meetings for general communication and social events, and publishes an occasional newsletter.
 
-Explore More Ways to get Involved in Our Academic Community (Next Stops)
+Graduate student exchange agreements exist with the University of Pennsylvania's Department of Religious Studies, the Reconstructionist Rabbinical College, the Eastern Baptist Theological Seminary, and the Lutheran Theological Seminary in Philadelphia. In addition, a coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program.
 
+We also benefit from our consortial agreements with the Department of Religious Studies at the University of Pennsylvania, Palmer Theological Seminary, Lutheran Theological Seminary, The Reconstructionist Rabbinical College and Westminster Theological Seminary. We maintain strong relationshops with other programs within the College of Liberal Arts to emphasize the interdisciplinary nature of our field.
+
+Explore More Ways to get Involved in Our Academic Community (Next Stops)
 
 ## Awards and Scholarships
 
