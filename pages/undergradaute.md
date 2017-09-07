@@ -81,9 +81,9 @@ For more than 125 years, we have focused on providing a world-class education at
 
 ## Financial Aid and Scholarships
 
-If you need help paying for college, you aren’t alone. Most college students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance.
+At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. We encourage you to explore your options and apply early to make your college education an affordable experience. 
 
-[Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
+[Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
 ## Undergraduate Admissions to Temple University
 
