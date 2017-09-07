@@ -73,9 +73,9 @@ Our award-winning advising staff helps students take full advantage of the Colle
 
 [Learn More](https://liberalarts.temple.edu/advising)
 
-## Temple University Tuition
+## Tuition and Fees
 
-Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate and start planning for your college education.
+For more than 125 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other comparable universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate.
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
