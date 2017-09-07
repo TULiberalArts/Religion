@@ -68,8 +68,9 @@ Learn More about our Affiliations and Associations (Next Stops)
 
 ## Financial Aid
 
-Most students receive some form of financial aid to help them pay for graduate school. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department offers a limited number of assistantships and scholarships on a highly competitive basis. The awards usually involve teaching or assisting one or more faculty with instructional duties. We encourage you to explore all of the opportunities available and apply early to make higher education an affordable experience for you.
+The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. Temple University offers incoming and continuing undergraduate students numerous scholarship opportunities to assist you in financing your education. We encourage you to explore all of the opportunities available and apply early to make higher education an affordable experience for you.
 
+[Scholarships at Temple University](https://sfs.temple.edu/financial-aid-types/scholarships)
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
 ## Tuition and Fees
@@ -81,4 +82,3 @@ For more than 125 years, we have focused on providing a world-class education at
 ## Apply to Temple
 
 If you're ready to apply to our MA or PhD program [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
-
