@@ -42,7 +42,7 @@ sidebar-content: |
 ---
 ## Earn an MA or PhD in Religion at Temple
 
-As part of a major public university, the Graduate Program in Religion at Temple deals with religion as an academic discipline without bias or favoritism for one religious or philosophical tradition over another. Our courses provide graduate students with broad coverage of religious phenomena in the world, but our faculty also provide specialized study in Buddhism, Christianity, Hinduism, Judaism and more. One major area of emphasis is Religion, Race, and Ethnicity. (Islam?) 
+As part of a major public university, the Graduate Program in Religion at Temple deals with religion as an academic discipline without bias or favoritism for one religious or philosophical tradition over another. Our courses provide graduate students with broad coverage of religious phenomena in the world, but our faculty also provide specialized study in Buddhism, Christianity, Hinduism, Judaism and more. One major area of emphasis is Religion, Race, and Ethnicity. 
 
 MA or PhD Students studying religion at Temple take two kinds of graduate courses. Foundations courses cover a broad range of religious traditions including African and African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Island or Judaism. These courses provide graduate students a solid background in the basic thought, practices and history of major world religions and methodologies in the study of religion. The second are specialized seminars in subjects that our faculty have expertise in. These include courses dealing with religion, race, ethnicity, and religion in certain time periods and geographic regions. 
 
@@ -66,13 +66,19 @@ We also benefit from consortial agreements with the Department of Religious Stud
 
 Learn More about our Affiliations and Associations (Next Stops)
 
-## Awards and Scholarships
+## Financial Aid
 
-Most students receive some form of financial aid to help them pay for graduate school. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department offers a limited number of assistantships and scholarships on a highly competitive basis. The awards usually involve teaching or assisting one or more faculty with instructional duties.
+Most students receive some form of financial aid to help them pay for graduate school. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department offers a limited number of assistantships and scholarships on a highly competitive basis. The awards usually involve teaching or assisting one or more faculty with instructional duties. We encourage you to explore all of the opportunities available and apply early to make higher education an affordable experience for you.
 
-[Student Financial Services](https://sfs.temple.edu/financial-aid-types/scholarships/study-abroad)
+[Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
-## Admissions Process
+## Tuition and Fees
+
+For more than 125 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other comparable universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate. 
+
+[Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
+
+## Apply to Temple
 
 If you're ready to apply to our MA or PhD program [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
 
