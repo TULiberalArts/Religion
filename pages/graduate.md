@@ -62,11 +62,9 @@ The Department of Religion offers a 60-credit PhD program that provides students
 
 If you join our program, you’ll automatically become a member of the GSA. Active participation is voluntary, and officers and representatives are elected. The primary task of elected graduate students is communication among students. Representatives attend departmental faculty members, and participate in the Graduate Studies Committee and the Scholarship Awards Committee. The GSA holds an orientation program in the fall, offers special meetings for general communication and social events, and publishes an occasional newsletter.
 
-Graduate student exchange agreements exist with the University of Pennsylvania's Department of Religious Studies, the Reconstructionist Rabbinical College, the Eastern Baptist Theological Seminary, and the Lutheran Theological Seminary in Philadelphia. In addition, a coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program.
+We also benefit from consortial agreements with the Department of Religious Studies at the University of Pennsylvania, Palmer Theological Seminary, Lutheran Theological Seminary, Reconstructionist Rabbinical College and Westminster Theological Seminary. We offer a coordinated MA/PhD program in Islamic-Christian Relations conducted in conjunction with the Hartford Theological Seminary and a Graduate Certificate in Women's Studies is in cooperation with Temple's Women's Studies Program.
 
-We also benefit from our consortial agreements with the Department of Religious Studies at the University of Pennsylvania, Palmer Theological Seminary, Lutheran Theological Seminary, The Reconstructionist Rabbinical College and Westminster Theological Seminary. We maintain strong relationshops with other programs within the College of Liberal Arts to emphasize the interdisciplinary nature of our field.
-
-Explore More Ways to get Involved in Our Academic Community (Next Stops)
+Learn More about our Affiliations and Associations (Next Stops)
 
 ## Awards and Scholarships
 
