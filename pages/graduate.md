@@ -60,9 +60,9 @@ The Department of Religion offers a 60-credit PhD program that provides students
 
 ## Affiliations and Associations
 
-If you join our program, you’ll automatically become a member of the GSA. Active participation is voluntary, and officers and representatives are elected. The primary task of elected graduate students is communication among students. Representatives attend departmental faculty members, and participate in the Graduate Studies Committee and the Scholarship Awards Committee. The GSA holds an orientation program in the fall, offers special meetings for general communication and social events, and publishes an occasional newsletter.
+We benefit from consortial agreements with the Department of Religious Studies at the University of Pennsylvania, Palmer Theological Seminary, Lutheran Theological Seminary, Reconstructionist Rabbinical College and Westminster Theological Seminary. We offer a coordinated MA/PhD program in Islamic-Christian Relations conducted in conjunction with the Hartford Theological Seminary and a Graduate Certificate in Women's Studies is in cooperation with Temple's Women's Studies Program. 
 
-We benefit from consortial agreements with the Department of Religious Studies at the University of Pennsylvania, Palmer Theological Seminary, Lutheran Theological Seminary, Reconstructionist Rabbinical College and Westminster Theological Seminary. We offer a coordinated MA/PhD program in Islamic-Christian Relations conducted in conjunction with the Hartford Theological Seminary and a Graduate Certificate in Women's Studies is in cooperation with Temple's Women's Studies Program.
+If you join our program, you’ll automatically become a member of the GSA. Active participation is voluntary, and officers and representatives are elected. The primary task of elected graduate students is communication among students. Representatives attend departmental faculty members, and participate in the Graduate Studies Committee and the Scholarship Awards Committee. 
 
 Learn More about our Affiliations and Associations (Next Stops)
 
