@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /research/
+permalink: /resources/
 layout: page
 published: true
 ---
