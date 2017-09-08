@@ -45,7 +45,7 @@ Ready to apply? Submit your application online at [admissions.temple.edu/apply](
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
       title="The Strength of Our Connections "
-      content="Our strong relationships with local and international universities and religious organizations makes our program even stronger. We also work with other programs in the College of Liberal Arts to emphasize the interdisplinary nature of our field"
+      content="Our strong relationships with local and international universities, religious organizations and other programs in the College of Liberal Arts makes our interdisciplinary program even stronger."
       image=""
       button-link=" "
       button-text="Learn More" %}
