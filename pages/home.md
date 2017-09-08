@@ -21,10 +21,6 @@ Temple University provides courses in all major religions, with an emphasis on t
 
 Understanding religious context is essential to being a well-informed student of the humanities and social sciences. Taking college courses in religion prepares you for living in a pluralistic and diverse global culture, and enhances studies in a broad range of other disciplines. If you study religion, you'll develop an in-demand skill set that prepares you for a career in public service, journalism, civil service, social work and more. Many of  our PhD and MA graduates now work in major universities in North America, Europe and Asia.
 
-## The Strength of Our Connections
-
-We have a vital exchange with the University of Tübingen and the Gadjah Mada University in Yogyakarta, Indonesia. We also benefit from our consortial agreements with the Department of Religious Studies at the University of Pennsylvania, Palmer Theological Seminary, Lutheran Theological Seminary, The Reconstructionist Rabbinical College and Westminster Theological Seminary. We maintain strong relationshops with other programs within the College of Liberal Arts to emphasize the interdisciplinary nature of our field.  
-
 ## Apply to Temple University
 
 Ready to apply? Submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
@@ -46,8 +42,8 @@ Ready to apply? Submit your application online at [admissions.temple.edu/apply](
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="Academic Advising and Professional Development "
-      content="We can help you navigate your curriculum, choose a major, explore career opportunities and determine your post-graduation plans."
+      title="The Strength of Our Connections "
+      content="We benefit from our consortial agreements with the Department of Religious Studies at the University of Pennsylvania, Palmer Theological Seminary, Lutheran Theological Seminary, The Reconstructionist Rabbinical College and Westminster Theological Seminary. In addition we have strong relationships with the University of Tübingen and the Gadjah Mada University in Yogyakarta, Indonesia. We maintain strong relationshops with other programs within the College of Liberal Arts to emphasize the interdisciplinary nature of the field of religion."
       image=""
       button-link=" "
       button-text="Learn More" %}
