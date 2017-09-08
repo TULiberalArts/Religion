@@ -40,11 +40,24 @@ sidebar-content: |
    [(215) 204-3663](tel:2152043663)  
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
-## Earn an MA or PhD in Religion at Temple
+## Earn an MA or PhD in Religion at Temple University
 
-As part of a major public university, the Graduate Program in Religion at Temple deals with religion as an academic discipline without bias or favoritism for one religious or philosophical tradition over another. Our courses provide graduate students with broad coverage of religious phenomena in the world, but our faculty also provide specialized study in Buddhism, Christianity, Hinduism, Judaism and more. One major area of emphasis is Religion, Race, and Ethnicity. 
+As part of a major public university, the Graduate Program in Religion at Temple deals with religion as an academic discipline without bias or favoritism for one religious or philosophical tradition over another. Our courses provide graduate students with broad coverage of religious phenomena in the world, but our faculty also provide specialized study in Buddhism, Christianity, Hinduism, Judaism and more. One major area of emphasis is Religion, Race, and Ethnicity. Since the nature of the study of religion is interdisplinary, we have strong cooperative relationships with other programs in the College of Liberal Arts. 
 
 MA or PhD Students studying religion at Temple take two kinds of graduate courses. Foundations courses cover a broad range of religious traditions including African and African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Island or Judaism. These courses provide graduate students a solid background in the basic thought, practices and history of major world religions and methodologies in the study of religion. The second are specialized seminars in subjects that our faculty have expertise in. These include courses dealing with religion, race, ethnicity, and religion in certain time periods and geographic regions. 
+
+Areas of Specialization include:
+
+- African Diaspora Christianity
+- Gender & Religious Community
+- American Religious History
+- Islamic Political Thought
+- Animals in Religion
+- Death & Dying
+- Tibetan Buddhism
+- Japanese Philosophy
+- Jewish Studies
+- Islam & Christianity
 
 ## MA in Religion
 
@@ -58,15 +71,7 @@ The Department of Religion offers a 60-credit PhD program that provides students
 
 [Learn More about Our PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
 
-## Affiliations and Associations
-
-We benefit from consortial agreements with the Department of Religious Studies at the University of Pennsylvania, Palmer Theological Seminary, Lutheran Theological Seminary, Reconstructionist Rabbinical College and Westminster Theological Seminary. We offer a coordinated MA/PhD program in Islamic-Christian Relations conducted in conjunction with the Hartford Theological Seminary and a Graduate Certificate in Women's Studies is in cooperation with Temple's Women's Studies Program. 
-
-If you join our program, you’ll automatically become a member of the GSA. Active participation is voluntary, and officers and representatives are elected. The primary task of elected graduate students is communication among students. Representatives attend departmental faculty members, and participate in the Graduate Studies Committee and the Scholarship Awards Committee. 
-
-Learn More about our Affiliations and Associations (Next Stops)
-
-## Graduate Student Funding
+## Temple Graduate School Funding
 
 At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private, and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience.
 
