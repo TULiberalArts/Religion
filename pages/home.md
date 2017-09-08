@@ -1,7 +1,9 @@
 ---
 title: Home
 meta-description: >-
-  Students who study religion at Temple University examine the beliefs, values, rituals, text and artifacts of traditions that include Buddhism, Hinduism, Christianity and Judaism.
+  Students who study religion at Temple University examine the beliefs, values,
+  rituals, text and artifacts of traditions that include Buddhism, Hinduism,
+  Christianity and Judaism.
 meta-keywords: 'Buddhism, Hinduism, Islam, Christianity, Judaism'
 permalink: /
 layout: home
@@ -35,7 +37,7 @@ Ready to apply? Submit your application online at [admissions.temple.edu/apply](
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Jewish Studies Program"
-    content="Temple University’s Jewish Studies Program offers students an interdisciplinary approach to the study of Jews, Jewishness, and Judaism. Earn a BA or Minor in Jewish Studies."
+    content="Temple University’s Jewish Studies Program offers students an interdisciplinary approach to the study of Jews, Jewishness and Judaism. Earn a BA or Minor in Jewish Studies."
     image=""
     button-link=" "
     button-text="Learn More" %}
@@ -43,7 +45,7 @@ Ready to apply? Submit your application online at [admissions.temple.edu/apply](
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
       title="The Strength of Our Connections "
-      content="We benefit from our consortial agreements with the Department of Religious Studies at the University of Pennsylvania, Palmer Theological Seminary, Lutheran Theological Seminary, The Reconstructionist Rabbinical College and Westminster Theological Seminary. In addition we have strong relationships with the University of Tübingen and the Gadjah Mada University in Yogyakarta, Indonesia. We maintain strong relationshops with other programs within the College of Liberal Arts to emphasize the interdisciplinary nature of the field of religion."
+      content="Our strong relationships with local and international universities and religious organizations makes our program even stronger. We also work with other programs in the College of Liberal Arts to emphasize the interdisplinary nature of our field"
       image=""
       button-link=" "
       button-text="Learn More" %}
