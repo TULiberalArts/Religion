@@ -1,9 +1,8 @@
 ---
 title: Undergraduate
 meta-description: >-
-  The multi-disciplinary academic field devoted to research into religious
-  beliefs.
-meta-keywords: 'BA in Religion, major in religion, Temple Department of Religion'
+   Earn your BA in Religion from Temple University. Study comparative religion in the historical and cultural mecca of Philadelphia.
+meta-keywords: 'BA in Religion, major in religion, temple department of religion, minor in religion, buddhist studies, islamic studies'
 permalink: /undergraduate/
 layout: page
 sidebar: true
