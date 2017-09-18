@@ -1,5 +1,11 @@
 ---
 title: Resources
+meta-description: >-
+  Get help with financial aid, study abroad, and academic resources at the
+  Department of Religion at Temple University.
+meta-keywords: 'temple undergraduate students, temple graduate students, temple financial aid,
+  department of religion scholarships, temple academic advising, american academy of religion,
+  study abroad programs'
 permalink: /resources/
 layout: page
 published: true
@@ -17,7 +23,7 @@ Our department houses and edits the Journal of Ecumenical Studies (J.E.S.), the 
 
 The Graduate Students Association (GSA) of the Department of Religion is the organization through which students are represented on various committees. All current graduate students are members, and active participation is voluntary. Active participation is voluntary, and officers and representatives are elected. The primary task of elected graduate students is communication among students. Representatives attend departmental faculty members, and participate in the Graduate Studies Committee and the Scholarship Awards Committee. Temple University’s Department of Religion holds a permanent seat on the National Committee for Graduate Students of the American Academy of Religion (AAR), and the liaison person can provide information about the AAR and the Society of Biblical Literature (SBL).
 
-### The American Academy of Religion
+### American Academy of Religion
 
 The American Academy of Religion (AAR) is major professional associations of religion scholars. They publish journals, hold annual national and regional meetings and sponsor employment listings. Graduate students in our programs are encouraged to join these organizations, both of which provide student rates. MA or PhD students are also encouraged to present papers or serve on panels at meetings, and our department normally defrays part of the expense. 
 
