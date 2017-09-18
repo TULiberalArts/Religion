@@ -17,18 +17,22 @@ The Department has been strengthened over the years by connections to other univ
 ### Journal of Ecumenical Studies
 Our department houses and edits the Journal of Ecumenical Studies (J.E.S.), the premier journal in inter-religious conversation. Co-founded and edited by Leonard Swidler in 1964, a professor of Catholic Thought and Interreligious Dialogue at Temple, J.E.S is the first peer-reviewed journal in the field. After more than 50 years, J.E.S. continues as the premier publisher of scholarly articles in the field of dialogue across lines of religious difference. Published initially as an intra-Christian endeavor, it quickly evolved into an organ of Christian-Jewish dialogue and then further expanded to include all the world’s major religions and ideologies, including atheism.  
 
+### Study Abroad Programs
+Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to live, study and intern in another country for college credit. Where will you go?
+
+[Learn More about Studying Abroad](https://studyabroad.temple.edu/)
+
 ### Undergraduate Awards
 - **Earle E. and Orpha N. Elder Memorial Scholarship**: This scholarship was established to support undergraduate students majoring in religion, with a preference for students planning on Christian service.
 - **Religion Department Prize for Academic Excellence**: This prize is awarded by the Religion Department to a graduating senior whose work in religion has been outstanding.
 - **Religion Department Merit Prize**: This prize is awarded by the Department of Religion to a graduating senior who has achieved academic excellence and contributed intellectually and socially to the undergraduate life of the department. 
 
-### Undergraduate Awards
-**Earle E. and Orpha N. Elder Memorial Scholarship**
-This scholarship was established to support undergraduate students majoring in religion, with a preference for students planning on Christian service.
-**Religion Department Prize for Academic Excellence**
-This prize is awarded by the Religion Department to a graduating senior whose work in religion has been outstanding.
-**Religion Department Merit Prize**
-This prize is awarded by the Department of Religion to a graduating senior who has achieved academic excellence and contributed intellectually and socially to the undergraduate life of the department.
+### Undergraduate Resources
+- [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
+- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
+- [Graduation Application process](http://www.temple.edu/registrar/students/graduation)
+- [Undergraduate Funding](http://sfs.temple.edu/)
+- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
 
 ### Graduate Organizations
 - **Department of Religion Graduate Student Association:** As a student in the Religion Department, you are automatically a member of the Graduate Student Association (GSA). This is a free and voluntary association, which was organized to give support and a voice to graduate student concerns. By participating in GSA, you contribute to the life and shape of our department. Temple University’s Department of Religion holds a permanent seat on the National Committee for Graduate Students of the American Academy of Religion (AAR).
