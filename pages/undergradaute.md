@@ -2,8 +2,7 @@
 title: Undergraduate
 meta-description: >-
   Earn your BA in Religion from Temple University. Study comparative religion in
-  the historical and cultural mecca of Philadelphia. 
-  meta-keywords: 'BA in
+  the historical and cultural mecca of Philadelphia.  meta-keywords: 'BA in
   Religion, major in religion, temple department of religion, minor in religion,
   buddhist studies, islamic studies'
 permalink: /undergraduate/
@@ -60,9 +59,6 @@ You do not need a religious background to study religion, and our program is one
 
 ### Flexible Coursework
 Majoring in religion is flexible by design; it easily accommodates study abroad plans, internships or a second major or minor. Whether it be Buddhist thought, Islamic law, Christian origins, Jewish philosophy, frican American spirituality, Hindu metaphysics or Confucian and Daoist classics, you’ll work with faculty to design your own personal academic program.
-
-### What Can I do with a Degree in Religion?
-Knowledge of religion - and the ability to think clearly and communicate effectively about it - is a valuable skill. If you earn a degree in religion, you’ll develop an in-demand skillset that is applicable to many professions. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for careers that include public service, diplomacy, journalism, counseling, social work, health and human services and conflict resolution. Some students continue their education in doctoral programs, law school, medical school or prepare for the ministry. With a degree in religion, the world is at your fingertips.
 
 ### Undergraduate Advising
 Our award-winning advising staff helps students take full advantage of the College of Liberal Art’s flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure tey have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opporunities.
