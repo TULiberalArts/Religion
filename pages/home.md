@@ -1,8 +1,11 @@
 ---
 title: Home
 meta-description: >-
-  Study religion at Temple University. We offer courses in all major religions, with an emphasis on the comparison and intersection of     their traditions. 
-meta-keywords: 'department of religion, comparative religion, temple university, buddhist studies, islamic studies, christian studies'
+  Study religion at Temple University. We offer courses in all major religions,
+  with an emphasis on the comparison and intersection of     their traditions. 
+meta-keywords: >-
+  department of religion, comparative religion, temple university, buddhist
+  studies, islamic studies, christian studies
 permalink: /
 layout: home
 feature: false
@@ -17,10 +20,10 @@ Religion is an inescapable force in every culture. It courses through everything
 Students who study at the Department of Religion at Temple University examine the beliefs, values, rituals, text and artifacts of 
 all the world's major religions. Our department provides courses in Buddhist, Islamic, Jewish African American and Christian studies with an emphasis on the comparison and intersection of their traditions. Our department houses the Journal of Ecumenical Studies, which supports our efforts toward inter-religious conversation. Founded in 1961, the Department of Religion is fueled by the wisdom that if you only know one religion, you actually don’t know any. 
 
-## Apply to Temple University
+### Apply to Temple University
 Ready to apply? Submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
-## Academic Offerings
+### Academic Offerings
 
 - [Bachelors of Arts in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 - [Minor in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/minor-religion/)
