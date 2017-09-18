@@ -71,17 +71,14 @@ As a student working toward your MA or PhD, you’ll be guided toward a concentr
 
 Possible concentrations include:
 
-- African and African American History
-- African and African American Literature
-- African American Drama
-- African American Psychology
-- African Civilizations
-- African Languages
-- Afrocentric Theory
-- Caribbean Culture
-- Cultural Studies
-- Ethnographic Methods
-- Gender, Sexuality and Women’s Studies
+- African Diaspora Christianity
+- Gender & Religious Community
+- Islamic Studies
+- Jewish Studies
+- Animals and Religion
+- Religion & Sociology
+- Tibetan Buddhism
+- Interfaith Dialogue & Mysticism
 
 ### Temple Graduate School Funding
 At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private, and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience. 
