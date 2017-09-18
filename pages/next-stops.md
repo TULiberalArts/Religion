@@ -1,19 +1,17 @@
 ---
 title: Next Stops
-meta-description: >-
-
-meta-keywords: ''
 permalink: /next-stops/
 layout: page
 published: true
 ---
+## What Can I do with a Degree in Religion?
+What Can I do with a Degree in Religion?
+Knowledge of religion - and the ability to think clearly and communicate effectively about it - is a valuable skill. If you earn a degree in religion, you’ll develop an in-demand skillset that is applicable to many professions. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for careers that include public service, diplomacy, journalism, counseling, social work, health and human services and conflict resolution. Some students continue their education in doctoral programs, law school, medical school or prepare for the ministry. With a degree in religion, the world is at your fingertips.
 
 ## Next Stops:
-
 Religion students graduate from Temple well-positioned to enter many professional disciplines, including law, medicine, business, politics, journalism and philanthropy.
 
 ## Make Your Declaration
-
 The College of Liberal Arts has the largest selection of academic offerings at Temple University.
 Our students have the flexibility to explore all of their interests – from the hu- manities and
 social sciences to business and the media arts.
@@ -21,7 +19,6 @@ social sciences to business and the media arts.
 For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu).
 
 ## Visit Us!
-
 The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
 
 ## Thinking Of Transferring?
