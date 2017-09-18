@@ -75,7 +75,7 @@ At Temple, we believe that students from all walks of life should have access to
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
-### Undergraduate Admissions to Temple University
+### Undergraduate Admissions
 
 Ready to apply? Submit your online application at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
