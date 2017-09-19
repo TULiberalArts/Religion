@@ -2,20 +2,22 @@
 title: Resources
 permalink: /resources/
 layout: page
-keywords: 'temple undergraduate students, temple graduate students, temple financial aid, department of religion scholarships, temple academic advising, american academy of religion, study abroad programs'
+keywords: >-
+  temple undergraduate students, temple graduate students, temple financial aid,
+  department of religion scholarships, temple academic advising, american
+  academy of religion, study abroad programs
 description: >-
   Get help with financial aid, study abroad, and academic resources at the
   Department of Religion at Temple University.
 published: true
 ---
-## Associations and Affiliations
-The Department has been strengthened over the years by connections to other universities in our region and around the globe. We have had a vital exchange program with the University of Tübingen in Germany, and another with Gadjah Mada University in Yogyakarta, Indonesia. We benefit from consortial agreements with the Department of Religious Studies at the University of Pennsylvania, Palmer Theological Seminary, Lutheran Theological Seminary, The Reconstructionist Rabbinical College, and Westminster Theological Seminary. 
+## Department of Religion Resources
 
 ### Journal of Ecumenical Studies
-Our department houses and edits the Journal of Ecumenical Studies (J.E.S.), the premier journal in inter-religious conversation. Co-founded and edited by Leonard Swidler in 1964, a professor of Catholic Thought and Interreligious Dialogue at Temple, J.E.S is the first peer-reviewed journal in the field. After more than 50 years, J.E.S. continues as the premier publisher of scholarly articles in the field of dialogue across lines of religious difference. Published initially as an intra-Christian endeavor, it quickly evolved into an organ of Christian-Jewish dialogue and then further expanded to include all the world’s major religions and ideologies, including atheism. 
+Our department houses and edits the _Journal of Ecumenical Studies_ (J.E.S.), the premier journal in inter-religious conversation. Co-founded and edited by Leonard Swidler in 1964, a professor of Catholic Thought and Interreligious Dialogue at Temple, J.E.S is the first peer-reviewed publication in our discipline. Published initially as an intra-Christian endeavor, it quickly evolved to include Christian-Jewish dialogue and then further expanded to include all the world’s major religions and ideologies, including atheism.  
 
 ### The Dialogue Institute
-The Dialogue Institute (DI) is based at Temple University and is associated with the Journal of Ecumenical Studies. The DI leads and sustains a movement of interreligious and intercultural dialogue within an academic setting and on a global scale. In partnership with the Temple University Department of Religion, the DI offers graduate courses and opportunity for independent study in the area of Interreligious Dialogue. Graduate student interns contribute original research and produce new resources to further interreligious understanding and action. For more information contact the [Dialogue Institute office](mailto:info@dialogueinstitute.org).
+The Dialogue Institute (DI), based at Temple University, is associated with the Journal of Ecumenical Studies. The DI leads and sustains a movement of interreligious and intercultural dialogue within an academic setting and on a global scale. In partnership with the Temple University Department of Religion, the DI offers graduate courses and opportunities for independent study in interfaith dialogue. Graduate student interns contribute original research and produce new resources to further interreligious understanding and action. For more information contact the [Dialogue Institute office] (mailto:info@dialogueinstitute.org). 
 
 ### Study Abroad Programs
 Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; studying abroad will change your life more than any other part of your college experience. Study Architecture in Rome, Spanish in Ecudor or intern in Singapore. Take advantage of your opportunity to live, study and intern in another country for college credit. Where will you go? 
