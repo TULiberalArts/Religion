@@ -4,7 +4,9 @@ permalink: /graduate/
 description: >-
   Earn your MA or PhD in Religion from Temple University. Specialize in Buddhist
   Studies, Islamic Studies, Jewish Studies or comparative religion.
-keywords: 'islamic studies, department of religion, PhD in religion, MA in religion, graduate program in religion'
+keywords: >-
+  islamic studies, department of religion, PhD in religion, MA in religion,
+  graduate program in religion
 layout: page
 published: true
 sidebar: true
@@ -44,10 +46,11 @@ sidebar-content: |
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
 ## Earn an MA or PhD in Religion at Temple University
-As part of a major public university, the Department in Religion at Temple University deals with religion as an academic discipline without bias or favoritism for one religious or philosophical tradition over another. Our courses provide graduate students with broad coverage of religious phenomena in the world, but Department of Religion faculty also lead specialized study in major world religions. Because the academic study of religion is multidisciplinary, our courses draw from history, literature, philosophy, politics, art and the social sciences.
-We have strong cooperative relationships with other programs in the College of Liberal Arts. 
+As part of a major public university, the Department of Religion deals with religion as an academic discipline without bias or favoritism for one religious or philosophical tradition over another. Because the academic study of religion is multidisciplinary, our courses draw from history, literature, philosophy, politics, art and the social sciences. Many of our graduates go on to become leaders in their communities. They are teachers, administrators, doctors and lawyers.
 
-Graduate students in religion take a combination of foundations courses and specialized seminars. Foundations courses cover a broad range of religious traditions. Each course covers the basic thought, pracices and history of one of the following: African religions, African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Islam or Judaism. Other Foundations courses deal with methodologies in the study of religion, including historical-textual, social scientific and philosophical approaches. Advanced or specialized seminars deal with religion, race and ethnicity in various traditions, time periods and areas of the world. 
+We have strong relationships with other programs in the College of Liberal Arts in addition to outside secular and reigious educational institutions. These include the University of Pennsylvania's Department of Religious Studies, the Reconstructionist Rabbinical College, the Eastern Baptist Theological Seminary and the Lutheran Theological Seminary in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program.
+
+Graduate students in religion take a combination of foundations courses and specialized seminars. Foundations courses cover a broad range of religious traditions. Each course covers the basic thought, practices and history of one of the following: African religions, African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Islam or Judaism. Other Foundations courses deal with methodologies in the study of religion, including historical-textual, social scientific and philosophical approaches. Advanced or specialized seminars deal with religion, race and ethnicity in various traditions, time periods and areas of the world. 
 
 ### MA in Religion
 Our MA in Religion program is designed for the following students
