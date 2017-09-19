@@ -7,7 +7,7 @@ published: true
 ## What Can I do with a Degree in Religion?
 If you earn a degree in religion, you’ll develop an in-demand skill set that is applicable to many professions. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for work in public service, diplomacy, journalism, counseling, social work, health and human services and conflict resolution. Some students continue their education in doctoral programs, law school, medical school or prepare for the ministry. With a degree in religion, the world is at your fingertips.
 
-Graduates in religion have job titles that include the following
+Graduates in religion have job titles that include
 
 - Campus Minister
 - Peace Corps Worker
