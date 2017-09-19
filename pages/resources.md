@@ -25,9 +25,9 @@ Temple students can study abroad in almost any country through our programs, exc
 [Learn More about Studying Abroad](https://studyabroad.temple.edu/)
 
 ### Undergraduate Awards
-- **Earle E. and Orpha N. Elder Memorial Scholarship**: This scholarship was established to support undergraduate students majoring in religion, with a preference for students planning on Christian service.
-- **Religion Department Prize for Academic Excellence**: This prize is awarded by the Religion Department to a graduating senior whose work in religion has been outstanding.
-- **Religion Department Merit Prize**: This prize is awarded by the Department of Religion to a graduating senior who has achieved academic excellence and contributed intellectually and socially to the undergraduate life of the department. 
+- **Earle E. and Orpha N. Elder Memorial Scholarship**: Established to support religion majors, this scholarship is for students planning on going into Christian service.
+- **Religion Department Prize for Academic Excellence**: Awarded to a graduating senior, this award is given by the religion department for an undergraduate who has completed outstanding work.
+- **Religion Department Merit Prize**: This prize is awarded by the Department of Religion to a graduating senior for academic excellence and intellectual and social contributions to our department.
 
 ### Undergraduate Resources
 - [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
@@ -37,8 +37,8 @@ Temple students can study abroad in almost any country through our programs, exc
 - [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
 
 ### Graduate Organizations
-- **Department of Religion Graduate Student Association:** As a student in the Religion Department, you are automatically a member of the Graduate Student Association (GSA). This is a free and voluntary association, which was organized to give support and a voice to graduate student concerns. By participating in GSA, you contribute to the life and shape of our department. Temple University’s Department of Religion holds a permanent seat on the National Committee for Graduate Students of the American Academy of Religion (AAR).
-- **American Academy of Religion**: The American Academy of Religion (AAR) is the major professional association of religion scholars and is closely associated with the Society of Biblical Literature. Graduate students in our programs are encouraged to join these organizations, both of which provide reduced student rates. MA or PhD students are also encouraged to present papers or serve on panels at meetings, and our department normally defrays part of the expense. 
+- **Department of Religion Graduate Student Association:** As a student in the Religion Department, you are automatically a member of the Graduate Student Association (GSA). Free and voluntary, the GSA gives support and a voice to graduate student concerns. Temple University’s Department of Religion holds a permanent seat on the National Committee for Graduate Students of the American Academy of Religion (AAR).
+- **American Academy of Religion**: The American Academy of Religion (AAR) is the major professional association of religion scholars and is closely associated with the Society of Biblical Literature. Graduate students in our programs are encouraged to join these organizations, both of which provide reduced student rates. MA or PhD students are also encouraged to present papers or serve on panels at meetings; our department usually provides financial support to for these endeavors. 
 - **Council on Graduate Studies in Religion**: The Department of Religion is a long-standing member on the Council on Graduate Studies in Religion (CGSR). The Council is a consultative body made up of over 30 preeminent institutions in the United States and Canada that offer a PhD in Religion, Religious Studies or Theology. Members meet once a year, usually concurrently with annual meetings of the American Academy of Religion and the Society of Biblical Literature. CGSR takes up a broad range of issues in graduate education in religion and theology. 
 
 ### Graduate Resources
