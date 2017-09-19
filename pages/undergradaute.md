@@ -1,53 +1,11 @@
 ---
-title: Undergraduate
-permalink: /undergraduate/
-description: >-
-  Earn your BA in Religion from Temple University. Study comparative religion in
-  the historical and cultural mecca of Philadelphia.   meta-keywords: 'BA in
-  Religion, major in religion, temple department of religion, minor in religion,
-  buddhist studies, islamic studies'
-keywords: ''
 layout: page
-published: true
-sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Dr. Khalid A. Y. Blankinship  
-   619 Anderson Hall  
-   [(215) 204-5543](tel:2152045543)  
-   [kblankin@temple.edu](mailto:kblankin@temple.edu)  
-   
-   ___
-   
-   **Undergraduate Chair:**  
-   Dr. Mark Leuchter  
-   613 Anderson Hall    
-   [mark.leuchter@temple.edu](mailto:mark.leuchter@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Maggie Cogswell  
-   1008A Gladfelter Hall   
-   [(215) 204-9209](tel:2152049209)  
-   [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)  
-   
-   ___
-
-   **Coordinators:**  
-   Linda Jenkins  
-   615 Anderson Hall    
-   [(215) 204-7973](tel:2152047973)   
-   [JenkinsL@temple.edu](mailto:JenkinsL@temple.edu)  
-
-   Jemina Quarles  
-   614 Anderson Hall    
-   [(215) 204-3663](tel:2152043663)  
-   [jemi@temple.edu](mailto:jemi@temple.edu)
-published: true
+published: false
+title: Untitled
 ---
 ## BA in Religion
-Religious studies, alternately known as the study of religion, is the multi-disciplinary academic field devoted to research into religious beliefs, behaviors, and institutions. Understanding religion is an essential part of being a well-informed liberal arts student, and it enhances studies a broad range of other displines. If you major in religion, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars in the field. The Temple department of religion, located in the historical and cultural mecca of Philadelphia, prepares students for life in a pluralistic culture.
+Religion is a powerful social and cultural force in human history. Religion is integral to human cultures, and has led to both wars and social justice movements. Whether the topic of conversation is Syrian refugees, the voting habits of evangelical Americans or the Israeli-Palestinian conflict, having insights about religion is key to understanding current events. If you major in religion at Temple, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars. 
+The Bachelor of Arts in Religion is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential to success in any career.
 
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
@@ -57,7 +15,7 @@ Do you plan on becoming a doctor? Are you considering going into law? Do you see
 [Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 
 ### Do I Need to be Religious to study Religion?
-You do not need a religious background to study religion, and our program is one of the most diverse at Temple University. Both our students and faculty members come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. We believe that being exposed to different perspectives enhances creativity and prepares students to live in a culturally diverse society.
+You do not need a religious background to study religion, and our program is one of the most diverse at Temple University. Both our students and faculty members come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. We believe that being exposed to different perspectives enhances creativity and prepares students to live in a culturally diverse society. 
 
 ### Flexible Coursework
 Majoring in religion is flexible by design; it easily accommodates study abroad plans, internships or a second major or minor. Whether it be Buddhist thought, Islamic law, Christian origins, Jewish philosophy, frican American spirituality, Hindu metaphysics or Confucian and Daoist classics, you’ll work with faculty to design your own personal academic program.
