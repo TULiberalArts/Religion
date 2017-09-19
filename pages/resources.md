@@ -1,14 +1,11 @@
 ---
 title: Resources
-meta-description: >-
-  Get help with financial aid, study abroad, and academic resources at the
-  Department of Religion at Temple University.
-meta-keywords: >-
-  temple undergraduate students, temple graduate students, temple financial aid,
-  department of religion scholarships, temple academic advising, american
-  academy of religion, study abroad programs
 permalink: /resources/
 layout: page
+keywords: 'temple undergraduate students, temple graduate students, temple financial aid, department of religion scholarships, temple academic advising, american academy of religion, study abroad programs'
+description: >-
+  Get help with financial aid, study abroad, and academic resources at the
+  Department of Religion at Temple University.
 published: true
 ---
 ## Associations and Affiliations
