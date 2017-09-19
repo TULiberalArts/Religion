@@ -50,7 +50,7 @@ As part of a major public university, the Department of Religion deals with reli
 
 We have strong relationships with other programs in the College of Liberal Arts in addition to outside secular and reigious educational institutions. These include the University of Pennsylvania's Department of Religious Studies, the Reconstructionist Rabbinical College, the Eastern Baptist Theological Seminary and the Lutheran Theological Seminary in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program.
 
-Graduate students in religion take a combination of foundations courses and specialized seminars. Foundations courses cover a broad range of religious traditions. Each course covers the basic thought, practices and history of one of the following: African religions, African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Islam or Judaism. Other Foundations courses deal with methodologies in the study of religion, including historical-textual, social scientific and philosophical approaches. Advanced or specialized seminars deal with religion, race and ethnicity in various traditions, time periods and areas of the world. 
+Graduate students in religion take a combination of foundations courses and specialized seminars. Foundations courses cover a broad range of religious traditions. Each course covers the basic thought, practices and history of one of the following: African religions, African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Islam or Judaism. Other Foundations courses deal with methodologies in the study of religion, including historical-textual, social scientific and philosophical approaches. Advanced or specialized seminars deal with religion in context of race and ethnicity, time and place. 
 
 ### MA in Religion
 Our MA in Religion program is designed for the following students
@@ -64,7 +64,7 @@ Our MA in Religion program is designed for the following students
 [Learn More about Our Master’s in Religion Program](http://www.cla.temple.edu/religion/graduate/master-of-arts-program/)
 
 ### PhD in Religion
-One of our biggest strengths of our PhD program is our breadth and diversity; students are given a broad and interdisciplinary introduction to Religion in the first unit of study and take courses in other departments and institutions in the second unit of study. We are committed to the multidisciplinary study of global religious traditions. This gives our program an outstanding breadth and cross-cultural diversity. We have a long history of attracting students from all over the world, and our graduates now work in universities in North America, Africa, Europe and Asia.
+One of our biggest strengths of our PhD program is our breadth and diversity; students are given a broad and interdisciplinary introduction to Religion in the first unit of study and take courses in other departments and institutions in the second unit of study. We are committed to the multidisciplinary study of global religious traditions; This gives our program an outstanding breadth and cross-cultural diversity. We have a long history of attracting students from all over the world, and our graduates work in major North American, African, European and Asian universities. 
 
 [Learn More about Our PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
 
@@ -83,7 +83,7 @@ Possible concentrations include
 - Interfaith Dialogue & Mysticism
 
 ### Temple Graduate School Funding
-At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private, and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience. 
+At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience. 
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
