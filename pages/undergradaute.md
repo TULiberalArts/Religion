@@ -1,8 +1,46 @@
 ---
-layout: page
-published: false
-title: Untitled
----
+title: Undergraduate		
+permalink: /undergraduate/		
+description: >-		
+   Earn your BA in Religion from Temple University. Study comparative religion in	the historical and cultural mecca of Philadelphia.   
+ keywords: 'BA in Religion, major in religion, temple department of religion, minor in religion, buddhist studies, islamic studies'		
+ layout: page
+published: true
+sidebar: true
+sidebar-content: |		
+ **Chair:**  		
+   Dr. Khalid A. Y. Blankinship  		
+   619 Anderson Hall  		
+   [(215) 204-5543](tel:2152045543)  		
+   [kblankin@temple.edu](mailto:kblankin@temple.edu)  		
+    ___		
+   		
+   **Undergraduate Chair:**  		
+   Dr. Mark Leuchter  		
+   613 Anderson Hall    		
+   [mark.leuchter@temple.edu](mailto:mark.leuchter@temple.edu)  		
+   		
+   ___		
+   		
+   **Administrator:**  		
+   Maggie Cogswell  		
+   1008A Gladfelter Hall   		
+   [(215) 204-9209](tel:2152049209)  		
+   [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)  		
+   		
+   ___		
+		
+   **Coordinators:**  		
+   Linda Jenkins  		
+   615 Anderson Hall    		
+   [(215) 204-7973](tel:2152047973)   		
+   [JenkinsL@temple.edu](mailto:JenkinsL@temple.edu)  		
+		
+   Jemina Quarles  		
+   614 Anderson Hall    		
+   [(215) 204-3663](tel:2152043663)  		
+   [jemi@temple.edu](mailto:jemi@temple.edu)			
+ ---
 ## BA in Religion
 Religion is a powerful social and cultural force in human history. From Syrian refugees to the voting habits of evangelical Americans, insights about religion are key to understanding current events. If you major in religion at Temple, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars. The Bachelor of Arts in Religion is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential for success in any career.
 
@@ -11,7 +49,7 @@ Religion is a powerful social and cultural force in human history. From Syrian r
 ## Minor in Religion
 Do you plan on becoming a doctor? Are you considering going into law? Do you see yourself teaching? No matter what your career is, cultural sensitivity, analytical thinking, and excellent writing and verbal communications are valuable tools.  
 
-[Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/) 
+[Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 
 ## Do I Need to be Religious to study Religion?
 You do not need a religious background to study religion, and our program is one of the most diverse at Temple University. Our students and faculty come from different religious traditions, cultures, ethnic backgrounds, genders and sexualities. We believe that being exposed to different perspectives enhances creativity and prepares students to live in a globalized society.   
@@ -30,7 +68,7 @@ For more than 125 years, we have focused on providing a world-class education at
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Financial Aid and Scholarships
-At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience. 
+At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
