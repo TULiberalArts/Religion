@@ -9,7 +9,7 @@ Religion is a powerful social and cultural force in human history. From Syrian r
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
 ## Minor in Religion
-Do you plan on becoming a doctor? Are you considering going into law? Do you see yourself teaching? No matter what your career is, cultural sensitivity, analytical thinking, and excellent writing and verbal communications are valuable tools.
+Do you plan on becoming a doctor? Are you considering going into law? Do you see yourself teaching? No matter what your career is, cultural sensitivity, analytical thinking, and excellent writing and verbal communications are valuable tools.  
 
 [Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/) 
 
