@@ -25,12 +25,12 @@ Graduates in religion have job titles that include
 - High School Teacher
 - Social Worker
 
-### Make Your Declaration
+## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
 [View Our Complete List of Academic Offerings](liberalarts.temple.edu)
 
-### Visit Us!
+## Visit Us!
 To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, Philadelphia is a place to learn and branch out. Undergraduate Admissions offers tours daily. If you would like to experience the College of Liberal Arts in person, get in touch with us.
 
 [Learn More](http://admissions.temple.edu/visit)
