@@ -20,7 +20,7 @@ Our department houses and edits the _Journal of Ecumenical Studies_ (J.E.S.), th
 The Dialogue Institute (DI), based at Temple University, is associated with the Journal of Ecumenical Studies. The DI leads and sustains a movement of interreligious and intercultural dialogue within an academic setting and on a global scale. In partnership with the Temple University Department of Religion, the DI offers graduate courses and opportunities for independent study in interfaith dialogue. Graduate student interns contribute original research and produce new resources to further interreligious understanding and action. For more information contact the [Dialogue Institute office] (mailto:info@dialogueinstitute.org). 
 
 ## Study Abroad Programs
-Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; studying abroad will change your life more than any other part of your college experience. Study Architecture in Rome, Spanish in Ecudor or intern in Singapore. Take advantage of your opportunity to live and study in another country for college credit. Where will Temple take you?  
+Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to live, study and intern in another country for college credit. Where will Temple take you?
 
 [Learn More about Studying Abroad](https://studyabroad.temple.edu/)
 
