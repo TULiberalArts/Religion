@@ -30,6 +30,11 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 
 [View Our Complete List of Academic Offerings](liberalarts.temple.edu)
 
+## Study Abroad Programs
+Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to live, study and intern in another country for college credit. Where will Temple take you?
+
+[Learn More about Studying Abroad](https://studyabroad.temple.edu/)
+
 ## Visit Us!
 To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, Philadelphia is a place to learn and branch out. Undergraduate Admissions offers tours daily. If you would like to experience the College of Liberal Arts in person, get in touch with us.
 
