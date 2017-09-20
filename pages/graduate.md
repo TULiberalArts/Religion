@@ -52,7 +52,7 @@ We have strong relationships with other programs in the College of Liberal Arts 
 
 Graduate students in religion take a combination of foundations courses and specialized seminars. Foundations courses cover a broad range of religious traditions. Each course covers the basic thought, practices and history of one of the following: African religions, African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Islam or Judaism. Other Foundations courses deal with methodologies in the study of religion, including historical-textual, social scientific and philosophical approaches. Advanced or specialized seminars deal with religion in context of race and ethnicity, time and place. 
 
-### MA in Religion
+## MA in Religion
 Our MA in Religion program is designed for the following students
 
 - Students who want to qualify for a PhD program in Religion or a related field (While some graduates from our master’s program apply for the Temple's PhD in Religion program, it is a separate process.)
@@ -63,12 +63,12 @@ Our MA in Religion program is designed for the following students
 
 [Learn More about Our Master’s in Religion Program](http://www.cla.temple.edu/religion/graduate/master-of-arts-program/)
 
-### PhD in Religion
+## PhD in Religion
 One of our biggest strengths of our PhD program is our breadth and diversity; students are given a broad and interdisciplinary introduction to Religion in the first unit of study and take courses in other departments and institutions in the second unit of study. We are committed to the multidisciplinary study of global religious traditions; This gives our program an outstanding breadth and cross-cultural diversity. We have a long history of attracting students from all over the world, and our graduates work in major North American, African, European and Asian universities. 
 
 [Learn More about Our PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
 
-### Academic Advising
+## Academic Advising
 As a student working toward your MA or PhD, you’ll be guided toward a concentration based on your interests and the available resources at the department.
 
 Possible concentrations include
@@ -82,15 +82,15 @@ Possible concentrations include
 - Tibetan Buddhism
 - Interfaith Dialogue & Mysticism
 
-### Temple Graduate School Funding
+## Temple Graduate School Funding
 At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience. 
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
-### Tuition and Fees
+## Tuition and Fees
 For more than 125 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other comparable universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate. 
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
-### Apply to Temple
+## Apply to Temple
 If you're ready to apply [submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
