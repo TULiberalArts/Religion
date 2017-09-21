@@ -11,8 +11,6 @@ description: >-
   Department of Religion at Temple University.
 published: true
 ---
-## Department of Religion Resources
-
 ## Journal of Ecumenical Studies
 Our department houses and edits the _Journal of Ecumenical Studies_ (J.E.S.), the premier journal in inter-religious conversation. Co-founded and edited by Leonard Swidler in 1964, a professor of Catholic Thought and Interreligious Dialogue at Temple, J.E.S is the first peer-reviewed publication in our discipline. Published initially as an intra-Christian endeavor, it quickly evolved to include Christian-Jewish dialogue and then further expanded to include all the world’s major religions and ideologies, including atheism.  
 
