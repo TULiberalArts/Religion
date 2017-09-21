@@ -4,9 +4,7 @@ permalink: /
 description: >-
   Study religion at Temple University. We offer courses in all major religions,
   with an emphasis on the comparison and intersection of their traditions. 
-keywords: >-
-  department of religion, comparative religion, temple university, buddhist
-  studies, islamic studies, christian studies
+keywords: 'department of religion, comparative religion, temple university, buddhist studies, islamic studies, christian studies'
 layout: home
 feature: false
 feature-title: null
