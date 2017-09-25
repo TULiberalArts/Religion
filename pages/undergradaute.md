@@ -1,9 +1,5 @@
 ---
 layout: page
-published: false
-title: Untitled
----
----
 title: Undergraduate		
 permalink: /undergraduate/		
 description: >-		
