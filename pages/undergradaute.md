@@ -6,6 +6,40 @@ description: >-
 keywords: 'BA in Religion, major in religion, temple department of religion, minor in religion, buddhist studies, islamic studies'
 layout: page
 published: true
+sidebar: true
+sidebar-content: |
+  **Chair:**
+   Dr. Khalid A. Y. Blankinship
+   619 Anderson Hall
+   [(215) 204-5543](tel:2152045543)
+   [kblankin@temple.edu](mailto:kblankin@temple.edu)
+    ___
+   
+   **Undergraduate Chair:**
+   Dr. Mark Leuchter
+   613 Anderson Hall
+   [mark.leuchter@temple.edu](mailto:mark.leuchter@temple.edu)
+   
+   ___
+   
+   **Administrator:**
+   Maggie Cogswell
+   1008A Gladfelter Hall
+   [(215) 204-9209](tel:2152049209)
+   [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)
+   
+   ___
+
+   **Coordinators:**
+   Linda Jenkins
+   615 Anderson Hall
+   [(215) 204-7973](tel:2152047973)
+   [JenkinsL@temple.edu](mailto:JenkinsL@temple.edu)
+
+   Jemina Quarles
+   614 Anderson Hall
+   [(215) 204-3663](tel:2152043663)
+   [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
 ## BA in Religion
 Religion is a powerful social and cultural force in human history. From Syrian refugees to the voting habits of evangelical Americans, insights about religion are key to understanding current events. If you major in religion at Temple, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars. The Bachelor of Arts in Religion is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential for success in any career.
