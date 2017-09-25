@@ -40,7 +40,7 @@ sidebar-content: |
    614 Anderson Hall
    [(215) 204-3663](tel:2152043663)
    [jemi@temple.edu](mailto:jemi@temple.edu)
- ---
+---
 ## BA in Religion
 Religion is a powerful social and cultural force in human history. From Syrian refugees to the voting habits of evangelical Americans, insights about religion are key to understanding current events. If you major in religion at Temple, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars. The Bachelor of Arts in Religion is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential for success in any career.
 
