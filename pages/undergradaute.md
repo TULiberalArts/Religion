@@ -1,8 +1,13 @@
 ---
+layout: page
+published: false
+title: Untitled
+---
+---
 title: Undergraduate		
 permalink: /undergraduate/		
 description: >-		
-   Earn your BA in Religion from Temple University. Study comparative religion in the historical and cultural mecca of Philadelphia.   
+   Earn your BA in Religion from Temple University. Study comparative religion in the historical and            cultural mecca of Philadelphia.   
 keywords: 'BA in Religion, major in religion, temple department of religion, minor in religion, buddhist studies, islamic studies'		
 layout: page
 published: true
