@@ -38,7 +38,7 @@ In collaboration with institutions in Philadelphia and beyond, the Feinstein Cen
 ## Department of Religion Graduate Student Association
 As a student in the Religion Department, you are automatically a member of the Graduate Student Association (GSA). Free and voluntary, the GSA gives support and a voice to graduate student concerns. Temple University’s Department of Religion holds a permanent seat on the National Committee for Graduate Students of the American Academy of Religion (AAR).
 
-## American Academy of Religion: 
+## American Academy of Religion
 The American Academy of Religion (AAR) is the major professional association of religion scholars and is closely associated with the Society of Biblical Literature. Graduate students in our programs are encouraged to join these organizations at reduced student rates. MA or PhD students are also encouraged to present papers or serve on panels at meetings; our department usually provides financial support to for these endeavors. 
 
 ## Council on Graduate Studies in Religion
