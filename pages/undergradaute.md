@@ -51,7 +51,7 @@ Whether you are interested in Buddhist thought, Islamic law, Daoist classics, Je
 ## Minor in Religion
 Do you plan on becoming a doctor? Are you considering going into law? Do you see yourself teaching? No matter what you plan on doing with your education, if you minor in religion, you'll develop cultural sensitivity, analytical thinking and excellent writing and verbal communication skills. You do not need any particular background to study at our department, our students and faculty come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. 
 
-[Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/) 
+[Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/minor-religion/) 
 
 ## Academic Advising and Professional Development
 Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
