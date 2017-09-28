@@ -45,7 +45,7 @@ The American Academy of Religion (AAR) is the major professional association of 
 The Department of Religion is a long-standing member on the Council on Graduate Studies in Religion (CGSR). The Council is a consultative body made up of over 30 preeminent institutions in the United States and Canada that offer a PhD in Religion, Religious Studies or Theology. Members meet once a year, usually concurrently with annual meetings of the American Academy of Religion and the Society of Biblical Literature. CGSR takes up a broad range of issues in graduate education in religion and theology. 
 
 ## Graduate Resources
-- [Graduate Handbook](http://www.cla.temple.edu/africanamericanstudies/files/2017/04/AAAS-Grad-Handbook-Revised-2017-18-Final.pdf)
+- Graduate Handbook
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
