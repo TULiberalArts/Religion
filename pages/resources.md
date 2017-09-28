@@ -33,8 +33,6 @@ In collaboration with institutions in Philadelphia and beyond, the Feinstein Cen
 - [Undergraduate Funding](http://sfs.temple.edu/)
 - [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
 
-## Graduate Organizations
-
 ## Department of Religion Graduate Student Association
 As a student in the Religion Department, you are automatically a member of the Graduate Student Association (GSA). Free and voluntary, the GSA gives support and a voice to graduate student concerns. Temple University’s Department of Religion holds a permanent seat on the National Committee for Graduate Students of the American Academy of Religion (AAR).
 
