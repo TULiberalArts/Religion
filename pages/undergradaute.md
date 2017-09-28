@@ -2,8 +2,11 @@
 title: Undergraduate
 permalink: /undergraduate/
 description: >-
-  Earn your BA in Religion from Temple University. Study comparative religion in the historical and cultural mecca of Philadelphia.
-keywords: 'BA in Religion, major in religion, temple department of religion, minor in religion, buddhist studies, islamic studies'
+  Earn your BA in Religion from Temple University. Study comparative religion in
+  the historical and cultural mecca of Philadelphia.
+keywords: >-
+  BA in Religion, major in religion, temple department of religion, minor in
+  religion, buddhist studies, islamic studies
 layout: page
 published: true
 sidebar: true
@@ -39,28 +42,28 @@ sidebar-content: |
    Jemina Quarles  
    614 Anderson Hall  
    [(215) 204-3663](tel:2152043663)  
-   [jemi@temple.edu](mailto:jemi@temple.edu)  
+   [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
 ## BA in Religion
-Religion is a powerful social and cultural force in human history. From Syrian refugees to the voting habits of evangelical Americans, insights about religion are key to understanding current events. If you major in religion at Temple, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars. The Bachelor of Arts in Religion is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential for success in any career.
+From Syrian refugees to the voting habits of evangelical Americans, understanding religion is key to putting context to current and historical events. If you major in religion at Temple, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars. The Bachelor of Arts in Religion is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential you need for success. Majoring in religion is flexible by design; it easily accommodates study abroad programs, internships or a second major or minor. 
+Whether you are interested in Buddhist thought, Islamic law, Daoist classics, Jewish mysticism or African American spirituality, our faculty works with you to design a personalized academic plan.  
 
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
 ## Minor in Religion
-Do you plan on becoming a doctor? Are you considering going into law? Do you see yourself teaching? No matter what your career is, cultural sensitivity, analytical thinking, and excellent writing and verbal communications are valuable tools.  
+Do you plan on becoming a doctor? Are you considering going into law? Do you see yourself teaching? No matter what you plan on doing with your education, if you minor in religion, you'll develop cultural sensitivity, analytical thinking and excellent writing and verbal communication skills. You do not need any particular background to study at our department, our students and faculty come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. 
 
-[Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
+[Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/) 
 
-## Do I Need to be Religious to study Religion?
-You do not need a religious background to study religion, and our program is one of the most diverse at Temple University. Our students and faculty come from different religious traditions, cultures, ethnic backgrounds, genders and sexualities. We believe that being exposed to different perspectives enhances creativity and prepares students to live in a globalized society.   
+## Academic Advising and Professional Development
+Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
 
-## Flexible Coursework
-Majoring in religion is flexible by design; it easily accommodates study abroad plans, internships or a second major or minor. Whether it be Buddhist thought, Islamic law, Christian origins, Jewish philosophy, frican American spirituality, Hindu metaphysics or Confucian and Daoist classics, you’ll work with faculty to design your own personal academic program.
+[Learn More About Our Advising Staff](https://liberalarts.temple.edu/advising)
 
-## Undergraduate Advising
-Our award-winning advising staff assists students develop personalized academic plans that ensure timely graduation. We work closely with you to take full advantage of the College of Liberal Art's flexible curriculum by complementing academic work with study abroad programs, internships and experiential learning opportunities.
+## Fly in Four
+Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
 
-[Learn More](https://liberalarts.temple.edu/advising)
+[Learn How to Fly in Four](http://fly.temple.edu/)
 
 ## Tuition and Fees
 For more than 125 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other comparable universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate.
@@ -73,7 +76,7 @@ At Temple, we believe that students from all walks of life should have access to
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
 ## Undergraduate Admissions
-Ready to apply? Submit your online application at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+Are you ready to apply? Submit your [application online](http://admissions.temple.edu/apply).
 
 ## Curriculum and Academic Requirements
 - [Bachelor of Arts in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
