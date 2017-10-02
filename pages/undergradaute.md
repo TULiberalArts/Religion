@@ -4,7 +4,9 @@ permalink: /undergraduate/
 description: >-
   Earn your BA in Religion from Temple University. Study comparative religion in
   the historical and cultural mecca of Philadelphia.
-keywords: 'BA in Religion, major in religion, temple department of religion, minor in religion, buddhist studies, islamic studies'
+keywords: >-
+  BA in Religion, major in religion, temple department of religion, minor in
+  religion, buddhist studies, islamic studies
 layout: page
 published: true
 sidebar: true
@@ -43,13 +45,13 @@ sidebar-content: |
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
 ## BA in Religion
-From Syrian refugees to the voting habits of evangelical Americans, understanding religion is key to putting context to current and historical events. If you major in religion at Temple, you'll be guided through the comparison of religious traditions and their encounters with one another by leading scholars. The Bachelor of Arts in Religion is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential you need for success. Majoring in religion is flexible by design; it easily accommodates study abroad programs, internships or a second major or minor. 
+From Syrian refugees to the voting habits of evangelical Americans, understanding religion is key to putting context to current and historical events. If you major in religion at Temple, you will be guided through the comparison of religious traditions and their encounters with one another by leading scholars. The Bachelor of Arts in Religion is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential you need for success. Majoring in religion is flexible by design; it easily accommodates study abroad programs, internships or a second major or minor. 
 Whether you are interested in Buddhist thought, Islamic law, Daoist classics, Jewish mysticism or African American spirituality, our faculty works with you to design a personalized academic plan.  
 
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
 ## Minor in Religion
-Do you plan on becoming a doctor? Are you considering going into law? Do you see yourself teaching? No matter what you plan on doing with your education, if you minor in religion, you'll develop cultural sensitivity, analytical thinking and excellent writing and verbal communication skills. You do not need any particular background to study at our department, our students and faculty come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. 
+Do you plan to become a doctor? Are you considering going into law? Do you see yourself teaching? No matter what you plan on doing with your college education, a minor in religion helps you develop cultural sensitivity, analytical thinking and excellent writing and verbal communication skills. You do not need any particular background to study at our department, our students and faculty come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. 
 
 [Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/minor-religion/) 
 
