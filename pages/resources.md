@@ -21,6 +21,15 @@ In collaboration with institutions in Philadelphia and beyond, the Feinstein Cen
 
 [Learn More about the Feinstein Center](http://www.cla.temple.edu/feinsteincenter/)
 
+## Department of Religion Graduate Student Association
+As a student in the Religion Department, you are automatically a member of the Graduate Student Association (GSA). Free and voluntary, the GSA gives support and a voice to graduate student concerns. Temple University’s Department of Religion holds a permanent seat on the National Committee for Graduate Students of the American Academy of Religion (AAR).
+
+## American Academy of Religion
+The American Academy of Religion (AAR) is the major professional association of religion scholars and is closely associated with the Society of Biblical Literature. Graduate students in our programs are encouraged to join these organizations at reduced student rates. MA or PhD students are also encouraged to present papers or serve on panels at meetings; our department usually provides financial support to for these endeavors. 
+
+## Council on Graduate Studies in Religion
+The Department of Religion is a long-standing member on the Council on Graduate Studies in Religion (CGSR). The Council is a consultative body made up of over 30 preeminent institutions in the United States and Canada that offer a PhD in Religion, Religious Studies or Theology. Members meet once a year, usually concurrently with annual meetings of the American Academy of Religion and the Society of Biblical Literature. CGSR takes up a broad range of issues in graduate education in religion and theology. 
+
 ## Undergraduate Awards
 - **Earle E. and Orpha N. Elder Memorial Scholarship**: Established to support religion majors, this scholarship is for students planning on going into Christian service.
 - **Religion Department Prize for Academic Excellence**: Awarded to a graduating senior, this award is given by the religion department for an undergraduate who has completed outstanding work.
@@ -32,15 +41,6 @@ In collaboration with institutions in Philadelphia and beyond, the Feinstein Cen
 - [Graduation Application process](http://www.temple.edu/registrar/students/graduation)
 - [Undergraduate Funding](http://sfs.temple.edu/)
 - [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
-
-## Department of Religion Graduate Student Association
-As a student in the Religion Department, you are automatically a member of the Graduate Student Association (GSA). Free and voluntary, the GSA gives support and a voice to graduate student concerns. Temple University’s Department of Religion holds a permanent seat on the National Committee for Graduate Students of the American Academy of Religion (AAR).
-
-## American Academy of Religion
-The American Academy of Religion (AAR) is the major professional association of religion scholars and is closely associated with the Society of Biblical Literature. Graduate students in our programs are encouraged to join these organizations at reduced student rates. MA or PhD students are also encouraged to present papers or serve on panels at meetings; our department usually provides financial support to for these endeavors. 
-
-## Council on Graduate Studies in Religion
-The Department of Religion is a long-standing member on the Council on Graduate Studies in Religion (CGSR). The Council is a consultative body made up of over 30 preeminent institutions in the United States and Canada that offer a PhD in Religion, Religious Studies or Theology. Members meet once a year, usually concurrently with annual meetings of the American Academy of Religion and the Society of Biblical Literature. CGSR takes up a broad range of issues in graduate education in religion and theology. 
 
 ## Graduate Resources
 - Graduate Handbook
