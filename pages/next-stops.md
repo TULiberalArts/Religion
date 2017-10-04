@@ -2,11 +2,8 @@
 title: Next Stops
 permalink: /next-stops/
 description: >-
-  Religion majors develop an in-demand skill set. With a degree in religion from
-  Temple University, the world is at your fingertips.
-keywords: >-
-  islamic studies, department of religion, PhD in religion, MA in religion,
-  graduate program in religion
+  Religion majors develop an in-demand skill set. With a degree in religion from Temple University, the world is at your         fingertips.
+keywords: 'islamic studies, department of religion, PhD in religion, MA in religion, graduate program in religion'
 layout: page
 published: true
 ---
