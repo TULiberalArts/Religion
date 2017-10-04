@@ -2,8 +2,11 @@
 title: Graduate
 permalink: /graduate/
 description: >-
-  Earn your MA or PhD in Religion from Temple University. Specialize in Buddhist Studies, Islamic Studies, Jewish Studies or comparative   religion.
-keywords: 'islamic studies, department of religion, PhD in religion, MA in religion, graduate program in religion'
+  Earn your MA or PhD in Religion from Temple University. Specialize in Buddhist
+  Studies, Islamic Studies, Jewish Studies or comparative   religion.
+keywords: >-
+  islamic studies, department of religion, PhD in religion, MA in religion,
+  graduate program in religion
 layout: page
 published: true
 sidebar: true
@@ -90,4 +93,4 @@ For more than 125 years, we have focused on providing a world-class education at
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Apply to Temple
-If you're ready to apply [submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
+Are you ready to apply? [submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
