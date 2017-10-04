@@ -2,9 +2,8 @@
 title: Resources
 permalink: /resources/
 description: >-
-  Get help with financial aid, study abroad and academic resources at Temple
-  University Department of Religion.
-keywords: 'Department of Religion scholarships, American Academy of Religion'
+  Get help with financial aid, study abroad and academic resources at Temple University Department of Religion.
+keywords: 'Department of Religion scholarships, American Academy of Religion, Dialogue Institute, Council on Graduate Studies in Religion  '
 layout: page
 published: true
 ---
