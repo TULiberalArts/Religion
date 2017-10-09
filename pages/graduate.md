@@ -62,12 +62,12 @@ Our MA in Religion program is designed for the following students
 - Other professionals in fields that include business, social work, medicine, goverment or journalism who want to bring increased cultural and cross-cultural analytical tools to their work.
 - Anyone with a BA who wants to acquire more knowledge of religion and cultures.
 
-[Learn More about Our Master’s in Religion Program](http://www.cla.temple.edu/religion/graduate/master-of-arts-program/)
+[Learn More about the MA in Religion](http://www.cla.temple.edu/religion/graduate/master-of-arts-program/)
 
 ## PhD in Religion
 One of our biggest strengths of our PhD program is our breadth and diversity; students are given a broad and interdisciplinary introduction to Religion in the first unit of study and take courses in other departments and institutions in the second unit of study. We are committed to the multidisciplinary study of global religious traditions; This gives our program an outstanding breadth and cross-cultural diversity. We have a long history of attracting students from all over the world, and our graduates work in major North American, African, European and Asian universities. 
 
-[Learn More about Our PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
+[Learn More about the PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
 
 ## Academic Advising
 As a student working toward your MA or PhD, you’ll be guided toward a concentration based on your interests and the available resources at the department.
