@@ -4,7 +4,9 @@ permalink: /graduate/
 description: >-
   Earn your MA or PhD in Religion from Temple University. Specialize in Buddhist
   Studies, Islamic Studies, Jewish Studies or comparative   religion.
-keywords: 'islamic studies, department of religion, PhD in religion, MA in religion, graduate program in religion'
+keywords: >-
+  islamic studies, department of religion, PhD in religion, MA in religion,
+  graduate program in religion
 layout: page
 published: true
 sidebar: true
@@ -46,7 +48,7 @@ sidebar-content: |
 ## Earn an MA or PhD in Religion at Temple University
 As part of a major public university, the Department of Religion deals with religion as an academic discipline without bias or favoritism for one religious or philosophical tradition over another. Because the academic study of religion is multidisciplinary, our courses draw from history, literature, philosophy, politics, art and the social sciences. Many of our graduates go on to become leaders in their communities. They are teachers, administrators, doctors and lawyers.
 
-We have strong relationships with other programs in the College of Liberal Arts in addition to outside secular and reigious educational institutions. These include the University of Pennsylvania's Department of Religious Studies, the Reconstructionist Rabbinical College, the Eastern Baptist Theological Seminary and the Lutheran Theological Seminary in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program.
+We have strong relationships with other programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) in addition to outside secular and reigious educational institutions. These include the University of Pennsylvania's Department of Religious Studies, the Reconstructionist Rabbinical College, the Eastern Baptist Theological Seminary and the Lutheran Theological Seminary in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program. 
 
 Graduate students in religion take a combination of foundations courses and specialized seminars. Foundations courses cover a broad range of religious traditions. Each course covers the basic thought, practices and history of one of the following: African religions, African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Islam or Judaism. Other Foundations courses deal with methodologies in the study of religion, including historical-textual, social scientific and philosophical approaches. Advanced or specialized seminars deal with religion in context of race and ethnicity, time and place. 
 
@@ -81,7 +83,7 @@ Possible concentrations include
 - Interfaith Dialogue & Mysticism
 
 ## Temple Graduate School Funding
-At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience. 
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience. 
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
@@ -89,6 +91,10 @@ At Temple, we believe that students from all walks of life should have access to
 For more than 125 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other comparable universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate. 
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
+
+## Curriculum and Academic Requirements
+- [MA in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
+- [PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/)
 
 ## Apply to Temple
 Are you ready to apply? [submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
