@@ -4,7 +4,9 @@ permalink: /undergraduate/
 description: >-
   Earn your BA in Religion from Temple University. Study comparative religion in
   the historical and cultural mecca of Philadelphia.
-keywords: 'BA in Religion, major in religion, temple department of religion, minor in religion, buddhist studies, islamic studies'
+keywords: >-
+  BA in Religion, major in religion, temple department of religion, minor in
+  religion, buddhist studies, islamic studies
 layout: page
 published: true
 sidebar: true
@@ -43,18 +45,18 @@ sidebar-content: |
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
 ## BA in Religion
-From Syrian refugees to the voting habits of evangelical Americans, understanding religion is key to putting context to current and historical events. If you major in religion at Temple, you will be guided through the comparison of religious traditions and their encounters with one another by leading scholars. The Bachelor of Arts in Religion is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential you need for success. Majoring in religion is flexible by design; it easily accommodates study abroad programs, internships or a second major or minor. 
+From Syrian refugees to the voting habits of evangelical Americans, understanding religion is key to putting context to current and historical events. If you major in religion at Temple, you will be guided through the comparison of religious traditions and their encounters with one another by leading scholars. The Bachelor of Arts in Religion is a solid liberal arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential for success. Majoring in religion is flexible by design; it easily accommodates study abroad programs, internships or a second major or minor. 
 Whether you are interested in Buddhist thought, Islamic law, Daoist classics, Jewish mysticism or African American spirituality, our faculty works with you to design a personalized academic plan.  
 
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
 ## Minor in Religion
-Do you plan to become a doctor? Are you considering going into law? Do you see yourself teaching? No matter what you plan on doing with your college education, a minor in religion helps you develop cultural sensitivity, analytical thinking and excellent writing and verbal communication skills. You do not need any particular background to study at our department, our students and faculty come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. 
+Do you plan to become a doctor? Are you considering going into law? Do you see yourself teaching? No matter what you plan on doing with your college education, a minor in religion helps you develop cultural sensitivity, analytical thinking and excellent writing and verbal communication skills. You do not need any particular background to study at our department, students and faculty come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. 
 
 [Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/minor-religion/) 
 
 ## Academic Advising and Professional Development
-Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
+Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
 
 [Learn More About Our Advising Staff](https://liberalarts.temple.edu/advising)
 
@@ -69,12 +71,12 @@ For more than 125 years, we have focused on providing a world-class education at
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Financial Aid and Scholarships
-At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.  
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.  
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
 ## Undergraduate Admissions
-Are you ready to apply? Submit your [application online](http://admissions.temple.edu/apply).
+Are you ready to apply? [Submit your application online](http://admissions.temple.edu/apply)
 
 ## Curriculum and Academic Requirements
 - [Bachelor of Arts in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
