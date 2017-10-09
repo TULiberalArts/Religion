@@ -2,20 +2,21 @@
 title: Next Stops
 permalink: /next-stops/
 description: >-
-  Religion majors develop an in-demand skill set. With a degree in religion from Temple University, the world is at your         fingertips.
-keywords: 'islamic studies, department of religion, PhD in religion, MA in religion, graduate program in religion'
+  Religion majors develop an in-demand skill set. With a degree in religion from
+  Temple University, the world is at your         fingertips.
+keywords: >-
+  islamic studies, department of religion, PhD in religion, MA in religion,
+  graduate program in religion
 layout: page
 published: true
 ---
 ## What Can I do with a Degree in Religion?
-If you earn a degree in religion, you’ll develop an in-demand skill set that is applicable to many professions. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for work in public service, diplomacy, journalism, counseling, social work, health and human services and conflict resolution. Some students continue their education in doctoral programs, law school, medical school or prepare for the ministry. With a degree in religion, the world is at your fingertips.
+If you earn a degree in religion, you’ll develop an in-demand skill set applicable to many professions. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for work in public service, diplomacy, journalism, counseling, social work, health and human services and conflict resolution. Some students continue their education in doctoral programs, law school, medical school or prepare for the ministry. With a degree in religion, the world is at your fingertips.
 
 Graduates in religion have job titles that include
 
-- Campus Minister
 - Peace Corps Worker
 - Therapist
-- Hospice Worker
 - Human Resources Coordinator
 - Journalist
 - Interfaith Center Administrator
@@ -29,7 +30,7 @@ Graduates in religion have job titles that include
 - Social Worker
 
 ## Make Your Declaration
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
+The [College of Liberal Arts](https://liberalarts.temple.edu/) has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
 [View Our Complete List of Academic Offerings](liberalarts.temple.edu)
 
