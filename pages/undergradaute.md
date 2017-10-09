@@ -76,7 +76,7 @@ At Temple, we believe that students from all walks of life should have access to
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
 ## Undergraduate Admissions
-Are you ready to apply? [Submit your application online](http://admissions.temple.edu/apply)
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply)
 
 ## Curriculum and Academic Requirements
 - [Bachelor of Arts in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
