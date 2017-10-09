@@ -19,9 +19,6 @@ The Department of Religion at Temple University houses and edits the _Journal of
 ## Feinstein Center for American Jewish History
 In collaboration with institutions in Philadelphia and beyond, the [Feinstein Center](http://www.cla.temple.edu/feinsteincenter/) invites you to join in on conversations about Jewish culture, politics, history and identity across time and space. Located at the College of Liberal Arts at Temple University, the center offers fellowships for predoctoral and postdoctoral Jewish Studies scholars and holds events relating to the Jewish experience in America. The Feinstein Center also publishes books and articles. 
 
-## Department of Religion Graduate Student Association
-As a student in the Religion Department, you are automatically a member of the [Graduate Student Association](http://www.tugsa.org/) (GSA). Free and voluntary, the GSA gives support and a voice to graduate student concerns. Temple University’s Department of Religion holds a permanent seat on the National Committee for Graduate Students of the American Academy of Religion (AAR).
-
 ## American Academy of Religion
 The [American Academy of Religion](https://www.aarweb.org/) (AAR) is the major professional association of religion scholars and is closely associated with the Society of Biblical Literature. Graduate students in our programs are encouraged to join these organizations at reduced student rates. MA or PhD students are also encouraged to present papers or serve on panels at meetings; our department usually provides financial support to for these endeavors. 
 
