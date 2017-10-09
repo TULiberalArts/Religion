@@ -85,7 +85,9 @@ Possible concentrations include
 ## Temple Graduate School Funding
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience. 
 
-[Student Financial Services](https://sfs.temple.edu/financial-aid-types)
+PhD students are awarded financial aid on academic merit. The department nominates our strongest candidates for Graduate School Fellowships, and offers a limited amount of TA-ships. Students from underrepresented groups may also be nominated for [Future Faculty Fellowships](http://www.temple.edu/grad/finances/fff_program.htm). Due to limited resources, the department is not able to provide funding to all students, although the majority receive some funding eventually. University Fellowships, Graduate Assistantships, and Academic Internships are ordinarily reserved for PhD students.
+
+[Student Financial Services](http://www.temple.edu/grad/finances/index.htm)
 
 ## Tuition and Fees
 For more than 125 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other comparable universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate. 
