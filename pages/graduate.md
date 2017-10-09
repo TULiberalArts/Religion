@@ -48,9 +48,11 @@ sidebar-content: |
 ## Earn an MA or PhD in Religion at Temple University
 As part of a major public university, the Department of Religion deals with religion as an academic discipline without bias or favoritism for one religious or philosophical tradition over another. Because the academic study of religion is multidisciplinary, our courses draw from history, literature, philosophy, politics, art and the social sciences. Many of our graduates go on to become leaders in their communities. They are teachers, administrators, doctors and lawyers.
 
-We have strong relationships with other programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) in addition to outside secular and reigious educational institutions. These include the University of Pennsylvania's Department of Religious Studies, the Reconstructionist Rabbinical College, the Eastern Baptist Theological Seminary and the Lutheran Theological Seminary in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program. 
-
 Graduate students in religion take a combination of foundations courses and specialized seminars. Foundations courses cover a broad range of religious traditions. Each course covers the basic thought, practices and history of one of the following: African religions, African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Islam or Judaism. Other Foundations courses deal with methodologies in the study of religion, including historical-textual, social scientific and philosophical approaches. Advanced or specialized seminars deal with religion in context of race and ethnicity, time and place. 
+
+## Academic Partnerships and Exchanges
+
+We have strong relationships with other programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) in addition to outside secular and reigious educational institutions. These include the University of Pennsylvania's Department of Religious Studies, the Reconstructionist Rabbinical College, the Eastern Baptist Theological Seminary and the Lutheran Theological Seminary in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program. 
 
 ## MA in Religion
 Our MA in Religion program is designed for the following students
@@ -89,6 +91,12 @@ PhD students are awarded financial aid on academic merit. The department nominat
 
 [Student Financial Services](http://www.temple.edu/grad/finances/index.htm)
 
+## Religion Graduate Student Association
+As a student in the Religion Department, you are automatically a member of the Graduate Student Association (GSA). Free and voluntary, the GSA gives support and a voice to graduate student concerns. Temple University’s Department of Religion holds a permanent seat on the National Committee for Graduate Students of the American Academy of Religion (AAR). 
+
+### RELGSA Listserv
+The RELGSA (Religion Graduate Students Association) Mailing List is for the exclusive use of the graduate students in the Temple University Department of Religion. This list is one of the main ways we communicate with each other, exchange information, and discuss issues pertaining to our department and programs. Subscription to the list is open to all current graduate students. The current list administrator is Mohamed Hassan. If you have questions or wish to subscribe, send them to [mhassan@temple.edu](mailto:mhassan@temple.edu) 
+
 ## Tuition and Fees
 For more than 125 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other comparable universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate. 
 
@@ -99,4 +107,4 @@ For more than 125 years, we have focused on providing a world-class education at
 - [PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/)
 
 ## Apply to Temple
-Are you ready to apply? [submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
+Ready to apply? [submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
