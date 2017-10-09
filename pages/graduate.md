@@ -51,7 +51,6 @@ As part of a major public university, the Department of Religion deals with reli
 Graduate students in religion take a combination of foundations courses and specialized seminars. Foundations courses cover a broad range of religious traditions. Each course covers the basic thought, practices and history of one of the following: African religions, African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Islam or Judaism. Other Foundations courses deal with methodologies in the study of religion, including historical-textual, social scientific and philosophical approaches. Advanced or specialized seminars deal with religion in context of race and ethnicity, time and place. 
 
 ## Academic Partnerships and Exchanges
-
 We have strong relationships with other programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) in addition to outside secular and reigious educational institutions. These include the University of Pennsylvania's Department of Religious Studies, the Reconstructionist Rabbinical College, the Eastern Baptist Theological Seminary and the Lutheran Theological Seminary in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program. 
 
 ## MA in Religion
