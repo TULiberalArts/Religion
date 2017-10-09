@@ -4,7 +4,9 @@ permalink: /
 description: >-
   Study religion at Temple University. We offer courses in all major religions,
   with an emphasis on the comparison and intersection of their traditions. 
-keywords: 'department of religion, comparative religion, temple university, buddhist studies, islamic studies, christian studies'
+keywords: >-
+  department of religion, comparative religion, temple university, buddhist
+  studies, islamic studies, christian studies
 layout: home
 feature: false
 feature-title: null
@@ -12,10 +14,10 @@ feature-image: null
 published: true
 ---
 ## Why Study Religion in College?
-If you study at the Department of Religion at Temple University you'll examine the beliefs, values, rituals, text and artifacts of all the world's major religions. We offer instruction in African American religions, Buddhism, Christianity, Confucianism, Hinduism, Islam, Judaism and Daoism. Understanding religious context is essential to being a well-informed student of the humanities and social sciences. Our department is fueled by the wisdown that if you know only one religion you actually don't know any - our mission is global and culturally plualistic. 
+If you study at Temple's Department of Religion you'll examine the beliefs, values, rituals, text and artifacts of all the world's major religions. We offer instruction in African American religions, Buddhism, Christianity, Confucianism, Hinduism, Islam, Judaism and Daoism. Understanding religious context is essential to being a well-informed student of the humanities and social sciences. Our department is fueled by the wisdown that if you know only one religion you actually don't know any - our mission is global and culturally plualistic. 
 
 ## Apply to Temple University
-Ready to apply? Submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
 
 ## Academic Offerings
 - [Bachelors of Arts in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
