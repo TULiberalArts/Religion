@@ -60,13 +60,7 @@ Graduate students in religion take a combination of foundations courses and spec
 We have strong relationships with other programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) in addition to outside secular and reigious educational institutions. These include the University of Pennsylvania's Department of Religious Studies, the Reconstructionist Rabbinical College, the Eastern Baptist Theological Seminary and the Lutheran Theological Seminary in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program. 
 
 ## MA in Religion
-Our MA in Religion program is designed for the following students
-
-- Students who want to qualify for a PhD program in Religion or a related field (While some graduates from our master’s program apply for the Temple's PhD in Religion program, it is a separate process.)
-- People wo want to teach religion in community college or high school. 
-- Members of religious ministry who want to further understanding of their own religion or other religious and cultural traditions.
-- Other professionals in fields that include business, social work, medicine, goverment or journalism who want to bring increased cultural and cross-cultural analytical tools to their work.
-- Anyone with a BA who wants to acquire more knowledge of religion and cultures.
+Our MA program is designed for students to begin advanced training in religion. If you attend the MA in religion program at Temple, you might continue your education in our PhD program or attend one at another university. Some students are satisfied with completing an MA in religion for personal enrichment or to teach in high schools or community colleges. If you are a professional in fields that include business, social work, medicine, government or journalism, an MA in religion brings increased cultural and cross-cultural analytical tools to your work. If you finish your MA at Temple and decide to continue on to our PhD in religion program, you must complete a separate application.
 
 [Learn More about the MA in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
 
