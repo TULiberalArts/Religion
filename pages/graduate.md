@@ -56,9 +56,6 @@ These themes include the following
 
 Graduate students in religion take a combination of foundations courses and specialized seminars. Foundations courses cover a broad range of religious traditions. Each course covers the basic thought, practices and history of one of the following: African religions, African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Islam or Judaism. Other Foundations courses deal with methodologies in the study of religion, including historical-textual, social scientific and philosophical approaches. Advanced or specialized seminars deal with religion in context of race, ethnicity, time and place. 
 
-## Academic Partnerships and Exchanges
-We have strong relationships with other programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) in addition to outside secular and reigious institutions. These include the University of Pennsylvania's Department of Religious Studies, the Reconstructionist Rabbinical College, the Eastern Baptist Theological Seminary and the Lutheran Theological Seminary in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program. 
-
 ## MA in Religion
 Our MA program is designed for students to begin advanced training in religion. If you attend the MA in religion program at Temple, you might continue your education in our PhD program or attend one at another university. Some students are satisfied after completing an MA in religion for personal enrichment or to teach in high schools or community colleges. If you are a professional in fields that include business, social work, medicine, government or journalism, an MA in religion brings increased cultural and cross-cultural analytical tools to your work. If you finish your MA at Temple and decide to continue on to our PhD in religion program, you must complete a separate application.
 
@@ -68,6 +65,9 @@ Our MA program is designed for students to begin advanced training in religion. 
 One of our biggest strengths of our PhD program is our breadth and diversity; students are given a broad and interdisciplinary introduction to Religion in the first unit of study and take courses in other departments and institutions in the second unit of study. We are committed to the multidisciplinary study of global religious traditions; This gives our program an outstanding breadth and cross-cultural diversity. We have a long history of attracting students from all over the world, and our graduates work in major North American, African, European and Asian universities. 
 
 [Learn More about the PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
+
+## Academic Partnerships and Exchanges
+We have strong relationships with other programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) in addition to outside secular and reigious institutions. These include the University of Pennsylvania's Department of Religious Studies, the Reconstructionist Rabbinical College, the Eastern Baptist Theological Seminary and the Lutheran Theological Seminary in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program. 
 
 ## Academic Advising
 As a student working toward your MA or PhD, you’ll be guided toward a concentration based on your interests and the available resources at the department.
