@@ -44,19 +44,23 @@ sidebar-content: |
    [(215) 204-3663](tel:2152043663)  
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
-## BA in Religion
-From Syrian refugees to the voting habits of evangelical Americans, understanding religion is key to putting context to current and historical events. If you major in religion at Temple, you will be guided through the comparison of religious traditions and their encounters with one another by leading scholars. The Bachelor of Arts in Religion is a solid liberal arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential for success. Majoring in religion is flexible by design; it easily accommodates study abroad programs, internships or a second major or minor. 
-Whether you are interested in Buddhist thought, Islamic law, Daoist classics, Jewish mysticism or African American spirituality, our faculty works with you to design a personalized academic plan.  
+## Major in Religion at Temple
+If you are interested in practicing law, going into health care, working in education, environmental
+policy, non-profit groups, finance or media, consider majoring in religion. A BA in religion provides you with a  a range of immediately useful skills that will help you navigate these areas and more. Studying religion also helps you develop a depth of knowledge about how cultures form, how different communities grow, why conflicts arise and how they are resolved. The religion major requires only 30 credits and our entry courses regularly overlap with subjects in other areas of study. Our courses are often crosslisted with history, classics, critical languages, sociology, anthropology and English. 
 
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
 ## Minor in Religion
-Do you plan to become a doctor? Are you considering going into law? Do you see yourself teaching? No matter what you plan on doing with your college education, a minor in religion helps you develop cultural sensitivity, analytical thinking and excellent writing and verbal communication skills. You do not need any particular background to study at our department, students and faculty come from many different religious traditions, cultures, ethnic backgrounds, genders and sexualities. 
+Many students find that with only a few additional courses they can add religion as a second major, or minor in religion as a complement to their primary field of study. The minor in religion is an excellent addition to the degree programs in the College of Liberal Arts or other colleges throughout Temple University. If you have an interest in world history and providing sensitive patient care, minoring in religion will be especially helpful.
 
 [Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/minor-religion/) 
 
+## Learn Outside the Classroom
+We host events with guest speakers from a variety of backgrounds. Lectures by filmmakers, journalists, musicians, writers, archaeologists and graphic artists regularly give students a direct window into major issues
+relating to religious communities and ideas.
+
 ## Academic Advising and Professional Development
-Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
+Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with [study abroad programs](https://studyabroad.temple.edu/), internships and other experiential learning opportunities. 
 
 [Learn More About Our Advising Staff](https://liberalarts.temple.edu/advising)
 
