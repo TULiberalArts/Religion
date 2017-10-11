@@ -45,8 +45,7 @@ sidebar-content: |
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
 ## Major in Religion at Temple
-If you are interested in practicing law, going into health care, working in education, environmental
-policy, non-profit groups, finance or media, consider majoring in religion. A BA in religion provides you with a  a range of immediately useful skills that will help you navigate these areas and more. Studying religion also helps you develop a depth of knowledge about how cultures form, how different communities grow, why conflicts arise and how they are resolved. The religion major requires only 30 credits and our entry courses regularly overlap with subjects in other areas of study. Our courses are often crosslisted with history, classics, critical languages, sociology, anthropology and English. 
+If you are interested in practicing law, going into health care, working in education, environmental policy, non-profit groups, finance or media, consider majoring in religion. A BA in religion provides you with a  a range of immediately useful skills that will help you navigate these areas and more. Studying religion also helps you develop a depth of knowledge about how cultures form, how different communities grow, why conflicts arise and how they are resolved. The religion major requires only 30 credits and our entry courses regularly overlap with subjects in other areas of study. Our courses are often crosslisted with history, classics, critical languages, sociology, anthropology and English. 
 
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
