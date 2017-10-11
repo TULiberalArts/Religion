@@ -11,7 +11,9 @@ layout: page
 published: true
 ---
 ## What Can I do with a Degree in Religion?
-If you earn a degree in religion, you’ll develop an in-demand skill set applicable to many professions. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for work in public service, diplomacy, journalism, counseling, social work, health and human services and conflict resolution. Some students continue their education in doctoral programs, law school, medical school or prepare for the ministry. With a degree in religion, the world is at your fingertips.
+Religion students graduate from Temple well-positioned to enter many professional disciplines, including law, medicine, business, politics, journalism and philanthropy. Both graduate schools and prospective employers
+recognize that by studying religion, students engage with a wide variety of ideas, forms of communication and
+systems of social organization that are extremely useful in developing important professional skills.
 
 Graduates in religion have job titles that include
 
@@ -21,18 +23,16 @@ Graduates in religion have job titles that include
 - Journalist
 - Interfaith Center Administrator
 - Lawyer
-- Community Organizer
 - Physician
 - Religion Professor
 - Nonprofit Director
-- Rabbi
 - High School Teacher
 - Social Worker
 
 ## Make Your Declaration
 The [College of Liberal Arts](https://liberalarts.temple.edu/) has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
-[View Our Complete List of Academic Offerings](liberalarts.temple.edu)
+[Explore the Complete List of Academic Offerings at CLA](liberalarts.temple.edu)
 
 ## Study Abroad Programs
 Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to live, study and intern in another country for college credit. Where will Temple take you?
