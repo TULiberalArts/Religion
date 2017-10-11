@@ -14,7 +14,7 @@ feature-image: null
 published: true
 ---
 ## Why Study Religion in College?
-If you study at Temple's Department of Religion you'll examine the beliefs, values, rituals, text and artifacts of all the world's major religions. We offer instruction in African American religions, Buddhism, Christianity, Confucianism, Hinduism, Islam, Judaism and Daoism. Understanding religious context is essential to being a well-informed student of the humanities and social sciences. Our department is fueled by the wisdown that if you know only one religion you actually don't know any - our mission is global and culturally plualistic. 
+Understanding what religion is and how it works has never been more important. Religious worldviews factor strongly into politics, diplomacy, business, the arts, law, public health, and medical practice — all of the things that affect our lives every day. We offer instruction in African American religions, Buddhism, Christianity, Confucianism, Hinduism, Islam, Jewish studies and Daoism. Our department is fueled by the wisdown that if you know only one religion you actually don't know any - our mission is global and culturally plualistic. Temple's Department of Religion offers both undergraduate and graduate degree programs. 
 
 ## Apply to Temple University
 Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
