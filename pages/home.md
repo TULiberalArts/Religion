@@ -2,11 +2,9 @@
 title: Home
 permalink: /
 description: >-
-  Study religion at Temple University. We offer courses in all major religions,
-  with an emphasis on the comparison and intersection of their traditions. 
+  Study religion at Temple University. We offer courses in all major religions, with an emphasis on the comparison and intersection of their traditions.
 keywords: >-
-  department of religion, comparative religion, temple university, buddhist
-  studies, islamic studies, christian studies
+  Temple Department of Religion, graduate program in religion, PhD in Religion, MA in Religion 
 layout: home
 feature: false
 feature-title: null
@@ -14,7 +12,7 @@ feature-image: null
 published: true
 ---
 ## Why Study Religion in College?
-Understanding what religion is and how it works has never been more important. Religious worldviews factor strongly into politics, diplomacy, business, the arts, law, public health, and medical practice — all of the things that affect our lives every day. We offer instruction in African American religions, Buddhism, Christianity, Confucianism, Hinduism, Islam, Jewish studies and Daoism. Our department is fueled by the wisdown that if you know only one religion you actually don't know any - our mission is global and culturally plualistic. Temple's Department of Religion offers both undergraduate and graduate degree programs. 
+Understanding what religion is and how it works has never been more important. Religious worldviews factor strongly into politics, diplomacy, business, the arts, law, public health, and medical practice — all of the things that affect our lives every day. We offer instruction in African American religions, Buddhism, Christianity, Confucianism, Hinduism, Islam, Jewish studies and Daoism. Our department is fueled by the wisdown that if you know only one religion you actually don't know any - our mission is global and culturally plualistic. Temple's Department of Religion offers both undergraduate and graduate degree programs.
 
 ## Apply to Temple University
 Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
