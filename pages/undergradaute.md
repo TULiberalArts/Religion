@@ -43,7 +43,7 @@ sidebar-content: |
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
 ## Major in Religion at Temple
-If you are interested in practicing law, going into health care, working in education, environmental policy, non-profit groups, finance or media, consider majoring in religion. A BA in religion provides you with a  a range of immediately useful skills that will help you navigate these areas and more. Studying religion also helps you develop a depth of knowledge about how cultures form, how different communities grow, why conflicts arise and how they are resolved. The religion major requires only 30 credits and our entry courses regularly overlap with subjects in other areas of study. Our courses are often crosslisted with history, classics, critical languages, sociology, anthropology and English.
+If you are interested in practicing law, going into health care, working in education, environmental policy, non-profit groups, finance or media, consider a major or minor in religion. A BA in religion provides you with a range of immediately useful skills that will help you navigate these areas and more. Studying religion also helps you develop a depth of knowledge about how cultures form, how different communities grow, why conflicts arise and how they are resolved. The religion major requires only 30 credits and our entry courses regularly overlap with subjects in other areas of study. Our courses are often crosslisted with history, classics, critical languages, sociology, anthropology and English.
 
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
@@ -53,8 +53,7 @@ Many students find that with only a few additional courses they can add religion
 [Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/minor-religion/)
 
 ## Learn Outside the Classroom
-We host events with guest speakers from a variety of backgrounds. Lectures by filmmakers, journalists, musicians, writers, archaeologists and graphic artists regularly give students a direct window into major issues
-relating to religious communities and ideas.
+We host events with guest speakers from a variety of backgrounds. Lectures by filmmakers, journalists, musicians, writers, archaeologists and graphic artists regularly give students a direct window into major issues relating to religious communities and ideas.
 
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with [study abroad programs](https://studyabroad.temple.edu/), internships and other experiential learning opportunities.
