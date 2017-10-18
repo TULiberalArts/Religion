@@ -2,9 +2,11 @@
 title: Undergraduate
 permalink: /undergraduate/
 description: >-
-  Major or minor in Religion at Temple University. Study comparative religion in the historical and cultural mecca of Philadelphia.
+  Major or minor in Religion at Temple University. Study comparative religion in
+  the historical and cultural mecca of Philadelphia.
 keywords: >-
-  BA in Religion, major in religion, temple department of religion, minor in religion
+  BA in Religion, major in religion, temple department of religion, minor in
+  religion
 layout: page
 published: true
 sidebar: true
@@ -43,20 +45,20 @@ sidebar-content: |
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
 ## Major in Religion at Temple
-If you are interested in practicing law, going into health care, working in education, environmental policy, non-profit groups, finance or media, consider a major or minor in religion. A BA in religion provides you with a range of immediately useful skills that will help you navigate these areas and more. Studying religion also helps you develop a depth of knowledge about how cultures form, how different communities grow, why conflicts arise and how they are resolved. The religion major requires only 30 credits and our entry courses regularly overlap with subjects in other areas of study. Our courses are often crosslisted with history, classics, critical languages, sociology, anthropology and English.
+If you are interested in working in education, environmental policy, finance, health care or for non-profit groups, consider a major or minor in Religion. A BA in Religion provides you with a range of immediately useful skills that will help you navigate these areas and more. Studying Religion also helps you develop a depth of knowledge about how cultures form, how different communities grow, why conflicts arise and how they are resolved. The Religion major requires only 30 credits and our entry courses regularly overlap with subjects in other areas of study. Our courses are often cross-listed with anthropology, classics, critical languages, English, history, classics, critical languages and sociology. 
 
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
 ## Minor in Religion
-Many students find that with only a few additional courses they can add religion as a second major, or minor in religion as a complement to their primary field of study. The minor in religion is an excellent addition to the degree programs in the College of Liberal Arts or other colleges throughout Temple University. If you have an interest in world history and providing sensitive patient care, minoring in religion will be especially helpful.
+Many students find that with only a few additional courses they can add Religion as a second major, or minor in Religion as a complement to their primary field of study. The minor in Religion is an excellent addition to the degree programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) or other colleges throughout Temple University. If you have an interest in world history and providing sensitive patient care, minoring in Religion will be especially helpful.
 
 [Learn More about Minoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/minor-religion/)
 
 ## Learn Outside the Classroom
-We host events with guest speakers from a variety of backgrounds. Lectures by filmmakers, journalists, musicians, writers, archaeologists and graphic artists regularly give students a direct window into major issues relating to religious communities and ideas.
+We host events with guest speakers from a variety of backgrounds. Lectures by archaeologists, graphic artists, filmmakers, journalists, musicians and writers regularly give students a direct window into major issues relating to religious communities and ideas.
 
 ## Academic Advising and Professional Development
-Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with [study abroad programs](https://studyabroad.temple.edu/), internships and other experiential learning opportunities.
+Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
 
 [Learn More About Our Advising Staff](https://liberalarts.temple.edu/advising)
 
@@ -66,12 +68,12 @@ Take charge of your future and limit your debt. The Fly in 4 partnership allows 
 [Learn How to Fly in Four](http://fly.temple.edu/)
 
 ## Tuition and Fees
-For more than 125 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other comparable universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate.
+For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Financial Aid and Scholarships
-At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.  
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.  
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
