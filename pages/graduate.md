@@ -69,6 +69,10 @@ One of our biggest strengths of our PhD in Religion program is our breadth and d
 ## Academic Partnerships and Exchanges
 We have strong relationships with other programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) in addition to outside secular and reigious institutions. These include the Eastern Baptist Theological Seminary, the Lutheran Theological Seminary, the University of Pennsylvania's Department of Religious Studies and the Reconstructionist Rabbinical College in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program.
 
+## Admissions Requirements 
+
+Please visit the [Religion Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/religion) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+
 ## Academic Advising
 As a student working toward your MA or PhD in Religion, you’ll be guided toward a concentration based on your interests and the available resources at the department.
 
@@ -100,9 +104,4 @@ For more than 130 years, we have focused on providing a world-class education at
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
-## Curriculum and Academic Requirements
-- [MA in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
-- [PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/)
 
-## Apply to Temple
-Ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
