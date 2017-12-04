@@ -76,7 +76,7 @@ Please visit the [Religion Graduate Admissions page](https://liberalarts.temple.
 ## Academic Advising
 As a student working toward your MA or PhD in Religion, you’ll be guided toward a concentration based on your interests and the available resources at the department.
 
-Possible concentrations include
+Possible concentrations include:
 
 - African Diaspora Christianity
 - Animals and Religion
