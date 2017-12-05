@@ -23,6 +23,11 @@ The [American Academy of Religion](https://www.aarweb.org/) (AAR) is the major p
 ## Council on Graduate Studies in Religion
 The Department of Religion is a long-standing member on the Council on [Graduate Studies in Religion](http://www.gradstudiesinreligion.org/) (CGSR). The Council is a consultative body made up of over 30 preeminent institutions in the United States and Canada that offer a PhD in Religion, Religious Studies or Theology. Members meet once a year, usually concurrently with annual meetings of the American Academy of Religion and the Society of Biblical Literature. CGSR takes up a broad range of issues in graduate education in religion and theology.
 
+## Help Support Doctoral Students
+### Make a Gift To Our 50TH Anniversay Fund
+
+In celebration of this milestone year, consider contributing to the Department’s 50th Anniversary Fund. The fund supports doctoral students through grants for research, language study and travel to academic conferences. You can make a gift directly online by visiting [giving.temple.edu/religion](giving.temple.edu/religion).
+
 ## Undergraduate Awards
 - **Earle E. and Orpha N. Elder Memorial Scholarship**: Established to support religion majors, this scholarship is for students planning on going into Christian service.
 - **Religion Department Prize for Academic Excellence**: Awarded to a graduating senior, this award is given by the religion department for an undergraduate who has completed outstanding work.
