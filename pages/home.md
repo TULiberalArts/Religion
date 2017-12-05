@@ -8,8 +8,8 @@ keywords: >-
   Temple Department of Religion, graduate program in religion, PhD in Religion,
   MA in Religion 
 layout: home
-feature: true
-feature-title: Study religion at Temple University. We offer courses in all major religions, with an emphasis on the comparison and intersection of their traditions.
+feature: null
+feature-title: null
 feature-image: media/Religion Hero.png
 published: true
 ---
