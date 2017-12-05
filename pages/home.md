@@ -9,7 +9,7 @@ keywords: >-
   MA in Religion 
 layout: home
 feature: true
-feature-title: Understanding what religion is and how it works has never been more important. Religious worldviews factor strongly into the arts, business, diplomacy, law, medical, politics, practice and public health. We offer instruction in African American religions, Buddhism, Christianity, Confucianism, Daoism, Hinduism, Islam and Jewish studies.
+feature-title: Understanding what religion is and how it works has never been more important. Religious worldviews factor strongly into the arts, business, diplomacy, law, medical, politics, practice and public health.
 feature-image: media/Religion Hero.png
 published: true
 ---
