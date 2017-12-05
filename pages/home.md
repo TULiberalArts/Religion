@@ -9,12 +9,13 @@ keywords: >-
   MA in Religion 
 layout: home
 feature: true
-feature-title: null
+feature-title: Understanding what religion is and how it works has never been more important. Religious worldviews factor strongly into the arts, business, diplomacy, law, medical, politics, practice and public health. We offer instruction in African American religions, Buddhism, Christianity, Confucianism, Daoism, Hinduism, Islam and Jewish studies.
 feature-image: media/Religion Hero.png
 published: true
 ---
-## Why Study Religion in College?
-Understanding what religion is and how it works has never been more important. Religious worldviews factor strongly into the arts, business, diplomacy, law, medical, politics, practice and public health. We offer instruction in African American religions, Buddhism, Christianity, Confucianism, Daoism, Hinduism, Islam and Jewish studies. 
+The Temple University Department of Religion was founded in 1961, one of the earliest religion departments ever established at a public or state-related university. Although emerging out an erstwhile school of theology in a private Baptist college, the Department has since its inception seen itself as distinct from seminaries and religion departments in religiously based institutions. Fueled by the wisdom that if you know only one religion you actually don’t know any, our mission has always been global and culturally pluralistic in its scope, and so our faculty consists of scholars with expertise in a wide range of religious traditions and methodological approaches to the study of religion. As such, in addition to researching the contents of histories of religious traditions themselves, we take seriously the ways that religion “improves the human condition and uplifts the human spirit” — to quote the Temple University Mission Statement — though without forsaking the critical analysis of religion’s capacity to sometimes darken that condition and stifle that spirit.
+
+The diversity of our undergraduate and graduate students mirrors that of the broader Temple community in terms of race, ethnicity, religious affiliation or non-affiliation, gender, sexuality, and national origin. Most graduate students come to our M.A. and Ph.D. programs with the primary goal of developing their expertise in a single religious tradition through critical analysis, and a secondary goal of deepening their understanding of that tradition by studying others and by mastering leading theories and methodologies in the field. The program is in fact designed with these goals in mind, thereby ensuring that our graduates are capable of teaching outside of their primary areas of expertise. This is partly responsible for the excellent track record that our graduates have in gaining faculty appointments in an impressive range of colleges, seminaries, and universities. It also reflects one of the Department’s great strengths: providing students, graduate and undergraduate alike, with a broad background about numerous religious traditions, and a heightened awareness of the way religion functions in American and increasingly interconnected global societies.
 
 ## Apply to Temple University
 Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
