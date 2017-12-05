@@ -17,9 +17,6 @@ The Temple University Department of Religion was founded in 1961, one of the ear
 
 The diversity of our undergraduate and graduate students mirrors that of the broader Temple community in terms of race, ethnicity, religious affiliation or non-affiliation, gender, sexuality, and national origin. Most graduate students come to our M.A. and Ph.D. programs with the primary goal of developing their expertise in a single religious tradition through critical analysis, and a secondary goal of deepening their understanding of that tradition by studying others and by mastering leading theories and methodologies in the field. The program is in fact designed with these goals in mind, thereby ensuring that our graduates are capable of teaching outside of their primary areas of expertise. This is partly responsible for the excellent track record that our graduates have in gaining faculty appointments in an impressive range of colleges, seminaries, and universities. It also reflects one of the Department’s great strengths: providing students, graduate and undergraduate alike, with a broad background about numerous religious traditions, and a heightened awareness of the way religion functions in American and increasingly interconnected global societies.
 
-## Apply to Temple University
-Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
-
 ## Academic Offerings
 - [Bachelors of Arts in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 - [Minor in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/minor-religion/)
