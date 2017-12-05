@@ -12,10 +12,10 @@ published: true
 sidebar: true
 sidebar-content: |
   **Chair:**  
-   Dr. Khalid A. Y. Blankinship  
+   Dr. Terry Rey  
    619 Anderson Hall  
-   [(215) 204-5543](tel:2152045543)  
-   [kblankin@temple.edu](mailto:kblankin@temple.edu)  
+   [(215) 204-8755](tel:2152048755)  
+   [trey@temple.edu](mailto:trey@temple.edu)  
     ___  
 
    **Undergraduate Chair:**  
