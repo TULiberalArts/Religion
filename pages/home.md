@@ -28,7 +28,7 @@ Ready to apply? [Submit your application online.](http://admissions.temple.edu/a
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Major or Minor in Religion"
-    content="Temple's Department of Religion offers both undergraduate and graduate degree programs.Our department is fueled by the wisdown that if you know only one religion you actually don't know any - our mission is global and culturally plualistic."
+    content="Our department is fueled by the wisdown that if you know only one religion you actually don't know any - our mission is global and culturally plualistic."
     image=""
     button-link="undergraduate"
     button-text="Learn More" %}
