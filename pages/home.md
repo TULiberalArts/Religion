@@ -8,7 +8,7 @@ keywords: >-
   Temple Department of Religion, graduate program in religion, PhD in Religion,
   MA in Religion 
 layout: home
-feature: null
+feature: true
 feature-title: null
 feature-image: media/Religion Hero.png
 published: true
