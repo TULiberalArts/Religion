@@ -9,12 +9,13 @@ keywords: >-
   MA in Religion 
 layout: home
 feature: true
-feature-title: true
+feature-title: Study religion at Temple University. We offer courses in all major religions, with an emphasis on the comparison and intersection of their traditions.
 feature-image: media/Religion Hero.png
 published: true
 ---
 ## Why Study Religion in College?
 Understanding what religion is and how it works has never been more important. Religious worldviews factor strongly into the arts, business, diplomacy, law, medical, politics, practice and public health. We offer instruction in African American religions, Buddhism, Christianity, Confucianism, Daoism, Hinduism, Islam and Jewish studies. 
+
 ## Apply to Temple University
 Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
 
