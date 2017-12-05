@@ -14,8 +14,7 @@ feature-image: media/Religion Hero.png
 published: true
 ---
 ## Why Study Religion in College?
-Understanding what religion is and how it works has never been more important. Religious worldviews factor strongly into the arts, business, diplomacy, law, medical, politics, practice and public health. We offer instruction in African American religions, Buddhism, Christianity, Confucianism, Daoism, Hinduism, Islam and Jewish studies. Our department is fueled by the wisdown that if you know only one religion you actually don't know any - our mission is global and culturally plualistic. Temple's Department of Religion offers both undergraduate and graduate degree programs. 
-
+Understanding what religion is and how it works has never been more important. Religious worldviews factor strongly into the arts, business, diplomacy, law, medical, politics, practice and public health. We offer instruction in African American religions, Buddhism, Christianity, Confucianism, Daoism, Hinduism, Islam and Jewish studies. 
 ## Apply to Temple University
 Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
 
@@ -27,10 +26,10 @@ Ready to apply? [Submit your application online.](http://admissions.temple.edu/a
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title="Jewish Studies Program"
-    content="Temple University’s Jewish Studies Program offers students an interdisciplinary approach to the study of Jews, Jewishness and Judaism. Earn a BA or Minor in Jewish Studies."
+    title="Major or Minor in Religion"
+    content="Temple's Department of Religion offers both undergraduate and graduate degree programs.Our department is fueled by the wisdown that if you know only one religion you actually don't know any - our mission is global and culturally plualistic."
     image=""
-    button-link="link will be updated"
+    button-link="undergraduate"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
