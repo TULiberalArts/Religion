@@ -8,9 +8,9 @@ keywords: >-
   Temple Department of Religion, graduate program in religion, PhD in Religion,
   MA in Religion 
 layout: home
-feature: false
-feature-title: null
-feature-image: null
+feature: true
+feature-title: true
+feature-image: media/Religion Hero.png
 published: true
 ---
 ## Why Study Religion in College?
