@@ -7,7 +7,7 @@ description: >-
 keywords: >-
   Temple Department of Religion, graduate program in religion, PhD in Religion,
   MA in Religion 
-layout: home
+layout: home3
 feature: true
 feature-title: Understanding what religion is and how it works has never been more important. Religious worldviews factor strongly into the arts, business, diplomacy, law, medical, politics, practice and public health.
 feature-image: media/Religion Hero.png
