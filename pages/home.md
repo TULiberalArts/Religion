@@ -9,8 +9,11 @@ keywords: >-
   MA in Religion 
 layout: home3
 feature: true
-feature-title: Understanding what religion is and how it works has never been more important. Religious worldviews factor strongly into the arts, business, diplomacy, law, medical, politics, practice and public health.
+feature-title: 
 feature-image: media/Religion Hero.png
+feature-body: >-
+  Understanding what religion is and how it works has never been more important. Religious worldviews factor
+  strongly into the arts,   business, diplomacy, law, medical, politics, practice and public health.
 published: true
 ---
 ## Why Study Religion?
