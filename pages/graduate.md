@@ -34,11 +34,6 @@ sidebar-content: |
    ___
 
    **Coordinators:**  
-   Linda Jenkins  
-   615 Anderson Hall    
-   [(215) 204-7973](tel:2152047973)   
-   [JenkinsL@temple.edu](mailto:JenkinsL@temple.edu)  
-
    Jemina Quarles  
    614 Anderson Hall    
    [(215) 204-3663](tel:2152043663)  
