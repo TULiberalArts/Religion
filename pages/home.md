@@ -37,10 +37,10 @@ The diversity of our undergraduate and graduate students mirrors that of the bro
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="The Dialogue Institute at Temple"
-      content="In partnership with the Temple University Department of Religion, the Dialogue Institute offers graduate courses and opportunities for independent study in interfaith dialogue."
+      title="American Academy of Religion"
+      content="The American Academy of Religion (AAR) is the major professional association of religion scholars and is closely associated with the Society of Biblical Literature. Graduate students in our programs are encouraged to join these organizations at reduced student rates. MA or PhD students are also encouraged to present papers or serve on panels at meetings; our department usually provides financial support to for these endeavors."
       image=""
-      button-link="http://dialogueinstitute.org/"
+      button-link="https://www.aarweb.org/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
