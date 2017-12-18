@@ -67,7 +67,7 @@ We have strong relationships with other programs in the [College of Liberal Arts
 
 Please visit the [Religion Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/religion) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
-## Academic Advising
+## Academic Concentration
 As a student working toward your MA or PhD in Religion, you’ll be guided toward a concentration based on your interests and the available resources at the department.
 
 Possible concentrations include:
@@ -84,18 +84,24 @@ Possible concentrations include:
 ## Temple Graduate School Funding
 At Temple, we believe that students from all walks of life should have access to an college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. Explore all available funding and apply early to make your education an affordable experience.
 
-Financial aid is awarded on PhD students on academic merit The department nominates our strongest candidates for Graduate School Fellowships, and offers a limited amount of TA-ships. Students from underrepresented groups may also be nominated for [Future Faculty Fellowships](http://www.temple.edu/grad/finances/fff_program.htm). Due to limited resources, the department is not able to provide funding to all students, although the majority receive some funding eventually. University Fellowships, Graduate Assistantships and Academic Internships are ordinarily reserved for PhD students.
+**University-Awarded Fellowships**
+Students are nominated for Presidential, University, and Future Faculty Fellowships by the Department of Religion which are administered by the Graduate School. While on fellowship, students must take a minimum of nine academic credits each semester during the Fall and Spring semesters. 
+
+**Teaching Assistantships**
+Teaching Assistants are required to provide 20 hours of service per week to Temple. TAs receive tuition remission for courses (up to nine credits) that contribute to the student’s program of study, plus a stipend.
+ 
+The Scholarship Awards Committee makes Teaching Assistantship decisions in the Spring semester. Currently enrolled PhD students who wish to be considered for an assistantship must submit an application to the Chair of the Scholarship Awards Committee. New applicants for the PhD program are automatically considered. 
+
+We reserve University Fellowships and Teaching Assistantships for PhD students. Due to limited resources, the department is not able to provide funding to all students. 
 
 [Student Financial Services](http://www.temple.edu/grad/finances/index.htm)
 
 ## Religion Graduate Student Association
 As a student in the Religion Department, you are automatically a member of the Graduate Student Association (GSA). Free and voluntary, the GSA gives support and a voice to graduate student concerns. Temple University’s Department of Religion holds a permanent seat on the National Committee for Graduate Students of the American Academy of Religion (AAR).
 
-- **RELGSA Listserv:** The RELGSA (Religion Graduate Students Association) Mailing List is for the exclusive use of the graduate students in the Temple University Department of Religion. This list is one of the main ways we communicate with each other, exchange information, and discuss issues pertaining to our department and programs. Subscription to the list is open to all current graduate students. The current list administrator is Mohamed Hassan. If you have questions or wish to subscribe, send them to [mhassan@temple.edu](mailto:mhassan@temple.edu). Before you participate in the Listserv, [please review the guideines](http://develop.cla.temple.edu/religion/media/RELGSA-Guidelines.pdf).
+- **RELGSA Listserv:** The RELGSA (Religion Graduate Students Association) Mailing List is for the exclusive use of the graduate students in the Temple University Department of Religion. This list is one of the main ways we communicate with each other, exchange information, and discuss issues pertaining to our department and programs. Subscription to the list is open to all current graduate students. The current list administrator is Mohamed Hassan. If you have questions or wish to subscribe, send them to [Tom Berendt](mailto:tuf29703@temple.edu). Before you participate in the Listserv, [please review the guideines](http://develop.cla.temple.edu/religion/media/RELGSA-Guidelines.pdf).
 
 ## Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
-
-
