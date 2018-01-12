@@ -72,14 +72,14 @@ As a student working toward your MA or PhD in Religion, you’ll be guided towar
 
 Possible concentrations include:
 
-- African Diaspora Christianity
-- Animals and Religion
-- Gender & Religious Community
-- Interfaith Dialogue & Mysticism
+- Africa Diaspora
+- African American Religious Traditions
+- Biblical Studies
+- Buddhism 
+- Gender and Religion
 - Islamic Studies
 - Jewish Studies
-- Religion & Sociology
-- Tibetan Buddhism
+- Religion and Social Science
 
 ## Temple Graduate School Funding
 Financial assistance may be awarded to PhD students based on academic merit.  The Religion Department nominates the strongest candidates for University Fellowships, and offers a limited number of Teaching Assistantships.
