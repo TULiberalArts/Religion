@@ -30,7 +30,7 @@ The diversity of our undergraduate and graduate students mirrors that of the bro
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Major or Minor in Religion"
-    content="Our department is fueled by the wisdown that if you know only one religion you actually don't know any - our mission is global and culturally plualistic."
+    content="Our department is fueled by the wisdom that if you know only one religion you actually don't know any - our mission is global and culturally plualistic."
     image=""
     button-link="undergraduate"
     button-text="Learn More" %}
