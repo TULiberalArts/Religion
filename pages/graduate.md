@@ -25,7 +25,7 @@ sidebar-content: |
 
    ___
 
-   **Administrator:**  
+   **Manager/Administration:**  
    Maggie Cogswell  
    1008A Gladfelter Hall   
    [(215) 204-9209](tel:2152049209)  
@@ -33,16 +33,16 @@ sidebar-content: |
 
    ___
 
-   **Coordinators:**  
+   **Coordinator:**  
    Jemina Quarles  
    614 Anderson Hall    
    [(215) 204-3663](tel:2152043663)  
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
 ## Earn an MA or PhD in Religion
-As part of a major secular public university, the Department of Religion at Temple deals with religion as an academic discipline without bias or favoritism for one religious or philosophical tradition over another. Because the academic study of religion is multidisciplinary, our courses draw from art, history, literature, philosophy, politics and the social sciences. While part of our graduate program’s purpose is to offer broad yet penetrating coverage of the general phenomena of religion, it also focuses on certain themes rooted in the expertise of our faculty. 
+As part of a major secular public university, the Department of Religion at Temple treats religion in a scholarly manner without bias or favoritism for one religious or philosophical tradition over another and without preference for any particular form of spirituality or any single methodological or theoretical approach. The academic study of religion is multidisciplinary; our courses draw from themes rooted in the expertise of our faculty. 
 
-Please visit the [Religion Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/religion) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Religion Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/religion) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. _We strongly encourage PhD applicants to reach out to faculty members currently accepting students prior to applying to the program_. 
 
 These themes include the following:
 
@@ -50,7 +50,7 @@ These themes include the following:
 - **Historical Texts and Traditions:** This emphasis involves the careful study of texts as an important point of access into religious belief systems, traditions, rituals and practices in their historical (and current) contexts. Among the texts studied are the Hebrew Bible, New Testament and Early Christian texts, Rabbinic texts, Muslim religious and jurisprudential texts, and Chinese (Buddhist, Confucian, Taoist) religious and philosophical texts.
 - **Religion and Society:** What is religion’s influence on society? How do social forces influence religion? These questions have gripped intellectuals for centuries, and they remain central to the study of religion today. All scholars of religion must consider certain fundamental social questions. For example, what is the impact of religion on American politics? What is bovine veneration and why does Hinduism encourage it?
 
-Students in our MA or PhD in Religion programs take a combination of foundations courses and specialized seminars. Foundations courses cover a broad range of religious traditions. Each course covers the basic thought, practices and history of one of the following: African religions, African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Islam or Judaism. Other Foundations courses deal with methodologies in the study of religion, including historical-textual, philosophyical and social scientific approaches. Advanced or specialized seminars deal with religion in context of ethnicity, place, race and time.
+Students in our MA or PhD in Religion programs take a combination of foundations courses and specialized seminars. Foundations courses cover a broad range of religious traditions. Each course covers the basic thought, practices and history of one of the following: African religions, African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Islam or Judaism. Other Foundations courses deal with methodologies in the study of religion, including historical-textual, philosophical and social scientific approaches. Advanced or specialized seminars deal with religion in context of ethnicity, place, race and time.
 
 ## MA in Religion
 The MA program in Religion at Temple University focuses on the multidisciplinary academic study of religious traditions and texts. The MA program provides increased cultural and cross-cultural analytical skills and prepares students to work in fields, such as business, government, journalism, medicine or social work, in addition to preparing students for a doctoral program in Religion.
@@ -58,7 +58,7 @@ The MA program in Religion at Temple University focuses on the multidisciplinary
 [Learn More about the MA in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
 
 ## PhD in Religion
-The PhD program in Religion at Temple University focuses on the multidisciplinary academic study of global religious traditions and texts. Our faculty have a broad range of specializations, giving our program both breadth and cross-cultural diversity. Our program has a long history of attracting students from all over the world, and our graduates work in major North American, African, Asian and European universities. 
+The PhD program in Religion at Temple University focuses on the multidisciplinary academic study of global religious traditions and texts. Our faculty have a broad range of specializations, giving our program both breadth and cross-cultural diversity. Visit our [faculty page](http://www.cla.temple.edu/religion/faculty/) for faculty members currently accepting students. 
 
 [Learn More about the PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
 
