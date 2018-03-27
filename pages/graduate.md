@@ -72,7 +72,6 @@ Please visit the [Religion Graduate Admissions page](https://liberalarts.temple.
 As a student working toward your MA or PhD in Religion, you’ll be guided toward a concentration based on your interests and the available resources at the department.
 
 Possible concentrations include:
-
 - Africa Diaspora
 - African American Religious Traditions
 - Biblical Studies
@@ -81,6 +80,17 @@ Possible concentrations include:
 - Islamic Studies
 - Jewish Studies
 - Religion and Social Science
+
+**The following graduate faculty members are currently accepting students:**  
+- [Dr. Zain Abudullah](https://liberalarts.temple.edu/academics/faculty/abdullah-zain) 
+- [Dr. Khalid Blankinship](https://liberalarts.temple.edu/academics/faculty/blankinship-khalid-y) 
+- [Dr. Marcus Bingenheimer](https://liberalarts.temple.edu/academics/faculty/bingenheimer-marcus)  
+- [Dr. Douglas Duckworth](https://liberalarts.temple.edu/academics/faculty/duckworth-douglas)  
+- [Dr. Nyasha Junior](https://liberalarts.temple.edu/academics/faculty/junior-nyasha) 
+- [Dr. Laura Levitt](https://liberalarts.temple.edu/academics/faculty/levitt-laura)  
+- [Dr. Shig Nagatomo](https://liberalarts.temple.edu/academics/faculty/nagatomo-shigenori) 
+- [Dr. Jeremy Schipper](https://liberalarts.temple.edu/academics/faculty/schipper-jeremy)  
+- [Dr. Terry Rey](https://liberalarts.temple.edu/academics/faculty/rey-terry) 
 
 ## Temple Graduate School Funding
 Financial assistance may be awarded to PhD students based on academic merit.  The Religion Department nominates the strongest candidates for University Fellowships, and offers a limited number of Teaching Assistantships.
