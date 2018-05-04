@@ -4,9 +4,7 @@ permalink: /next-stops/
 description: >-
   Religion majors develop an in-demand skill set. With a degree in religion from
   Temple University, the world is at your fingertips.
-keywords: >-
-  Temple Department of Religion, jobs for religion majors, Careers in Religious
-  Studies, Religious Studies Jobs
+keywords: 'careers in religious studies, apply, transfer, visit'
 layout: page
 published: true
 ---
