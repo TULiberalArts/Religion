@@ -4,9 +4,7 @@ permalink: /undergraduate/
 description: >-
   Major or minor in Religion at Temple University. Study comparative religion in
   the historical and cultural mecca of Philadelphia.
-keywords: >-
-  BA in Religion, major in religion, temple department of religion, minor in
-  religion
+keywords: 'BA in Religion, major in religion, advising, minor in religion, fly in four, tuition, advising, admissions' 
 layout: page
 published: true
 sidebar: true
