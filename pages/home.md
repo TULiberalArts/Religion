@@ -4,9 +4,7 @@ permalink: /
 description: >-
   Study religion at Temple University. We offer courses in all major religions,
   with an emphasis on the comparison and intersection of their traditions.
-keywords: >-
-  Temple Department of Religion, graduate program in religion, PhD in Religion,
-  MA in Religion 
+keywords: 'academic offerings, BA, MA, certificate, Reliogion at Temple' 
 layout: home3
 feature: true
 feature-title: 
