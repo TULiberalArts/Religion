@@ -1,12 +1,15 @@
 ---
-title: Graduate
+# global predefined variables
+layout: page
 permalink: /graduate/
+published: true
+# meta-data variables
+title: Graduate
 description: >-
   Earn your MA or PhD in Religion from Temple University. Specialize in Buddhist
   Studies, Islamic Studies, Jewish Studies or comparative religion.
 keywords: 'Department of Religion, PhD, MA, Graduate Program in Religion, admissions, graduate funding, tuition, graduate student association'
-layout: page
-published: true
+# custom variables
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -38,9 +41,9 @@ sidebar-content: |
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
 ## Earn an MA or PhD in Religion
-As part of a major secular public university, the Department of Religion at Temple treats religion in a scholarly manner without bias or favoritism for one religious or philosophical tradition over another and without preference for any particular form of spirituality or any single methodological or theoretical approach. The academic study of religion is multidisciplinary; our courses draw from themes rooted in the expertise of our faculty. 
+As part of a major secular public university, the Department of Religion at Temple treats religion in a scholarly manner without bias or favoritism for one religious or philosophical tradition over another and without preference for any particular form of spirituality or any single methodological or theoretical approach. The academic study of religion is multidisciplinary; our courses draw from themes rooted in the expertise of our faculty.
 
-Please visit the [Religion Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/religion) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. _We strongly encourage PhD applicants to reach out to faculty members currently accepting students prior to applying to the program_. 
+Please visit the [Religion Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/religion) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. _We strongly encourage PhD applicants to reach out to faculty members currently accepting students prior to applying to the program_.
 
 These themes include the following:
 
@@ -56,14 +59,14 @@ The MA program in Religion at Temple University focuses on the multidisciplinary
 [Learn More about the MA in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
 
 ## PhD in Religion
-The PhD program in Religion at Temple University focuses on the multidisciplinary academic study of global religious traditions and texts. Our faculty have a broad range of specializations, giving our program both breadth and cross-cultural diversity. Visit our [faculty page](http://www.cla.temple.edu/religion/faculty/) for faculty members currently accepting students. 
+The PhD program in Religion at Temple University focuses on the multidisciplinary academic study of global religious traditions and texts. Our faculty have a broad range of specializations, giving our program both breadth and cross-cultural diversity. Visit our [faculty page](http://www.cla.temple.edu/religion/faculty/) for faculty members currently accepting students.
 
 [Learn More about the PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
 
 ## Academic Partnerships and Exchanges
 We have strong relationships with other programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) in addition to outside secular and reigious institutions. These include the Eastern Baptist Theological Seminary, the Lutheran Theological Seminary, the University of Pennsylvania's Department of Religious Studies and the Reconstructionist Rabbinical College in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program.
 
-## Admissions Process 
+## Admissions Process
 Please visit the [Religion Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/religion) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Academic Concentration
@@ -73,22 +76,22 @@ Possible concentrations include:
 - Africa Diaspora
 - African American Religious Traditions
 - Biblical Studies
-- Buddhism 
+- Buddhism
 - Gender and Religion
 - Islamic Studies
 - Jewish Studies
 - Religion and Social Science
 
 **The following graduate faculty members are currently accepting students:**  
-- [Dr. Zain Abudullah](https://liberalarts.temple.edu/academics/faculty/abdullah-zain) 
-- [Dr. Khalid Blankinship](https://liberalarts.temple.edu/academics/faculty/blankinship-khalid-y) 
+- [Dr. Zain Abudullah](https://liberalarts.temple.edu/academics/faculty/abdullah-zain)
+- [Dr. Khalid Blankinship](https://liberalarts.temple.edu/academics/faculty/blankinship-khalid-y)
 - [Dr. Marcus Bingenheimer](https://liberalarts.temple.edu/academics/faculty/bingenheimer-marcus)  
 - [Dr. Douglas Duckworth](https://liberalarts.temple.edu/academics/faculty/duckworth-douglas)  
-- [Dr. Nyasha Junior](https://liberalarts.temple.edu/academics/faculty/junior-nyasha) 
+- [Dr. Nyasha Junior](https://liberalarts.temple.edu/academics/faculty/junior-nyasha)
 - [Dr. Laura Levitt](https://liberalarts.temple.edu/academics/faculty/levitt-laura)  
-- [Dr. Shig Nagatomo](https://liberalarts.temple.edu/academics/faculty/nagatomo-shigenori) 
+- [Dr. Shig Nagatomo](https://liberalarts.temple.edu/academics/faculty/nagatomo-shigenori)
 - [Dr. Jeremy Schipper](https://liberalarts.temple.edu/academics/faculty/schipper-jeremy)  
-- [Dr. Terry Rey](https://liberalarts.temple.edu/academics/faculty/rey-terry) 
+- [Dr. Terry Rey](https://liberalarts.temple.edu/academics/faculty/rey-terry)
 
 ## Temple Graduate School Funding
 Financial assistance may be awarded to PhD students based on academic merit.  The Religion Department nominates the strongest candidates for University Fellowships, and offers a limited number of Teaching Assistantships.
@@ -99,9 +102,9 @@ Students are nominated for Presidential, University, and Future Faculty Fellowsh
 **Teaching Assistantships**
 Teaching Assistants are required to provide 20 hours of service per week to Temple. TAs receive tuition remission for courses (up to nine credits) that contribute to the student’s program of study, plus a stipend.
  
-The Scholarship Awards Committee makes Teaching Assistantship decisions in the Spring semester.  Currently enrolled PhD students who wish to be considered for an assistantship must submit an application to the Chair of the Scholarship Awards Committee.  New applicants for the PhD program are automatically considered. 
+The Scholarship Awards Committee makes Teaching Assistantship decisions in the Spring semester.  Currently enrolled PhD students who wish to be considered for an assistantship must submit an application to the Chair of the Scholarship Awards Committee.  New applicants for the PhD program are automatically considered.
 
-We reserve University Fellowships and Teaching Assistantships for PhD students. Due to limited resources, the department is not able to provide funding to all students. 
+We reserve University Fellowships and Teaching Assistantships for PhD students. Due to limited resources, the department is not able to provide funding to all students.
 
 [Student Financial Services](http://www.temple.edu/grad/finances/index.htm)
 

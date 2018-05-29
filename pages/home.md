@@ -1,18 +1,21 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
+published: true
+# meta-data variables
+title: Home
 description: >-
   Study religion at Temple University. We offer courses in all major religions,
   with an emphasis on the comparison and intersection of their traditions.
-keywords: 'academic offerings, BA, MA, certificate, Reliogion at Temple' 
-layout: home3
+keywords: 'academic offerings, BA, MA, certificate, Reliogion at Temple'
+# custom variables
 feature: true
-feature-title: 
+feature-title:
 feature-image: media/Religion Hero.png
 feature-body: >-
   Understanding what religion is and how it works has never been more important. Religious worldviews factor
   strongly into the arts,   business, diplomacy, law, medical, politics, practice and public health.
-published: true
 ---
 ## Why Study Religion?
 The Temple University Department of Religion was founded in 1961, one of the earliest religion departments ever established at a public or state-related university. Although emerging out an erstwhile school of theology in a private Baptist college, the Department has since its inception seen itself as distinct from seminaries and religion departments in religiously based institutions. Fueled by the wisdom that if you know only one religion you actually don’t know any, our mission has always been global and culturally pluralistic in its scope, and so our faculty consists of scholars with expertise in a wide range of religious traditions and methodological approaches to the study of religion. As such, in addition to researching the contents of histories of religious traditions themselves, we take seriously the ways that religion “improves the human condition and uplifts the human spirit” — to quote the Temple University Mission Statement — though without forsaking the critical analysis of religion’s capacity to sometimes darken that condition and stifle that spirit.

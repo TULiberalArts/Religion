@@ -1,12 +1,15 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: page
 permalink: /undergraduate/
+published: true
+# meta-data variables
+title: Undergraduate
 description: >-
   Major or minor in Religion at Temple University. Study comparative religion in
   the historical and cultural mecca of Philadelphia.
-keywords: 'BA in Religion, major in religion, advising, minor in religion, fly in four, tuition, advising, admissions' 
-layout: page
-published: true
+keywords: 'BA in Religion, major in religion, advising, minor in religion, fly in four, tuition, advising, admissions'
+# custom variables
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -38,7 +41,7 @@ sidebar-content: |
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
 ## Major in Religion at Temple
-If you are interested in working in education, environmental policy, finance, health care or for non-profit groups, consider a major or minor in Religion. A BA in Religion provides you with a range of immediately useful skills that will help you navigate these areas and more. Studying Religion also helps you develop a depth of knowledge about how cultures form, how different communities grow, why conflicts arise and how they are resolved. The Religion major requires only 30 credits and our entry courses regularly overlap with subjects in other areas of study. Our courses are often cross-listed with anthropology, classics, critical languages, English, history, classics, critical languages and sociology. 
+If you are interested in working in education, environmental policy, finance, health care or for non-profit groups, consider a major or minor in Religion. A BA in Religion provides you with a range of immediately useful skills that will help you navigate these areas and more. Studying Religion also helps you develop a depth of knowledge about how cultures form, how different communities grow, why conflicts arise and how they are resolved. The Religion major requires only 30 credits and our entry courses regularly overlap with subjects in other areas of study. Our courses are often cross-listed with anthropology, classics, critical languages, English, history, classics, critical languages and sociology.
 
 [Learn More about Majoring in Religion](http://bulletin.temple.edu/undergraduate/liberal-arts/religion/ba-religion/)
 
@@ -51,7 +54,7 @@ Many students find that with only a few additional courses they can add Religion
 We host events with guest speakers from a variety of backgrounds. Lectures by archaeologists, graphic artists, filmmakers, journalists, musicians and writers regularly give students a direct window into major issues relating to religious communities and ideas.
 
 ## Academic Advising and Professional Development
-Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities. 
+Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities.
 
 [Learn More About Our Advising Staff](https://liberalarts.temple.edu/advising)
 

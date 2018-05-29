@@ -1,15 +1,19 @@
 ---
-title: Next Stops
+# global predefined variables
+layout: tla_page
 permalink: /next-stops/
+published: true
+# meta-data variables
+title: Next Stops
+keywords: 'careers in religious studies, apply, transfer, visit'
 description: >-
   Religion majors develop an in-demand skill set. With a degree in religion from
   Temple University, the world is at your fingertips.
-keywords: 'careers in religious studies, apply, transfer, visit'
-layout: page
-published: true
+# custom variables
+
 ---
 ## What Can I do with a Degree in Religion?
-Religion students graduate from Temple well-positioned to enter many professional disciplines, including business, journalism, law, medicine, philanthropy and politics. Both graduate schools and prospective employers recognize that by studying religion, students engage with a wide variety of ideas, forms of communication and systems of social organization that are extremely useful in developing important professional skills. 
+Religion students graduate from Temple well-positioned to enter many professional disciplines, including business, journalism, law, medicine, philanthropy and politics. Both graduate schools and prospective employers recognize that by studying religion, students engage with a wide variety of ideas, forms of communication and systems of social organization that are extremely useful in developing important professional skills.
 
 Graduates in religion have job titles that include
 

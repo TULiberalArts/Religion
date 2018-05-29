@@ -1,11 +1,15 @@
 ---
-title: Resources
+# global predefined variables
+layout: tla_page
 permalink: /resources/
+published: true
+# meta-data variables
+title: Resources
 description: >-
   Get help with financial aid, study abroad and academic resources at Temple University Department of Religion.
 keywords: 'scholarships, American Academy of Religion, Dialogue Institute, Council on Graduate Studies in Religion, undergraduate awards, support doctoral students'
-layout: page
-published: true
+# custom variables
+
 ---
 ## American Academy of Religion
 The [American Academy of Religion](https://www.aarweb.org/) (AAR) is the major professional association of religion scholars and is closely associated with the Society of Biblical Literature. Graduate students in our programs are encouraged to join these organizations at reduced student rates. MA or PhD students are also encouraged to present papers or serve on panels at meetings; our department usually provides financial support to for these endeavors.
