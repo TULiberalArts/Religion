@@ -40,6 +40,8 @@ sidebar-content: |
    [(215) 204-3663](tel:2152043663)  
    [jemi@temple.edu](mailto:jemi@temple.edu)
 ---
+A Religion master’s degree or PhD from Temple University will open new doors for you in your career while teaching you how to examine the world through new lenses. Learn more about our [MA](#ma-in-religion) in religion or [PhD](#phd-in-religion) in religion, our [academic partnerships and exchanges](#academic-partnerships-and-exchanges), the [admissions process](#admissions-process), your [academic concentration](#academic-concentration) options, your options for [funding](#temple-graduate-school-funding) graduate school, the [Religion Graduate Student Association](#religion-graduate-student-association) and our [tuition and fees](#tuition-and-fees).
+
 ## Earn an MA or PhD in Religion
 As part of a major secular public university, the Department of Religion at Temple treats religion in a scholarly manner without bias or favoritism for one religious or philosophical tradition over another and without preference for any particular form of spirituality or any single methodological or theoretical approach. The academic study of religion is multidisciplinary; our courses draw from themes rooted in the expertise of our faculty.
 
