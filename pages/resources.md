@@ -9,8 +9,18 @@ description: >-
   Get help with financial aid, study abroad and academic resources at Temple University Department of Religion.
 keywords: 'scholarships, American Academy of Religion, Dialogue Institute, Council on Graduate Studies in Religion, undergraduate awards, support doctoral students'
 # custom variables
-
 ---
+Considering earning your religion degree at Temple University’s College of Liberal Arts? Below you’ll find all the resources that will be available to you as a student.
+- [American Academy of Religion](#american-academy-of-religion)
+- [Council on Graduate Studies in Religion](#council-on-graduate-studies-in-religion)
+- [Feinstein Center for American Jewish History](#feinstein-center-for-american-jewish-history)
+- [Journal of Ecumenical Studies](#journal-of-ecumenical-studies)
+- [The Dialogue Institute](#the-dialogue-institute)
+- [Help Support Doctoral Students](#help-support-doctoral-students)
+- [Undergraduate Awards](#undergraduate-awards)
+- [Undergraduate Resources](#undergraduate-resources)
+- [Graduate Resources](#graduate-resources)
+
 ## American Academy of Religion
 The [American Academy of Religion](https://www.aarweb.org/) (AAR) is the major professional association of religion scholars and is closely associated with the Society of Biblical Literature. Graduate students in our programs are encouraged to join these organizations at reduced student rates. MA or PhD students are also encouraged to present papers or serve on panels at meetings; our department usually provides financial support to for these endeavors.
 
@@ -27,8 +37,8 @@ The Department of Religion at Temple University houses and edits the _Journal of
 The [Dialogue Institute](http://dialogueinstitute.org/) (DI), based at Temple University, is associated with the _Journal of Ecumenical Studies_. The DI leads and sustains a movement of inter-religious and inter-cultural dialogue within an academic setting and on a global scale. In partnership with Temple University's Department of Religion, the DI offers graduate courses, independent study and opportunities to contribute original research toward interfaith dialogue. For more information contact the [Dialogue Institute office](mailto:info@dialogueinstitute.org).
 
 ## Help Support Doctoral Students
-### Make a Gift To Our 50TH Anniversay Fund
 
+### Make a Gift To Our 50TH Anniversay Fund
 In celebration of this milestone year, consider contributing to the Department’s 50th Anniversary Fund. The fund supports doctoral students through grants for research, language study and travel to academic conferences. You can make a gift directly online by visiting [giving.temple.edu/religion](giving.temple.edu/religion).
 
 ## Undergraduate Awards
