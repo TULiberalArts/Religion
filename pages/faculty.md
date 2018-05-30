@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: tla_facutly
+layout: tla_faculty
 permalink: /faculty/
 published: true
 # meta-data variables
