@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /graduate/
 published: true
 # meta-data variables
@@ -11,34 +11,7 @@ description: >-
 keywords: 'Department of Religion, PhD, MA, Graduate Program in Religion, admissions, graduate funding, tuition, graduate student association'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Dr. Terry Rey  
-   619 Anderson Hall  
-   [(215) 204-8755](tel:2152048755)  
-   [trey@temple.edu](mailto:trey@temple.edu)  
-   ___
-
-   **Graduate Chair:**  
-   Dr. Jeremy Schipper  
-   613 Anderson Hall    
-   [jeremy.schipper@temple.edu](mailto:jeremy.schipper@temple.edu)  
-
-   ___
-
-   **Manager/Administration:**  
-   Maggie Cogswell  
-   1008A Gladfelter Hall   
-   [(215) 204-9209](tel:2152049209)  
-   [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)  
-
-   ___
-
-   **Coordinator:**  
-   Jemina Quarles  
-   614 Anderson Hall    
-   [(215) 204-3663](tel:2152043663)  
-   [jemi@temple.edu](mailto:jemi@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 A Religion master’s degree or PhD from Temple University will open new doors for you in your career while teaching you how to examine the world through new lenses. Learn more about our [MA](#ma-in-religion) in religion or [PhD](#phd-in-religion) in religion, our [academic partnerships and exchanges](#academic-partnerships-and-exchanges), the [admissions process](#admissions-process), your [academic concentration](#academic-concentration) options, your options for [funding](#temple-graduate-school-funding) graduate school, the [Religion Graduate Student Association](#religion-graduate-student-association) and our [tuition and fees](#tuition-and-fees).
 
