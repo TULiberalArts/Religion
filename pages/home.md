@@ -15,7 +15,7 @@ feature-title:
 feature-image: media/Religion Hero.png
 feature-body: >-
   Understanding what religion is and how it works has never been more important. Religious worldviews factor
-  strongly into the arts,   business, diplomacy, law, medical, politics, practice and public health.
+  strongly into the arts, business, diplomacy, law, medical, politics, practice and public health.
 ---
 ## Why Study Religion?
 Founded in 1961, Temple University’s Department of Religion was one of the earliest religion departments established at a public or state-related university. Although emerging out of an erstwhile school of theology in a private Baptist college, the department has seen itself as distinct from seminaries and religion departments in religiously based institutions since its inception. 
