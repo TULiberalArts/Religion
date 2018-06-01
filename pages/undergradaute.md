@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /undergraduate/
 published: true
 # meta-data variables
@@ -11,34 +11,7 @@ description: >-
 keywords: 'BA in Religion, major in religion, advising, minor in religion, fly in four, tuition, advising, admissions'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Dr. Terry Rey  
-   619 Anderson Hall  
-   [(215) 204-8755](tel:2152048755)  
-   [trey@temple.edu](mailto:trey@temple.edu)  
-    ___  
-
-   **Undergraduate Chair:**  
-   Dr. Mark Leuchter  
-   613 Anderson Hall  
-   [mark.leuchter@temple.edu](mailto:mark.leuchter@temple.edu)  
-
-   ___  
-
-   **Administrator:**  
-   Maggie Cogswell  
-   1008A Gladfelter Hall  
-   [(215) 204-9209](tel:2152049209)  
-   [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)  
-
-   ___  
-
-   **Coordinators:**  
-   Jemina Quarles  
-   614 Anderson Hall  
-   [(215) 204-3663](tel:2152043663)  
-   [jemi@temple.edu](mailto:jemi@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 Temple University students learn to see the world through new perspectives by [majoring](#major-in-religion-at-temple) or [minoring](#minor-in-religion) in Religion and continuing their education [outside the classroom](#learn-outside-the-classroom). Our [academic and professional development](#academic-advising-and-professional-development) advisors will help you map out your college and career goals and [fly in four](#fly-in-four). To get started, estimate your [tuition and fees](#tuition-and-fees), learn about your [financial aid and scholarship](#financial-aid-and-scholarships) options and submit your [application](#undergraduate-admissions). 
 
