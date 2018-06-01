@@ -5,10 +5,10 @@ permalink: /next-stops/
 published: true
 # meta-data variables
 title: Next Stops
-keywords: 'careers in religious studies, apply, transfer, visit'
 description: >-
   Religion majors develop an in-demand skill set. With a degree in religion from
   Temple University, the world is at your fingertips.
+  keywords: 'careers in religious studies, apply, transfer, visit'
 # custom variables
 ---
 What can you do with a religion degree from Temple University? Quite a lot! Your degree will take you far in your career and during your college experience, including to [study abroad](#study-abroad-programs) locations. So, [make your declaration](#make-your-declaration), come [visit us](visit-us), review your [transfer](#thinking-of-transferring) options and [apply](#apply) in time to meet next semester’s [deadlines](#deadlines).
