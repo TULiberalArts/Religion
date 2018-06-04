@@ -6,9 +6,9 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Study religion at Temple University. We offer courses in all major religions,
-  with an emphasis on the comparison and intersection of their traditions.
-keywords: 'academic offerings, BA, MA, certificate, Reliogion at Temple'
+  Study Religion at one of the earliest religion departments established at a public or state university. View our 
+  academic offerings, and earn a BA, MA, or Certificate in Religion at Temple University’s College of Liberal Arts.
+keywords: 'academic offerings, BA, MA, certificate, Religion at Temple'
 # custom variables
 feature: true
 feature-title:
