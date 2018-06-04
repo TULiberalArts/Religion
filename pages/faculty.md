@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Faculty
 description: >-
-  Temple's Department of Religion faculty have expertise in Buddhist, Islamic, Jewish, African American and Christian studies.
+  Meet our faculty in the Religion department of the College of Liberal Arts at Temple University.
 keywords: 'Temple faculty, temple religion faculty, Temple Department of Religion'
 # custom variables
 ---
