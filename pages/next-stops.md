@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Religion majors develop an in-demand skill set. With a degree in religion from
-  Temple University, the world is at your fingertips.
+  See what’s possible with a degree in Religion from the College of Liberal Arts at Temple University. Learn more about study 
+  abroad, careers in religious studies, and transfer options. Make your declaration, visit us, know about our deadlines, and apply!
   keywords: 'careers in religious studies, apply, transfer, visit'
 # custom variables
 ---
