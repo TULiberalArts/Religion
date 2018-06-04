@@ -6,7 +6,9 @@ published: true
 # meta-data variables
 title: Resources
 description: >-
-  Get help with financial aid, study abroad and academic resources at Temple University Department of Religion.
+  Check out resources for students pursuing a degree in Religion from Temple University’s College of Liberal Arts. Learn more about
+  awards and scholarships, the American Academy of Religion, the Dialogue Institute, Council on Graduate Studies in Religion,
+  and how to support doctoral students.
 keywords: 'scholarships, American Academy of Religion, Dialogue Institute, Council on Graduate Studies in Religion, undergraduate awards, support doctoral students'
 # custom variables
 ---
