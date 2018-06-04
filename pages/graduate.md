@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
-  Earn your MA or PhD in Religion from Temple University. Specialize in Buddhist
-  Studies, Islamic Studies, Jewish Studies or comparative religion.
+  Earn your MA or PhD in Religion from Temple University’s College of Liberal Arts. Learn about our academic partnerships
+  and exchanges, admissions process, academic concentrations, funding, tuition and fees, and the Graduate Student Association.
 keywords: 'Department of Religion, PhD, MA, Graduate Program in Religion, admissions, graduate funding, tuition, graduate student association'
 # custom variables
 sidebar: true
