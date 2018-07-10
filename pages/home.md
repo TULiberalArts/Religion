@@ -36,6 +36,8 @@ Our department is fueled by the wisdom that if you know only one religion you ac
 - [Master of Arts in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
 - [Doctor of Philosophy in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/)
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Major or Minor in Religion"
