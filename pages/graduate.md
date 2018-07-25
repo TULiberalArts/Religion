@@ -12,6 +12,8 @@ keywords: 'Department of Religion, PhD, MA, Graduate Program in Religion, admiss
 # custom variables
 sidebar: true
 sidebar_content: sidebars/graduate.html
+graduate_students: true
+graduate_students_content: profiles/graduate_students_2.html
 ---
 A Religion master’s degree or PhD from Temple University will open new doors for you in your career while teaching you how to examine the world through new lenses. Learn more about our [MA](#ma-in-religion) in religion or [PhD](#phd-in-religion) in religion, our [academic partnerships and exchanges](#academic-partnerships-and-exchanges), the [admissions process](#admissions-process), your [academic concentration](#academic-concentration) options, your options for [funding](#temple-graduate-school-funding) graduate school, the [Religion Graduate Student Association](#religion-graduate-student-association) and our [tuition and fees](#tuition-and-fees).
 
