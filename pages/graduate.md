@@ -94,3 +94,6 @@ The GSA gives support and a voice to graduate student concerns. Graduate student
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
+
+___
+
