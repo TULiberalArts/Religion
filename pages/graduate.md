@@ -96,4 +96,3 @@ For more than 130 years, we have focused on providing a world-class education at
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ___
-
