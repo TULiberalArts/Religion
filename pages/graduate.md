@@ -77,7 +77,7 @@ Students are nominated for Presidential, University, and Future Faculty Fellowsh
 **Teaching Assistantships**
 Teaching Assistants are required to provide 20 hours of service per week to Temple. TAs receive tuition remission for courses (up to nine credits) that contribute to the student’s program of study, plus a stipend.
  
-The Scholarship Awards Committee makes Teaching Assistantship decisions in the Spring semester.  Currently enrolled PhD students who wish to be considered for an assistantship must submit an application to the Chair of the Scholarship Awards Committee.  New applicants for the PhD program are automatically considered.
+The Scholarship Awards Committee makes Teaching Assistantship decisions in the Spring semester.  Currently enrolled PhD students who wish to be considered for an assistantship must submit an application to the Chair of the Scholarship Awards Committee. New applicants for the PhD program are automatically considered.
 
 We reserve University Fellowships and Teaching Assistantships for PhD students. Due to limited resources, the department is not able to provide funding to all students.
 
