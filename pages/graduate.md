@@ -20,8 +20,6 @@ A Religion master’s degree or PhD from Temple University will open new doors f
 ## Earn an MA or PhD in Religion
 As part of a major secular public university, the Department of Religion at Temple treats religion in a scholarly manner without bias or favoritism for one religious or philosophical tradition over another and without preference for any particular form of spirituality or any single methodological or theoretical approach. The academic study of religion is multidisciplinary; our courses draw from themes rooted in the expertise of our faculty.
 
-Please visit the [Religion Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/religion) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. _We strongly encourage PhD applicants to reach out to faculty members currently accepting students prior to applying to the program_.
-
 These themes include the following:
 
 - **Critical Investigation of Religion and Human Differences:** This area builds upon and acknowledges our legacy of inter-religious, cross-religious dialogue and critical engagement — a legacy that began 50 years ago. We continue to work among and between religious traditions upholding a strong commitment to the intersections of religion with race, ethnicity, gender, sexuality and disability.
@@ -44,7 +42,7 @@ Learn More about the [PhD in Religion](http://bulletin.temple.edu/graduate/scd/c
 We have strong relationships with other programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) in addition to outside secular and reigious institutions. These include the Eastern Baptist Theological Seminary, the Lutheran Theological Seminary, the University of Pennsylvania's Department of Religious Studies and the Reconstructionist Rabbinical College in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program.
 
 ## Admissions Process
-Please visit the [Religion Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Religion Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.  _We strongly encourage PhD applicants to reach out to faculty members currently accepting students prior to applying to the program_.
 
 ## Academic Concentration
 As a student working toward your MA or PhD in Religion, you’ll be guided toward a concentration based on your interests and the available resources at the department.
