@@ -33,18 +33,18 @@ Students in our MA or PhD in Religion programs take a combination of foundations
 ## MA in Religion
 The MA program in Religion at Temple University focuses on the multidisciplinary academic study of religious traditions and texts. The MA program provides increased cultural and cross-cultural analytical skills and prepares students to work in fields, such as business, government, journalism, medicine or social work, in addition to preparing students for a doctoral program in Religion.
 
-[Learn More about the MA in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
+Learn More about the [MA in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
 
 ## PhD in Religion
 The PhD program in Religion at Temple University focuses on the multidisciplinary academic study of global religious traditions and texts. Our faculty have a broad range of specializations, giving our program both breadth and cross-cultural diversity. Visit our [faculty page](http://www.cla.temple.edu/religion/faculty/) for faculty members currently accepting students.
 
-[Learn More about the PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
+Learn More about the [PhD in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-phd/#text)
 
 ## Academic Partnerships and Exchanges
 We have strong relationships with other programs in the [College of Liberal Arts](https://liberalarts.temple.edu/) in addition to outside secular and reigious institutions. These include the Eastern Baptist Theological Seminary, the Lutheran Theological Seminary, the University of Pennsylvania's Department of Religious Studies and the Reconstructionist Rabbinical College in Philadelphia. A coordinated MA/PhD program in Islamic-Christian Relations is conducted with Hartford Theological Seminary and a Graduate Certificate in Women's Studies is offered in cooperation with Temple's Women's Studies Program.
 
 ## Admissions Process
-Please visit the [Religion Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/religion) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Religion Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Academic Concentration
 As a student working toward your MA or PhD in Religion, you’ll be guided toward a concentration based on your interests and the available resources at the department.
