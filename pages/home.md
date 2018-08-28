@@ -6,16 +6,18 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Study Religion at one of the earliest religion departments established at a public or state university. View our 
+  Study Religion at one of the earliest religion departments established at a public or state university. View our
   academic offerings, and earn a BA, MA, or Certificate in Religion at Temple University’s College of Liberal Arts.
 keywords: 'academic offerings, BA, MA, certificate, Religion at Temple'
 # custom variables
 feature: true
+promotion-table: true
+sidebar: false
 feature-title:
 feature-image: media/Religion Hero.png
 feature-body: >-
   Our goal is to provide students, graduates and undergraduates alike, with a heightened
-  awareness of the way religion functions in American and global society. 
+  awareness of the way religion functions in American and global society.
 ---
 ## Why Study Religion?
 Founded in 1961, Temple University’s Department of Religion was one of the earliest religion departments established at a public or state-related university.   Although emerging out of an erstwhile school of theology in a private Baptist college, the department has seen itself as distinct from seminaries and religion departments in religiously based institutions since its inception.
@@ -23,7 +25,7 @@ Founded in 1961, Temple University’s Department of Religion was one of the ear
 The Religion Department’s mission was fueled by the wisdom of the great scholar of comparative religion Max Mueller, “that if you know only one religion, you really don’t know any…”.   Our goal is to provide students, graduates and undergraduate alike, with a broad understanding of a wide variety of religion traditions and a heightened awareness of the way religion functions in American and global society. We encourage you to follow our alumni, faculty and students as they reach beyond the classroom and engage in research and service, all while showing how religion interfaces with race, ethnicity, gender, sexuality, and class.
 
 ## A Broad and Diverse Learning Community
-The diversity of our undergraduate and graduate students mirrors that of the broader Temple community in terms of race, ethnicity, religious affiliation or non-affiliation, gender, sexuality and national origin. Most graduate students come to our religion master’s degree and PhD programs with the primary goal of developing their expertise in a single religious tradition through critical analysis. Many also have a secondary goal of deepening their understanding of that tradition by studying others and by mastering leading theories and methodologies in the field. 
+The diversity of our undergraduate and graduate students mirrors that of the broader Temple community in terms of race, ethnicity, religious affiliation or non-affiliation, gender, sexuality and national origin. Most graduate students come to our religion master’s degree and PhD programs with the primary goal of developing their expertise in a single religious tradition through critical analysis. Many also have a secondary goal of deepening their understanding of that tradition by studying others and by mastering leading theories and methodologies in the field.
 
 The program is designed with these goals in mind, thereby ensuring that our graduates are capable of teaching outside of their primary areas of expertise. This is partly responsible for our graduates’ excellent track record in gaining faculty appointments in an impressive range of colleges, seminaries and universities. It also reflects one of the department’s great strengths: providing students—graduate and undergraduate alike—with a broad background in numerous religious traditions and a heightened awareness of the way religion functions in American and increasingly interconnected global societies.
 
