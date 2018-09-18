@@ -59,7 +59,7 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Study Abroad in India"
-        content="Explore how religious and secular ideas have found expression in performance arts, the temple, the palace and village traditions in Dhrangadhra, India."
+        content="Our students can benefit from a rich exposure of religion by studying with our established partnerships and exchange programs in conjunction with various institutes."
         image=""
         button-link="https://studyabroad.temple.edu/sites/temple-summer-in-india/living-in-dhrangadhra"
         button-text="Learn More" %}
