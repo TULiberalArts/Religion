@@ -61,7 +61,7 @@ ___
         title="Partnerships & Exchange Programs"
         content="Our students can benefit from a rich exposure of religion by studying with our established partnerships and exchange programs in conjunction with various institutes."
         image=""
-        button-link="religion/graduate#academic-partnerships-and-exchanges/"
+        button-link="/religion/graduate#academic-partnerships-and-exchanges/"
         button-text="Learn More" %}
       </div>
 </div>
