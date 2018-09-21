@@ -58,10 +58,10 @@ ___
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Study Abroad in India"
+        title="Partnerships & Exchange Programs"
         content="Our students can benefit from a rich exposure of religion by studying with our established partnerships and exchange programs in conjunction with various institutes."
         image=""
-        button-link="https://studyabroad.temple.edu/sites/temple-summer-in-india/living-in-dhrangadhra"
+        button-link="religion/graduate#academic-partnerships-and-exchanges/"
         button-text="Learn More" %}
       </div>
 </div>
