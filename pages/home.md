@@ -12,7 +12,7 @@ keywords: 'academic offerings, BA, MA, certificate, Religion at Temple'
 # custom variables
 feature: true
 promotion-table: true
-sidebar: false
+
 feature-title:
 feature-image: media/Religion Hero.png
 feature-body: >-

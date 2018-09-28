@@ -10,8 +10,8 @@ description: >-
   and fly in four at Temple University’s College of Liberal Arts. Review more information on tuition and admissions,
 keywords: 'BA in Religion, major in religion, advising, minor in religion, fly in four, tuition, admissions'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 Temple University students learn to see the world through new perspectives by [majoring](#major-in-religion-at-temple) or [minoring](#minor-in-religion) in Religion and continuing their education [outside the classroom](#learn-outside-the-classroom). Our [academic and professional development](#academic-advising-and-professional-development) advisors will help you map out your college and career goals and [fly in four](#fly-in-four). To get started, estimate your [tuition and fees](#tuition-and-fees), learn about your [financial aid and scholarship](#financial-aid-and-scholarships) options and submit your [application](#undergraduate-admissions). 
 
