@@ -10,9 +10,7 @@ description: >-
   and exchanges, admissions process, academic concentrations, funding, tuition and fees, and the Graduate Student Association.
 keywords: 'Department of Religion, PhD, MA, Graduate Program in Religion, admissions, graduate funding, tuition, graduate student association'
 # custom variables
-
 sidebar: sidebars/graduate.html
-
 graduate_students: profiles/graduate_students_2.html
 ---
 A Religion master’s degree or PhD from Temple University will open new doors for you in your career while teaching you how to examine the world through new lenses. Learn more about our [MA](#ma-in-religion) in religion or [PhD](#phd-in-religion) in religion, our [academic partnerships and exchanges](#academic-partnerships-and-exchanges), the [admissions process](#admissions-process), your [academic concentration](#academic-concentration) options, your options for [funding](#temple-graduate-school-funding) graduate school, the [Religion Graduate Student Association](#religion-graduate-student-association) and our [tuition and fees](#tuition-and-fees).
@@ -76,7 +74,7 @@ Students are nominated for Presidential, University, and Future Faculty Fellowsh
 
 **Teaching Assistantships**
 Teaching Assistants are required to provide 20 hours of service per week to Temple. TAs receive tuition remission for courses (up to nine credits) that contribute to the student’s program of study, plus a stipend.
- 
+
 The Scholarship Awards Committee makes Teaching Assistantship decisions in the Spring semester.  Currently enrolled PhD students who wish to be considered for an assistantship must submit an application to the Chair of the Scholarship Awards Committee. New applicants for the PhD program are automatically considered.
 
 We reserve University Fellowships and Teaching Assistantships for PhD students. Due to limited resources, the department is not able to provide funding to all students.
@@ -95,4 +93,4 @@ For more than 130 years, we have focused on providing a world-class education at
 
 ___
 
-{% include {{ page.graduate_students_content }} %}
+{% include {{ page.graduate_students }} %}
