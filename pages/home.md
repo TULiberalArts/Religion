@@ -10,9 +10,6 @@ description: >-
   academic offerings, and earn a BA, MA, or Certificate in Religion at Temple University’s College of Liberal Arts.
 keywords: 'academic offerings, BA, MA, certificate, Religion at Temple'
 # custom variables
-promotion-table: true
-feature: true
-feature-title:
 feature-image: media/Religion Hero.png
 feature-body: >-
   Our goal is to provide students, graduates and undergraduates alike, with a heightened
