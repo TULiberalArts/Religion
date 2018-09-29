@@ -9,7 +9,7 @@ description: >-
   Check out resources for students pursuing a degree in Religion from Temple University’s College of Liberal Arts. Learn more about
   awards and scholarships, the American Academy of Religion, the Dialogue Institute, Council on Graduate Studies in Religion,
   and how to support doctoral students.
-keywords: 'scholarships, American Academy of Religion, Dialogue Institute, Council on Graduate Studies in Religion, undergraduate awards, support doctoral students'
+keywords: 'scholarships, American Academy of Religion, Dialogue Institute'
 # custom variables
 ---
 Considering earning your religion degree at Temple University’s College of Liberal Arts? Below you’ll find all the resources that will be available to you as a student.
