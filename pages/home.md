@@ -11,7 +11,7 @@ description: >-
 keywords: 'academic offerings, BA, MA, certificate, Religion at Temple'
 # custom variables
 feature: true
-feature-image: media/Religion Hero.png
+feature-image: media/religion-hero.png
 feature-body: >-
   Our goal is to provide students, graduates and undergraduates alike, with a heightened
   awareness of the way religion functions in American and global society.
