@@ -38,7 +38,7 @@ Our department is fueled by the wisdom that if you know only one religion you ac
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Major or Minor in Religion"
     content="Our department is fueled by the wisdom that if you know only one religion you actually don't know any - our mission is global and culturally plualistic."
     image=""
@@ -46,7 +46,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="American Academy of Religion"
       content="The American Academy of Religion (AAR) is the major professional association of religion scholars and is closely associated with the Society of Biblical Literature. Graduate students in our program are encouraged to present papers or serve on panels at meetings."
       image=""
@@ -54,7 +54,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Partnerships & Exchange Programs"
         content="Our students can benefit from a rich exposure of religion by studying with our established partnerships and exchange programs in conjunction with various institutes."
         image=""
