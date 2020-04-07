@@ -55,7 +55,7 @@ Almost half of incoming Temple students transfer from other colleges and univers
 Ready to apply? [submit your application online](http://admissions.temple.edu/apply).
 
 ## Deadlines
-- **Feb. 1**: Freshman Application Deadline for Fall Semester
-- **March 1**: FAFSA Financial Aid Application Deadline
-- **Nov. 1**: Transfer Deadline for Spring Semester
+- **February 1**: Freshman Application Deadline for Fall Semester
+- **February 1**: FAFSA Financial Aid Application Deadline
+- **November 1**: Transfer Deadline for Spring Semester
 - **June 1**: Transfer Deadline for Fall Semester
