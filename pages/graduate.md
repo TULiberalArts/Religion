@@ -12,7 +12,7 @@ keywords: 'Department of Religion, PhD, MA, Graduate Program in Religion, admiss
 # custom variables
 sidebar: sidebars/graduate.html
 ---
-A Religion master’s degree or PhD from Temple University will open new doors for you in your career while teaching you how to examine the world through new lenses. Learn more about our [MA](#ma-in-religion) in religion or [PhD](#phd-in-religion) in religion, our [academic partnerships and exchanges](#academic-partnerships-and-exchanges), the [admissions process](#admissions-process), your [academic concentration](#academic-concentration) options, your options for [funding](#temple-graduate-school-funding) graduate school, the [Religion Graduate Student Association](#religion-graduate-student-association) and our [tuition and fees](#tuition-and-fees).
+A Religion master’s degree or PhD from Temple University will open new doors for you in your career while teaching you how to examine the world through new lenses. Learn more about our [MA](#master-of-arts-in-religion) in religion or [PhD](#phd-in-religion) in religion, our [academic partnerships and exchanges](#academic-partnerships-and-exchanges), the [admissions process](#admissions-process), your [academic concentration](#academic-concentration) options, your options for [funding](#temple-graduate-school-funding) graduate school, the [Religion Graduate Student Association](#religion-graduate-student-association) and our [tuition and fees](#tuition-and-fees).
 
 ## Earn an MA or PhD in Religion
 As part of a major secular public university, the Department of Religion at Temple treats religion in a scholarly manner without bias or favoritism for one religious or philosophical tradition over another and without preference for any particular form of spirituality or any single methodological or theoretical approach. The academic study of religion is multidisciplinary; our courses draw from themes rooted in the expertise of our faculty.
@@ -25,7 +25,7 @@ These themes include the following:
 
 Students in our MA or PhD in Religion programs take a combination of foundations courses and specialized seminars. Foundations courses cover a broad range of religious traditions. Each course covers the basic thought, practices and history of one of the following: African religions, African American religions, Buddhism, Chinese religions, Christianity, Hinduism, Islam or Judaism. Other Foundations courses deal with methodologies in the study of religion, including historical-textual, philosophical and social scientific approaches. Advanced or specialized seminars deal with religion in context of ethnicity, place, race and time.
 
-## MA in Religion
+## Master of Arts in Religion
 The MA program in Religion at Temple University focuses on the multidisciplinary academic study of religious traditions and texts. The MA program provides increased cultural and cross-cultural analytical skills and prepares students to work in fields, such as business, government, journalism, medicine or social work, in addition to preparing students for a doctoral program in Religion.
 
 Learn More about the [MA in Religion](http://bulletin.temple.edu/graduate/scd/cla/religion-ma/)
