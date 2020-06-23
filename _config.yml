@@ -47,7 +47,7 @@ articles-feed: https://liberalarts.temple.edu/articles/religion/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/religion/csv
 media-mentions-feed: https://liberalarts.temple.edu/media-mentions/religion/csv
 
-# Social Media
+# Social Media 
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
