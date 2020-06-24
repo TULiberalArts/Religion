@@ -11,10 +11,10 @@ description: >-
   keywords: 'careers in religious studies, apply, transfer, visit'
 # custom variables
 ---
-What can you do with a religion degree from Temple University? Quite a lot! Your degree will take you far in your career and during your college experience, including to [study abroad](#study-abroad-programs) locations. So, [make your declaration](#make-your-declaration), come [visit us](visit-us), review your [transfer](#thinking-of-transferring) options and [apply](#apply) in time to meet next semester’s [deadlines](#deadlines).
+What can you do with a Temple University Religion degree? A lot! Your degree will take you far in your career and during your college experience, including to [study abroad](#study-abroad-programs) locations. So, [make your declaration](#make-your-declaration), come [visit us](visit-us), review your [transfer](#thinking-of-transferring) options and [apply](#apply) in time to meet next semester’s [deadlines](#deadlines).
 
 ## What Can I Do With a Degree in Religion?
-Religion students graduate from Temple well-positioned to enter many professional disciplines, including business, journalism, law, medicine, philanthropy and politics. Both graduate schools and prospective employers recognize that by studying religion, students engage with a wide variety of ideas, forms of communication and systems of social organization that are extremely useful in developing important professional skills.
+Religion students that graduate from Temple are well-positioned to enter many professional disciplines, including business, journalism, law, medicine, philanthropy and politics. Both graduate schools and prospective employers recognize that by studying religion, students engage with a wide variety of ideas, forms of communication and systems of social organization that are extremely useful in developing important professional skills.
 
 Graduates in religion have job titles that include
 - High School Teacher
