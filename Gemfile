@@ -12,7 +12,7 @@ ruby RUBY_VERSION
 # This will help ensure the proper Jekyll version is running.
 # Must at least Jekyll 3.3 for theme support
 # Happy Jekylling!
-gem "jekyll", "~> 3.7"
+gem "jekyll", "~> 3.9.0"
 
 # This is the default theme for new Jekyll sites.
 gem "minima"
@@ -35,3 +35,6 @@ gem "yaml_command"
 # end
 gem "jekyll-redirect-from"
 
+# kramdown v2 ships without the gfm parser by default. If you're using
+# kramdown v1, comment out this line.
+gem "kramdown-parser-gfm"
